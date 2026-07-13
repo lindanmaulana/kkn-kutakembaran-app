@@ -1,11 +1,12 @@
+import { FloatingAction } from '@/components/elements/floating-action';
+import { Footer } from '@/components/elements/footer';
+import { Header } from '@/components/elements/header';
+import { TooltipProvider } from '@/components/ui/tooltip';
 import { urbanist } from '@/config/fonts';
 import { cn } from '@/lib/utils';
 import type { Metadata } from 'next';
 import { Figtree } from 'next/font/google';
-import { Header } from '@/app/(home)/_components/header';
 import './globals.css';
-import { TooltipProvider } from '@/components/ui/tooltip';
-import { Footer } from '@/app/(home)/_components/footer';
 
 const figtree = Figtree({ subsets: ['latin'], variable: '--font-sans' });
 
@@ -15,10 +16,10 @@ export const metadata: Metadata = {
 		template: '%s | KKN Kolaboratif Kuta Kembaran',
 	},
 	icons: {
-        icon: '/icon.png',
-        shortcut: '/icon.png',
-        apple: '/icon.png',
-    },
+		icon: '/icon.png',
+		shortcut: '/icon.png',
+		apple: '/icon.png',
+	},
 	description:
 		'Portal resmi KKN Kolaboratif 2026 di Desa Kuta Kembaran, Kabupaten Kuningan. Wadah aspirasi, digitalisasi layanan desa, publikasi program kerja, dan sinergi nyata mahasiswa lintas perguruan tinggi bersama masyarakat.',
 	keywords: [
@@ -80,9 +81,11 @@ export default function RootLayout({
 		<html
 			lang="en"
 			className={cn('h-full scroll-smooth', 'antialiased', 'font-sans', figtree.variable, urbanist.variable)}
+			data-scroll-behavior="smooth"
 		>
 			<body className="min-h-full flex flex-col">
 				<Header />
+				<FloatingAction />
 				<TooltipProvider>{children}</TooltipProvider>
 				<Footer />
 			</body>

@@ -1,0 +1,1 @@
+export const IMAGE_DEFAULT = '/assets/images/logo/logo-kkn.png'

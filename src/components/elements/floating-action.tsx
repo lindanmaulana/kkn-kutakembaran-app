@@ -28,7 +28,7 @@ export const FloatingAction = () => {
 					width={10}
 					height={10}
 					alt="Whatsapp"
-					className="size-10"
+					className="size-10 md:size-14"
 					unoptimized
 				/>
 			</a>

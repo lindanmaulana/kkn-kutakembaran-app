@@ -14,7 +14,6 @@ export default function Home() {
 		<>
 			<div id="hero-trigger" />
 			<HeroBanner />
-			<FloatingAction />
 			<NewsSection />
 			<CollaborationSection />
 			<AboutUsSection />

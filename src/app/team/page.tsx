@@ -1,7 +1,11 @@
-import { ComingSoon } from '@/components/elements/coming-soon';
+import { ProfileMemberSection } from '@/app/team/_sections/profile-member-section';
 
 const TeamPage = () => {
-	return <ComingSoon />;
+	return (
+		<>
+			<ProfileMemberSection />
+		</>
+	);
 };
 
 export default TeamPage;
