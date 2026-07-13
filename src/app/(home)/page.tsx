@@ -5,8 +5,9 @@ import { AboutUsSection } from '@/app/(home)/_sections/about-us-section';
 import { TargetSection } from '@/app/(home)/_sections/target-section';
 import { ObjectiveSection } from '@/app/(home)/_sections/objective-section';
 import { TeamSection } from '@/app/(home)/_sections/team-section';
-import { FloatingAction } from '@/components/elements/floating-action';
 import { FaqSection } from '@/app/(home)/_sections/faq-section';
+import { ReportSection } from '@/app/(home)/_sections/report-section';
+import { FloatingAction } from '@/components/elements/floating-action';
 
 export default function Home() {
 	return (
@@ -21,6 +22,7 @@ export default function Home() {
 			<ObjectiveSection />
 			<TeamSection />
 			<FaqSection />
+			<ReportSection />
 		</>
 	);
 }

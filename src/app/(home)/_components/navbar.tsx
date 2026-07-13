@@ -15,7 +15,6 @@ interface NavbarProps {
 
 export const Navbar = ({ scrolled = false, isMobile = false, setIsOpen }: NavbarProps) => {
 	const pathname = usePathname();
-
 	const [openDropdown, setOpenDropdown] = useState<string | null>(null);
 
 	const handleLinkClick = () => {
@@ -93,7 +92,7 @@ export const Navbar = ({ scrolled = false, isMobile = false, setIsOpen }: Navbar
 
 									<div
 										className={cn(
-											'bg-white w-full lg:w-56 rounded-lg flex flex-col gap-0.5 z-50 overflow-hidden py-1.5 transition-all duration-200',
+											'bg-white w-full lg:w-56 rounded-lg flex flex-col gap-0.5 z-50 overflow-hidden py-1.5 transition-all duration-200 p-2',
 											isMobile
 												? cn(
 														'pl-4 border-l-2 border-gray-100 space-y-1 origin-top',

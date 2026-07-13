@@ -22,7 +22,7 @@ export const FloatingAction = () => {
 					</Button>
 				</div>
 			</Activity>
-			<a href="">
+			<a href="https://wa.me/6283823026580">
 				<Image
 					src={'/assets/icons/whatsapp-icon.png'}
 					width={10}

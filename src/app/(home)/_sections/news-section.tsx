@@ -17,7 +17,7 @@ export const NewsSection = () => {
 							Berita KKN
 						</h2>
 
-						<ScrollArea className="w-full h-87.5 md:h-100 lg:h-105 pr-4">
+						<ScrollArea className="w-full h-87.5 md:h-100 lg:h-105 pr-4 *:data-radix-scroll-area-viewport:scrollbar-none">
 							<div className="flex flex-col gap-4">
 								{NEWS_DATA.map((news) => (
 									<article
