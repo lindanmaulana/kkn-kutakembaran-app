@@ -15,7 +15,7 @@ export const ProfileCard = ({ member }: ProfileCardProps) => {
 		<Link
 			key={member.id}
 			href={`/team/${member.slug}`}
-			className="group block p-5 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-gray-200 transition-all duration-300 space-y-4"
+			className="w-fit mx-auto group block p-5 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-gray-200 transition-all duration-300 space-y-4"
 		>
 			<figure className="relative aspect-square w-full max-w-60 mx-auto rounded-xl overflow-hidden bg-gray-50">
 				<div className="absolute top-3 right-3 z-10 p-1.5 bg-white/90 backdrop-blur-sm rounded-lg shadow-sm group-hover:bg-kutakembaran-gold group-hover:text-white transition-all duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
