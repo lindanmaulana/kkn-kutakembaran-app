@@ -159,7 +159,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     },
     {
         id: 'tm-13',
-        slug: 'ani Inayah',
+        slug: 'ani-inayah',
         name: 'Ani Inayah',
         role: MemberRole.PDD_2,
         major: 'PGSD',

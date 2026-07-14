@@ -34,7 +34,7 @@ export const MemberCarousel = ({ members }: MemberCarouselProps) => {
 					loop: true,
 				}}
 			>
-				<CarouselContent className="-ml-4">
+				<CarouselContent className="-ml-4 py-4">
 					{members.map((otherMember) => (
 						<CarouselItem
 							key={otherMember.id}
