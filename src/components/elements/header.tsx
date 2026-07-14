@@ -43,8 +43,10 @@ export const Header = () => {
 								!isHome || scrolled ? 'text-kutakembaran-blue' : 'text-white',
 							)}
 						>
-							<span className="text-sm md:text-base leading-none">KKN</span>
-							<span className="text-xs md:text-sm tracking-wide mt-0.5">Kolaboratif</span>
+							<span className="text-sm md:text-base leading-none">KKN Kolaboratif</span>
+							<span className="text-[10px] md:text-xs tracking-wide font-medium mt-0.5 opacity-90">
+								Desa Kuta Kembaran
+							</span>
 						</div>
 					</div>
 

@@ -18,8 +18,10 @@ export const Footer = () => {
 						/>
 					</div>
 					<div className="text-kutakembaran-blue flex flex-col font-bold">
-						<span className="text-2xl leading-none">KKN</span>
-						<span className="text-2xl tracking-wide mt-0.5">Kolaboratif</span>
+						<span className="text-2xl leading-none">KKN Kolaboratif</span>
+						<span className="text-sm tracking-wider font-semibold mt-1.5 uppercase opacity-90">
+							Desa Kuta Kembaran
+						</span>
 					</div>
 				</div>
 
@@ -54,26 +56,17 @@ export const Footer = () => {
 						<h3 className="text-sm font-bold text-gray-900 tracking-wider">Tentang KKN</h3>
 						<ul className="flex flex-col gap-2.5 text-sm text-gray-600">
 							<li>
-								<Link
-									href="/team"
-									className="hover:text-kutakembaran-blue transition-colors"
-								>
+								<Link href="/team" className="hover:text-kutakembaran-blue transition-colors">
 									Profil Kelompok
 								</Link>
 							</li>
 							<li>
-								<Link
-									href="/vision-mission"
-									className="hover:text-kutakembaran-blue transition-colors"
-								>
+								<Link href="/vision-mission" className="hover:text-kutakembaran-blue transition-colors">
 									Visi Misi
 								</Link>
 							</li>
 							<li>
-								<Link
-									href="/"
-									className="hover:text-kutakembaran-blue transition-colors"
-								>
+								<Link href="/" className="hover:text-kutakembaran-blue transition-colors">
 									Program Kerja
 								</Link>
 							</li>
@@ -121,10 +114,16 @@ export const Footer = () => {
 						<div className="flex flex-col gap-3">
 							<h3 className="text-sm font-bold text-gray-900 tracking-wider">Media Sosial</h3>
 							<div className="flex items-center gap-4 text-gray-700">
-								<a href="https://www.instagram.com/kkn26.kutakembaran" className="hover:text-kutakembaran-blue transition-colors">
+								<a
+									href="https://www.instagram.com/kkn26.kutakembaran"
+									className="hover:text-kutakembaran-blue transition-colors"
+								>
 									<BsInstagram className="size-5" />
 								</a>
-								<a href="https://www.tiktok.com/@kkn26.kutakembaran" className="hover:text-kutakembaran-blue transition-colors">
+								<a
+									href="https://www.tiktok.com/@kkn26.kutakembaran"
+									className="hover:text-kutakembaran-blue transition-colors"
+								>
 									<BsTiktok className="size-5" />
 								</a>
 								<a href="#" className="hover:text-kutakembaran-blue transition-colors">
