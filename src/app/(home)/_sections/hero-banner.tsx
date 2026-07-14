@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export const HeroBanner = () => {
 	return (
 		<section className="relative h-screen w-full overflow-hidden flex items-center justify-center">
@@ -31,12 +33,12 @@ export const HeroBanner = () => {
 					>
 						Jelajahi Program
 					</a>
-					<a
-						href="#team-heading"
+					<Link
+						href="/team"
 						className="w-full sm:w-auto px-8 py-3.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 hover:border-white text-white hover:bg-white/20 font-medium text-sm transition-all text-center"
 					>
 						Profil Tim KKN
-					</a>
+					</Link>
 				</div>
 			</div>
 

@@ -2,23 +2,24 @@ import Image from 'next/image';
 
 export const AboutUsSection = () => {
 	return (
-		<section className="relative py-12 md:py-20 bg-white overflow-hidden border-b border-kutakembaran-blue/20" aria-labelledby="about-heading">
+		<section
+			className="relative py-12 md:py-20 bg-white overflow-hidden border-b border-kutakembaran-blue/20"
+			aria-labelledby="about-heading"
+		>
 			<Image
 				src={'/assets/images/pattern/pattern-blue.png'}
-				width={20}
-				height={20}
+				width={120}
+				height={120}
 				alt="pattern-blue"
 				loading="lazy"
-				unoptimized
 				className="size-64 md:size-88 absolute -right-32 md:-right-44 top-1/2 -translate-y-1/2 pointer-events-none opacity-50 md:opacity-100"
 			/>
 
 			<Image
 				src={'/assets/images/dots/dot-blue.png'}
-				width={20}
-				height={20}
+				width={120}
+				height={120}
 				alt="dot-blue"
-				unoptimized
 				className="hidden md:block size-24 absolute left-24 top-20 opacity-20 pointer-events-none"
 			/>
 
@@ -54,7 +55,6 @@ export const AboutUsSection = () => {
 									fill
 									alt="KKN-Kolaboratif"
 									loading="lazy"
-									unoptimized
 									className="object-contain"
 								/>
 							</div>

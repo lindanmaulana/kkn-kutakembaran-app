@@ -1,9 +1,9 @@
 'use client';
 
-import Link from 'next/link';
-import Image from 'next/image';
 import { Home } from 'lucide-react';
-import { BsFacebook, BsInstagram, BsTwitterX } from 'react-icons/bs';
+import Image from 'next/image';
+import Link from 'next/link';
+import { BsInstagram, BsTiktok, BsTwitterX } from 'react-icons/bs';
 
 export const ComingSoon = () => {
 	return (
@@ -26,7 +26,6 @@ export const ComingSoon = () => {
 					<span className="text-kutakembaran-gold">Soon</span>
 				</h1>
 
-				{/* Deskripsi Kasus KKN */}
 				<p className="text-sm md:text-base text-gray-500 leading-relaxed max-w-lg px-2">
 					Segera hadir! Fitur atau halaman ini sedang dalam proses pengembangan oleh tim KKN Kolaboratif untuk
 					memberikan layanan digitalisasi desa terbaik. Terus pantau perkembangan terbaru dari kami, ya!
@@ -45,11 +44,11 @@ export const ComingSoon = () => {
 
 			<div className="w-full flex flex-col items-center gap-4 border-t border-gray-50 pt-6">
 				<div className="flex items-center gap-6 text-gray-400">
-					<a href="#" className="hover:text-kutakembaran-blue transition-colors">
+					<a href="https://www.instagram.com/kkn26.kutakembaran" className="hover:text-kutakembaran-blue transition-colors">
 						<BsInstagram className="size-5" />
 					</a>
-					<a href="#" className="hover:text-kutakembaran-blue transition-colors">
-						<BsFacebook className="size-5" />
+					<a href="https://www.tiktok.com/@kkn26.kutakembaran" className="hover:text-kutakembaran-blue transition-colors">
+						<BsTiktok className="size-5" />
 					</a>
 					<a href="#" className="hover:text-kutakembaran-blue transition-colors">
 						<BsTwitterX className="size-5" />

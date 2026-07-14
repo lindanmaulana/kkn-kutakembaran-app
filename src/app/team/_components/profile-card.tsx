@@ -28,13 +28,12 @@ export const ProfileCard = ({ member }: ProfileCardProps) => {
 					height={240}
 					alt={member.name}
 					loading="lazy"
-					unoptimized
 					className="w-full h-full object-cover transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-out"
 				/>
 			</figure>
 
 			<div className="space-y-1 px-1">
-				<h3 className="text-lg font-bold text-gray-950 tracking-tight group-hover:text-kutakembaran-gold transition-colors duration-300">
+				<h3 className="text-lg font-bold text-gray-950 tracking-tight group-hover:text-kutakembaran-gold transition-colors duration-300 truncate">
 					{member.name}
 				</h3>
 				<p className="text-sm font-medium text-gray-500 tracking-wide">{member.role}</p>

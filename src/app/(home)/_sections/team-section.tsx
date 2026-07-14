@@ -1,6 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Info } from 'lucide-react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export const TeamSection = () => {
 	return (
@@ -13,7 +14,14 @@ export const TeamSection = () => {
             "
 			/>
 
-            <Image src={'/assets/images/pattern/pattern-white.png'} width={20} height={20} alt='pattern-white' loading='lazy' unoptimized className='w-110 h-60 absolute -right-36 top-1/2 -translate-y-1/2 rotate-267 rounded-full opacity-20 sm:opacity-50 md:opacity-100' />
+			<Image
+				src={'/assets/images/pattern/pattern-white.png'}
+				width={140}
+				height={140}
+				alt="pattern-white"
+				loading="lazy"
+				className="w-110 h-60 absolute -right-36 top-1/2 -translate-y-1/2 rotate-267 rounded-full opacity-20 sm:opacity-50 md:opacity-100"
+			/>
 
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
 				<div className="w-full flex-1 text-center md:text-left">
@@ -30,12 +38,12 @@ export const TeamSection = () => {
 						<br className="hidden md:inline" /> tujuan pembangunan desa.
 					</h2>
 
-					<Button
-						variant={'outline'}
-						className="p-6 rounded-full inline-flex items-center gap-2 bg-kutakembaran-white/20 hover:bg-kutakembaran-gold/20 cursor-pointer text-white hover:text-white border-white/80 hover:border-kutakembaran-gold font-medium text-sm transition-global hover:scale-105 shadow-sm"
+					<Link
+						href={'/team'}
+						className="px-4 py-3 border rounded-full inline-flex items-center gap-2 bg-kutakembaran-white/20 hover:bg-kutakembaran-gold/20 cursor-pointer text-white hover:text-white border-white/80 hover:border-kutakembaran-gold font-medium text-sm transition-global hover:scale-105 shadow-sm"
 					>
 						<Info /> Pelajari Selengkapnya
-					</Button>
+					</Link>
 				</div>
 			</div>
 		</section>

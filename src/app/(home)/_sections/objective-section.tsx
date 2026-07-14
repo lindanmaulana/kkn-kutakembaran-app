@@ -7,11 +7,10 @@ export const ObjectiveSection = () => {
 		<section className="relative py-12 md:py-20 bg-white rounded-b-[46px] overflow-hidden" aria-labelledby="objective-heading">
 			<Image
 				src={'/assets/images/pattern/pattern-double-blue.png'}
-				width={20}
-				height={20}
+				width={120}
+				height={120}
 				alt="pattern-double-blue"
 				loading="lazy"
-				unoptimized
 				className="w-1/3 h-60 opacity-10 absolute -right-62 top-20"
 			/>
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10 space-y-14">

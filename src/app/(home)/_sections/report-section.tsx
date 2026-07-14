@@ -17,7 +17,6 @@ export const ReportSection = () => {
 					height={200}
 					alt=""
 					className="absolute -right-60 -top-24 size-40 md:size-90 opacity-20 md:opacity-80 pointer-events-none object-contain rotate-180"
-					unoptimized
 				/>
 
 				<Image
@@ -26,7 +25,6 @@ export const ReportSection = () => {
 					height={200}
 					alt=""
 					className="absolute -right-60 -bottom-36 size-40 md:size-90 opacity-20 md:opacity-80 pointer-events-none object-contain"
-					unoptimized
 				/>
 
 				<div className="max-w-7xl mx-auto relative z-10 flex flex-col lg:flex-row items-center justify-between gap-10">
@@ -47,7 +45,7 @@ export const ReportSection = () => {
 
 						<div className="pt-2 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
 							<a
-								href="https://wa.me/6281234567890" 
+								href="https://wa.me/6281234567890"
 								target="_blank"
 								rel="noopener noreferrer"
 								className="px-6 py-3.5 rounded-full bg-kutakembaran-gold cursor-pointer hover:bg-kutakembaran-gold/90 text-gray-950 font-bold text-sm transition-all hover:scale-105 flex items-center gap-2 shadow-md"
@@ -74,7 +72,6 @@ export const ReportSection = () => {
 								fill
 								alt="Logo KKN Kolaboratif"
 								className="object-contain"
-								unoptimized
 							/>
 						</div>
 					</div>

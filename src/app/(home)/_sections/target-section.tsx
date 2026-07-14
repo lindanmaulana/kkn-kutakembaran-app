@@ -10,18 +10,17 @@ export const TargetSection = () => {
 		>
 			<Image
 				src={'/assets/images/pattern/pattern-double-blue.png'}
-				width={20}
-				height={20}
+				width={120}
+				height={120}
 				alt="pattern-double-blue"
 				loading="lazy"
-				unoptimized
 				className="w-1/3 h-60 opacity-10 absolute -right-62 top-20"
 			/>
 
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10 space-y-20">
 				<div className="w-full flex-1 text-center md:text-left">
 					<span className="text-sm md:text-base font-semibold text-gray-700 tracking-wider block mb-2">
-						Tentang Kami
+						Sasaran Kami
 					</span>
 
 					<h2
@@ -44,11 +43,10 @@ export const TargetSection = () => {
 					<article className="relative min-h-100 p-8 rounded-xl bg-kutakembaran-gold space-y-2 overflow-hidden shadow-md">
 						<Image
 							src={'/assets/images/pattern/pattern-blue.png'}
-							width={20}
-							height={20}
+							width={120}
+							height={120}
 							alt="pattern-blue"
 							loading="lazy"
-							unoptimized
 							className="size-60 absolute -bottom-28 -right-24"
 						/>
 

@@ -11,7 +11,7 @@ export const NewsCarousel = () => {
 			<CarouselContent>
 				{headlineNews.map((article) => (
 					<CarouselItem key={article.id} className="relative aspect-video w-full">
-						<Image src={article.imageUrl} width={80} height={80} alt={article.title} unoptimized className="w-full h-full object-cover" />
+						<Image src={article.imageUrl} width={400} height={400} alt={article.title} className="w-full h-full object-cover" />
 
 						<div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/20 to-transparent" />
 

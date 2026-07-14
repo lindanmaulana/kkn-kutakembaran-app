@@ -47,7 +47,6 @@ export const CollaborationSection = () => {
 													alt={collaborate.name}
 													fill
 													loading="lazy"
-													unoptimized
 													className="object-contain p-1"
 												/>
 											</div>

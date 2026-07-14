@@ -29,7 +29,6 @@ export const NewsSection = () => {
 												src={news.imageUrl}
 												fill
 												alt={news.title}
-												unoptimized
 												className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
 											/>
 										</div>
