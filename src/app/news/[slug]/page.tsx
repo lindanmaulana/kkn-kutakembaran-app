@@ -7,43 +7,86 @@ interface NewsDetailPageProps {
 	params: Promise<{ slug: string }>;
 }
 
+export async function generateStaticParams() {
+	return NEWS_DATA.map((news) => ({
+		slug: news.slug,
+	}));
+}
+
 export async function generateMetadata({ params }: NewsDetailPageProps): Promise<Metadata> {
-    const { slug } = await params;
-    
-    const article = NEWS_DATA.find((news) => news.slug === slug);
+	const { slug } = await params;
 
-    if (!article) {
-        return {
-            title: 'Berita Tidak Ditemukan | KKN Kuta Kembaran',
-            description: 'Detail kabar atau artikel KKN tidak dapat ditemukan.',
-        };
-    }
+	const article = NEWS_DATA.find((news) => news.slug === slug);
 
-    return {
-        title: `${article.title} | KKN Kuta Kembaran`,
-        description: article.excerpt,
-        openGraph: {
-            title: article.title,
-            description: article.excerpt,
-            type: 'article',
-            publishedTime: article.date, 
-            authors: [article.author],
-            images: [
-                {
-                    url: article.imageUrl && article.imageUrl.trim() !== '' ? article.imageUrl : IMAGE_DEFAULT,
-                    width: 1200,
-                    height: 630,
-                    alt: article.title,
-                },
-            ],
-        },
-        twitter: {
-            card: 'summary_large_image',
-            title: article.title,
-            description: article.excerpt,
-            images: [article.imageUrl && article.imageUrl.trim() !== '' ? article.imageUrl : IMAGE_DEFAULT],
-        },
-    };
+	if (!article) {
+		return {
+			title: 'Berita Tidak Ditemukan | KKN Kuta Kembaran',
+			description: 'Detail kabar atau artikel KKN tidak dapat ditemukan.',
+		};
+	}
+
+	const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://kkn-kutakembaran.vercel.app';
+
+	const finalImageUrl =
+		article.imageUrl && article.imageUrl.trim() !== ''
+			? `${baseUrl}${article.imageUrl}`
+			: `${baseUrl}${IMAGE_DEFAULT}`;
+
+	const formatToISO = (dateStr: string) => {
+		try {
+			const months: { [key: string]: string } = {
+				Januari: '01',
+				Februari: '02',
+				Maret: '03',
+				April: '04',
+				Mei: '05',
+				Juni: '06',
+				Juli: '07',
+				Agustus: '08',
+				September: '09',
+				Oktobers: '10',
+				November: '11',
+				Desember: '12',
+			};
+			const parts = dateStr.split(' ');
+			if (parts.length === 3) {
+				const day = parts[0].padStart(2, '0');
+				const month = months[parts[1]] || '01';
+				const year = parts[2];
+				return `${year}-${month}-${day}T00:00:00Z`;
+			}
+			return new Date().toISOString();
+		} catch {
+			return new Date().toISOString();
+		}
+	};
+
+	return {
+		title: `${article.title} | KKN Kuta Kembaran`,
+		description: article.excerpt,
+		openGraph: {
+			title: article.title,
+			description: article.excerpt,
+			type: 'article',
+			url: `${baseUrl}/news/${article.slug}`,
+			publishedTime: formatToISO(article.date),
+			authors: [article.author],
+			images: [
+				{
+					url: finalImageUrl,
+					width: 1200,
+					height: 630,
+					alt: article.title,
+				},
+			],
+		},
+		twitter: {
+			card: 'summary_large_image',
+			title: article.title,
+			description: article.excerpt,
+			images: [finalImageUrl],
+		},
+	};
 }
 
 const NewsDetailPage = async ({ params }: NewsDetailPageProps) => {
