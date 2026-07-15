@@ -14,7 +14,8 @@ export const NewsList = () => {
 							<div className="relative w-20 h-20 shrink-0 rounded-lg overflow-hidden bg-gray-100">
 								<Image
 									src={news.imageUrl && news.imageUrl.trim() !== '' ? news.imageUrl : IMAGE_DEFAULT}
-									fill
+									width={120}
+									height={120}
 									alt={news.title}
 									className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
 								/>

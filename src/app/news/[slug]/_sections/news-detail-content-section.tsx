@@ -1,9 +1,9 @@
+import { NewsDetailDefault } from '@/app/news/[slug]/_components/news-detail-default';
 import { IMAGE_DEFAULT } from '@/const/default';
 import { News } from '@/const/news-data';
 import { Calendar, ChevronRight, Tag, User } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { NewsDetailDefault } from '@/app/news/[slug]/_components/news-detail-default';
 
 interface NewsDetailContentSectionProps {
 	article: News | undefined | null;
