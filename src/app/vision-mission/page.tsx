@@ -15,14 +15,17 @@ const VisionMissionPage = () => {
 						</h2>
 					</div>
 
-					<div className='grid grid-cols-1 md:grid-cols-3 gap-8'> 
+					<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 						{VISION_MISSION_DATA.map((visi) => (
 							<article key={visi.id} className="space-y-4 bg-white rounded-xl shadow p-4">
-								<div className='border rounded-xl w-fit p-3'>
-                                    <visi.icon className='size-6' />
-                                </div>
+								<div className="border rounded-xl w-fit p-3">
+									<visi.icon className="size-6" />
+								</div>
 
-								<h3 className='text-lg font-semibold'>{visi.title} <span className='text-base font-normal text-black/70 '>{visi.description}</span></h3>
+								<h3 className="text-lg font-semibold">
+									{visi.title}{' '}
+									<span className="text-base font-normal text-black/70 ">{visi.description}</span>
+								</h3>
 							</article>
 						))}
 					</div>
