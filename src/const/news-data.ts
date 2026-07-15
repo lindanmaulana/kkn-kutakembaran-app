@@ -33,4 +33,17 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '2',
+		title: 'Acara Pelepasan Mahasiswa KKN Kolaboratif Bersama Bupati Kuningan dan Rektor 6 Perguruan Tinggi',
+		slug: 'acara-pelepasan-mahasiswa-kkn-kolaboratif-bupati-kuningan-rektor',
+		excerpt:
+			'Momentum pelepasan resmi seluruh delegasi mahasiswa KKN Kolaboratif oleh Bupati Kuningan bersama Rektor dari 6 perguruan tinggi di Kabupaten Kuningan. Dalam program ini, mahasiswa disebar di 5 desa di Kecamatan Cigugur, yaitu Pakembangan, Cirukem, Gewok, Kadatuan, dan Kuta Kembaran untuk memulai masa pengabdian...',
+		date: '15 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-pelepasan.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
