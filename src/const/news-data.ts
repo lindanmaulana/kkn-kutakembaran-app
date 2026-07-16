@@ -125,7 +125,7 @@ export const NEWS_DATA: News[] = [
             <p>Setelah rangkaian ibadah selesai, suasana hangat tersebut berlanjut ke area teras masjid. Mahasiswa memanfaatkan momen ini untuk duduk melingkar bersama warga, membuka obrolan santai, sekaligus mendengarkan masukan langsung mengenai kebutuhan desa. Pertemuan informal yang ditutup dengan sesi foto bersama ini menjadi fondasi kuat bagi sinergi program kerja yang akan dijalankan ke depan.</p>
         `,
 		date: '15 Juli 2026',
-		imageUrl: '/assets/images/news/kkn-silaturahmi-masjid.jpeg',
+		imageUrl: '/assets/images/news/kkn-memakmurkan-masjid.jpeg',
 		category: NewsCategory.NEWS,
 		author: 'Sie PDD',
 		isFeatured: false,
