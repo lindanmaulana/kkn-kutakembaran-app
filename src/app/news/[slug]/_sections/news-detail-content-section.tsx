@@ -61,7 +61,7 @@ export const NewsDetailContentSection = ({ article }: NewsDetailContentSectionPr
 					/>
 				</div>
 
-				<article className="prose prose-gray md:prose-lg max-w-none text-gray-800 leading-relaxed text-base md:text-lg space-y-6">
+				<article className="prose prose-gray md:prose-lg max-w-none text-gray-800 leading-relaxed text-base md:text-lg [&_p]:block [&_p]:mb-6">
 					{article.content ? (
 						<div dangerouslySetInnerHTML={{ __html: article.content }} />
 					) : (

@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: NewsDetailPageProps): Promise
 				Juli: '07',
 				Agustus: '08',
 				September: '09',
-				Oktobers: '10',
+				Oktober: '10',
 				November: '11',
 				Desember: '12',
 			};
@@ -62,14 +62,31 @@ export async function generateMetadata({ params }: NewsDetailPageProps): Promise
 	};
 
 	return {
+		metadataBase: new URL(baseUrl),
+
 		title: `${article.title} | KKN Kuta Kembaran`,
 		description: article.excerpt,
+
+		alternates: {
+			canonical: `/news/${article.slug}`,
+		},
+
+		robots: {
+			index: true,
+			follow: true,
+		},
+
+		keywords: ['KKN', 'Kuta Kembaran', article.title],
+
 		openGraph: {
 			title: article.title,
 			description: article.excerpt,
+			url: `/news/${article.slug}`,
 			type: 'article',
-			url: `${baseUrl}/news/${article.slug}`,
+			siteName: 'KKN Kuta Kembaran',
+			locale: 'id_ID',
 			publishedTime: formatToISO(article.date),
+			modifiedTime: formatToISO(article.date),
 			authors: [article.author],
 			images: [
 				{
@@ -80,6 +97,7 @@ export async function generateMetadata({ params }: NewsDetailPageProps): Promise
 				},
 			],
 		},
+
 		twitter: {
 			card: 'summary_large_image',
 			title: article.title,
