@@ -179,22 +179,22 @@ export const NEWS_DATA: News[] = [
 
 	{
 		id: '8',
-		title: 'Pengumuman: Pelaksanaan Senam Sehat Rutin Dusun Manis',
-		slug: 'pengumuman-pelaksanaan-senam-sehat-rutin-dusun-manis',
+		title: 'Pengumuman: Pelaksanaan Senam Sehat Rutin',
+		slug: 'pengumuman-pelaksanaan-senam-sehat-rutin',
 		excerpt:
-			'Ayo jaga kesehatan bersama! Hadiri kegiatan senam sehat rutin warga Desa Kutakembaran yang dilaksanakan setiap hari Sabtu Pahing dan hari Minggu di Dusun Manis...',
+			'Ayo jaga kesehatan bersama! Hadiri kegiatan senam sehat rutin warga Desa Kutakembaran yang dilaksanakan gabungan di Dusun Pahing dan setiap Minggu di Dusun Manis...',
 		content: `
-        <p>Dalam rangka meningkatkan derajat kesehatan masyarakat serta mempererat tali silaturahmi antarwarga, Pemerintah Desa Kutakembaran bersama Mahasiswa KKN Kolaboratif 2026 mengumumkan pelaksanaan kegiatan Senam Sehat Rutin yang akan diselenggarakan khusus bagi seluruh warga Dusun Manis.</p>
+        <p>Dalam rangka meningkatkan derajat kesehatan masyarakat serta mempererat tali silaturahmi antarwarga lintas dusun, Pemerintah Desa Kutakembaran bersama Mahasiswa KKN Kolaboratif 2026 mengumumkan penyesuaian jadwal dan lokasi pelaksanaan kegiatan Senam Sehat Rutin.</p>
         
-        <p>Kegiatan senam sehat ini dijadwalkan secara berkala dengan rincian waktu sebagai berikut:</p>
+        <p>Kegiatan senam sehat ini kini dijadwalkan secara berkala dengan rincian waktu dan lokasi sebagai berikut:</p>
         <ul>
-            <li><strong>Hari Sabtu Pahing</strong> – Dimulai pukul 06.30 WIB s.d. selesai (mengikuti kalender penanggalan Jawa).</li>
-            <li><strong>Hari Minggu (Mingguan)</strong> – Dimulai pukul 06.30 WIB s.d. selesai (rutin setiap pekan).</li>
+            <li><strong>Hari Sabtu Pahing</strong> – Dimulai pukul 06.30 WIB s.d. selesai. Pelaksanaan dilaksanakan secara **gabungan untuk warga Dusun Pahing 1 dan Dusun Pahing 2**.</li>
+            <li><strong>Hari Minggu (Mingguan)</strong> – Dimulai pukul 06.30 WIB s.d. selesai (rutin setiap pekan). Pelaksanaan bertempat khusus untuk warga **Dusun Manis**.</li>
         </ul>
         
-        <p>Senam sehat ini akan dipandu langsung oleh instruktur senam berpengalaman dan didampingi oleh rekan-rekan mahasiswa KKN. Melalui gerakan senam yang energik dan menyenangkan, kegiatan ini diharapkan dapat menjadi sarana rekreasi sekaligus upaya pencegahan penyakit tidak menular (PTM) melalui aktivitas fisik yang teratur.</p>
+        <p>Istimewanya, senam sehat ini akan dipandu langsung oleh instruktur senam berbakat yang merupakan **mahasiswa dari Universitas Muhammadiyah Kuningan (UMK)**, dan didampingi oleh rekan-rekan mahasiswa KKN lainnya. Melalui gerakan senam yang energik dan menyenangkan, kegiatan ini diharapkan dapat menjadi sarana rekreasi sekaligus upaya pencegahan penyakit tidak menular (PTM) melalui aktivitas fisik yang teratur.</p>
         
-        <p>Sehubungan dengan hal tersebut, kami mengundang dan mengharapkan kehadiran seluruh lapisan masyarakat—mulai dari remaja, dewasa, hingga lansia di Dusun Manis—untuk turut serta memeriahkan kegiatan ini. Mari bersama-sama kita bangun lingkungan desa yang sehat, bugar, dan penuh semangat!</p>
+        <p>Sehubungan dengan hal tersebut, kami mengundang dan mengharapkan kehadiran seluruh lapisan masyarakat—mulai dari remaja, dewasa, hingga lansia dari Dusun Pahing 1, Dusun Pahing 2, dan Dusun Manis—untuk turut serta memeriahkan kegiatan ini sesuai jadwal masing-masing. Mari bersama-sama kita bangun lingkungan desa yang sehat, bugar, dan penuh semangat!</p>
     `,
 		date: '17 Juli 2026',
 		imageUrl: '/assets/images/news/kkn-senam-sehat.png',
