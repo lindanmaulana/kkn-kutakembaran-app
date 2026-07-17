@@ -176,4 +176,124 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '8',
+		title: 'Pengumuman: Pelaksanaan Senam Sehat Rutin Dusun Manis',
+		slug: 'pengumuman-pelaksanaan-senam-sehat-rutin-dusun-manis',
+		excerpt:
+			'Ayo jaga kesehatan bersama! Hadiri kegiatan senam sehat rutin warga Desa Kutakembaran yang dilaksanakan setiap hari Sabtu Pahing dan hari Minggu di Dusun Manis...',
+		content: `
+        <p>Dalam rangka meningkatkan derajat kesehatan masyarakat serta mempererat tali silaturahmi antarwarga, Pemerintah Desa Kutakembaran bersama Mahasiswa KKN Kolaboratif 2026 mengumumkan pelaksanaan kegiatan Senam Sehat Rutin yang akan diselenggarakan khusus bagi seluruh warga Dusun Manis.</p>
+        
+        <p>Kegiatan senam sehat ini dijadwalkan secara berkala dengan rincian waktu sebagai berikut:</p>
+        <ul>
+            <li><strong>Hari Sabtu Pahing</strong> – Dimulai pukul 06.30 WIB s.d. selesai (mengikuti kalender penanggalan Jawa).</li>
+            <li><strong>Hari Minggu (Mingguan)</strong> – Dimulai pukul 06.30 WIB s.d. selesai (rutin setiap pekan).</li>
+        </ul>
+        
+        <p>Senam sehat ini akan dipandu langsung oleh instruktur senam berpengalaman dan didampingi oleh rekan-rekan mahasiswa KKN. Melalui gerakan senam yang energik dan menyenangkan, kegiatan ini diharapkan dapat menjadi sarana rekreasi sekaligus upaya pencegahan penyakit tidak menular (PTM) melalui aktivitas fisik yang teratur.</p>
+        
+        <p>Sehubungan dengan hal tersebut, kami mengundang dan mengharapkan kehadiran seluruh lapisan masyarakat—mulai dari remaja, dewasa, hingga lansia di Dusun Manis—untuk turut serta memeriahkan kegiatan ini. Mari bersama-sama kita bangun lingkungan desa yang sehat, bugar, dan penuh semangat!</p>
+    `,
+		date: '17 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-senam-sehat.png',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie Acara',
+		isFeatured: false,
+	},
+
+	{
+		id: '9',
+		title: 'Perencanaan Proker Unggulan: Inisiasi Program Edukasi PHBS Terintegrasi di Sekolah Dasar Mitra',
+		slug: 'perencanaan-proker-unggulan-edukasi-phbs-terintegrasi-sekolah-dasar',
+		excerpt:
+			'Melalui kolaborasi lintas divisi, Kelompok 5 sedang merancang program Edukasi Perilaku Hidup Bersih dan Sehat (PHBS) yang terintegrasi untuk menanamkan kebiasaan sehat sejak dini pada anak sekolah dasar...',
+		content: `
+        <p>Bertempat di ruang koordinasi utama, Kelompok 5 Mahasiswa KKN Kolaboratif 2026 sedang dalam tahap intensif merancang salah satu program kerja (proker) unggulan, yaitu Program Edukasi Perilaku Hidup Bersih dan Sehat (PHBS) Terintegrasi. Program ini dirancang dengan pendekatan komprehensif yang menyasar tidak hanya siswa, tetapi juga guru dan orang tua, guna menciptakan ekosistem sekolah yang sehat dan mendukung.</p>
+        
+        <p>Berdasarkan data infografis internal Kelompok 5 (A-PHBS.jpg), tujuan utama dari program ini adalah untuk menanamkan kebiasaan hidup bersih dan sehat sedini mungkin. Melalui program ini, kami berupaya meningkatkan kesadaran menjaga kebersihan diri, membentuk karakter peduli lingkungan, dan secara aktif mencegah perilaku *bullying* sejak dini di lingkungan sekolah.</p>
+        
+        <p>Dalam tahap perancangan ini, tim sedang menyusun materi edukasi yang akan disampaikan dengan metode yang interaktif dan menyenangkan. Beberapa materi inti yang sedang disiapkan meliputi:</p>
+        <ul>
+            <li><strong>Cuci Tangan 6 Langkah:</strong> Praktik langsung mencuci tangan sesuai standar WHO.</li>
+            <li><strong>Buang Sampah pada Tempatnya:</strong> Edukasi pemilahan sampah organik dan anorganik serta menjaga kebersihan lingkungan.</li>
+            <li><strong>Pencegahan *Bullying*:</strong> Materi tentang cara mengenali *bullying*, menghargai teman, dan berani melapor jika terjadi tindakan *bullying*.</li>
+            <li><strong>PHBS di Sekolah:</strong> Ajakan untuk menjaga kebersihan kelas dan diri, serta pola hidup sehat secara keseluruhan.</li>
+        </ul>
+        
+        <p>Rancangan program ini mengedepankan bentuk kegiatan yang berpusat pada partisipasi aktif anak, seperti penyuluhan interaktif, demonstrasi langsung (seperti praktik cuci tangan 6 langkah), permainan edukatif, simulasi dan *role play* anti-*bullying*, serta kuis-kuis berhadiah.</p>
+        
+        <p>Keberhasilan program ini sangat bergantung pada kolaborasi yang kuat. Oleh karena itu, Kelompok 5 terus menjalin komunikasi intensif dengan pihak sekolah untuk memastikan waktu pelaksanaan program bersifat fleksibel dan dapat menyesuaikan jadwal sekolah, seperti saat jam edukasi, kegiatan UKS, atau program kesehatan sekolah lainnya.</p>
+        
+        <p>Dengan persiapan yang matang dan terstruktur, Kelompok 5 optimis bahwa Program Edukasi PHBS Terintegrasi ini nantinya akan memberikan manfaat yang signifikan bagi sekolah, seperti meningkatkan kesadaran hidup bersih dan sehat, mencegah penyakit menular, menciptakan lingkungan sekolah yang bersih, sehat, aman, dan nyaman, serta menumbuhkan sikap saling menghargai antar teman.</p>
+    `,
+		date: '19 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-phbs.jpeg',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie Acara',
+		isFeatured: true,
+	},
+
+	{
+		id: '10',
+		title: 'Rancangan Proker Inovatif: Peluncuran Buku Saku MPASI sebagai Panduan Praktis Gizi Balita',
+		slug: 'rancangan-proker-inovatif-peluncuran-buku-saku-mpasi',
+		excerpt:
+			'Kelompok 5 sedang merancang proyek inovatif berupa penyusunan Buku Saku MPASI (Makanan Pendamping Air Susu Ibu). Program ini bertujuan memberikan panduan praktis dan edukasi gizi seimbang bagi ibu balita...',
+		content: `
+        <p>Bertempat di posko koordinasi, Kelompok 5 Mahasiswa KKN Kolaboratif 2026 saat ini tengah fokus merancang proyek inovatif yang menjadi salah satu program kerja (proker) unggulan, yaitu penyusunan dan peluncuran Buku Saku MPASI. Program ini lahir dari kesadaran akan pentingnya edukasi gizi seimbang sejak dini untuk mencegah stunting dan meningkatkan status gizi balita di desa mitra.</p>
+        
+        <p>Berdasarkan cetak biru perancangan (B-Buku saku mpasi.jpg), program ini memiliki sasaran strategis, meliputi Ibu dengan Balita, Ibu Hamil trimester akhir, dan Kader Posyandu. Dengan demikian, Buku Saku ini dirancang untuk menjadi media edukasi yang dapat dibaca berulang kali, membantu Ibu memberikan MPASI sesuai usia anak, dan mendukung upaya pencegahan stunting secara komprehensif.</p>
+        
+        <p>Dalam tahap perancangan materi, Kelompok 5 sedang mengurasi konten isi Buku Saku yang mencakup:</p>
+        <ul>
+            <li><strong>Pengertian MPASI:</strong> Kapan MPASI dimulai dan tujuannya.</li>
+            <li><strong>Jadwal Pemberian:</strong> Panduan frekuensi dan tekstur sesuai kelompok usia (6-8 bulan, 9-11 bulan, 12-24 bulan).</li>
+            <li><strong>Menu MPASI:</strong> Contoh menu sederhana bergizi dengan memanfaatkan bahan lokal berkualitas.</li>
+            <li><strong>Tips Pemberian MPASI:</strong> Aspek krusial seperti kebersihan alat dan keamanan pangan.</li>
+        </ul>
+        
+        <p>Rancangan bentuk kegiatan tidak hanya berpusat pada pembagian buku saku, tetapi juga akan mencakup sosialisasi terukur, pendampingan intensif bagi Ibu balita, dan diskusi tanya jawab interaktif untuk memastikan pemahaman yang utuh.</p>
+        
+        <p>Keberhasilan program ini sangat bergantung pada kolaborasi yang kuat. Oleh karena itu, Kelompok 5 terus menjalin komunikasi intensif dengan Puskesmas, Pemerintah Desa, Kader Kesehatan, dan PKK. Fleksibilitas waktu pelaksanaan program terus disesuaikan dengan jadwal Posyandu, Kelas Ibu Balita, atau penyuluhan kesehatan desa agar tepat sasaran.</p>
+        
+        <p>Melalui persiapan yang matang dan pendekatan yang terstruktur, Kelompok 5 optimis bahwa peluncuran Buku Saku MPASI ini nantinya akan menjadi langkah nyata dalam meningkatkan pengetahuan masyarakat, mendukung tumbuh kembang balita yang optimal, dan menjadi simbol komitmen bersama dalam mencegah stunting demi kemajuan desa mitra.</p>
+    `,
+		date: '21 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-mpasi.jpeg',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie Acara',
+		isFeatured: true,
+	},
+
+	{
+		id: '11',
+		title: 'Perancangan Strategis Proker Ekonomi: Mind Map Akselerasi dan Pendampingan UMKM Desa Kutakembaran',
+		slug: 'perancangan-strategis-proker-ekonomi-pendampingan-umkm-desa-kutakembaran',
+		excerpt:
+			'Kelompok 5 sedang menyusun peta jalan (mind map) program Pendampingan UMKM Desa Kutakembaran. Proker ini dirancang terstruktur mulai dari pendataan, pembuatan produk khas, legalitas, hingga digitalisasi pasar...',
+		content: `
+        <p>Guna mendongkrak roda perekonomian dan kemandirian ekonomi masyarakat di desa mitra, Kelompok 5 Mahasiswa KKN Kolaboratif 2026 saat ini tengah merancang program kerja (proker) komprehensif bertajuk Pendampingan UMKM Desa Kutakembaran. Peta jalan (mind map) program ini disusun secara matang untuk memetakan tahapan eksekusi agar tepat sasaran dan berdampak jangka panjang.</p>
+        
+        <p>Berdasarkan rancangan teknis yang tertuang dalam infografis (C-Pendampingan Umkm.jpg), proyek ekonomi kreatif ini akan melalui beberapa fase penting yang saat ini sedang dipersiapkan segala instrumen pendukungnya:</p>
+        <ul>
+            <li><strong>Survei dan Pendataan:</strong> Melakukan pemetaan awal dan mendata seluruh pelaku UMKM yang aktif di wilayah desa.</li>
+            <li><strong>Sosialisasi Program:</strong> Mengajak warga dan pelaku usaha untuk berpartisipasi aktif dalam program pendampingan.</li>
+            <li><strong>Pelatihan Legalitas Usaha:</strong> Membantu pengurusan dokumen penting seperti NIB, PIRT, hingga sertifikasi Halal MUI guna menaikkan kelas produk.</li>
+            <li><strong>Pelatihan Digitalisasi:</strong> Memberikan edukasi teknis mengenai teknik foto produk yang menarik dan cara optimalisasi *upload* ke media sosial.</li>
+        </ul>
+        
+        <p>Selain fokus pada pemasaran dan legalitas, aspek manajemen internal dan pengembangan produk juga menjadi pilar utama. Tim sedang merancang modul untuk Pendampingan Manajemen Keuangan agar warga memiliki pencatatan keuangan yang baik. Lebih lanjut, program ini juga menginisiasi Pembuatan Produk Olahan untuk Ciri Khas Desa demi menciptakan nilai tambah komoditas lokal.</p>
+        
+        <p>Sebagai langkah keberlanjutan pasca-KKN, Kelompok 5 juga merancang integrasi ke ranah digital melalui Pemberitahuan Pembuatan Web Desa untuk pengembangan profil UMKM dan katalog produk secara terpadu. Seluruh rangkaian program ini nantinya akan ditutup dengan Evaluasi Perkembangan UMKM guna mengukur efektivitas pendampingan.</p>
+        
+        <p>Melalui perencanaan mind map yang terintegrasi dari hulu ke hilir ini, Kelompok 5 optimis bahwa proker Pendampingan UMKM ini akan menjadi motor penggerak transformasi usaha lokal yang lebih modern, legal, dan siap bersaing di pasar yang lebih luas.</p>
+    `,
+		date: '23 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-umkm.jpeg',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
