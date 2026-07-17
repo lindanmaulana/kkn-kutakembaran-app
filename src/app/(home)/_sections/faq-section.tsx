@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Info } from 'lucide-react';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
-import { FAQ_DATA } from '@/app/(home)/_constants/faq-data';
+import { FAQ_DATA } from '@/const/faq-data';
 
 export const FaqSection = () => {
 	const faqData = FAQ_DATA.slice(0, 5);

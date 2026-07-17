@@ -111,7 +111,7 @@ const LogoMeaning = () => {
 							</article>
 						</div>
 
-						<div className="order-first md:order-last w-48 h-48 sm:w-64 sm:h-64 md:w-[350px] md:h-[350px] flex items-center justify-center">
+						<div className="order-first md:order-last w-48 h-48 sm:w-64 sm:h-64 md:w-87.5 md:h-87.5 flex items-center justify-center">
 							<Image
 								src={'/assets/images/logo/logo-kkn.png'}
 								width={400}
