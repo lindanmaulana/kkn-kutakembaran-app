@@ -296,4 +296,114 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '12',
+		title: 'Sinergi Keagamaan: Mahasiswa KKN Kolaboratif Hadiri Kajian Rutin Kliwonan Warga',
+		slug: 'sinergi-keagamaan-mahasiswa-kkn-kolaboratif-hadiri-kajian-rutin-kliwonan',
+		excerpt:
+			'Dalam rangka memperkuat pilar keagamaan dan membaur dengan masyarakat, Kelompok 5 KKN Kolaboratif 2026 mengikuti kegiatan Kajian Rutin Kliwonan yang diselenggarakan di Dusun Manis, Desa Kutakembaran...',
+		content: `
+            <p>Sebagai bagian dari komitmen untuk meningkatkan literasi keagamaan dan mempererat tali silaturahmi, jajaran mahasiswa KKN Kolaboratif 2026 Kelompok 5 menghadiri kegiatan Kajian Rutin Kliwonan bersama masyarakat di Dusun Manis, Desa Kutakembaran. Kegiatan yang berlangsung khidmat ini menjadi ruang interaksi spiritual yang mempertemukan mahasiswa lintas kampus dengan para tokoh agama serta warga setempat.</p>
+            
+            <p>Kajian rutin yang dilaksanakan berdasarkan penanggalan Jawa (malam Kliwon/hari Kliwon) ini berfokus pada pendalaman materi fikih keseharian, pembacaan zikir bersama, serta penguatan karakter dan akhlak mulia di lingkungan keluarga. Kehadiran mahasiswa di tengah-tengah majelis di Dusun Manis tidak hanya untuk menimba ilmu, melainkan juga sebagai bentuk nyata dari metode live-in untuk membaur dan menyelami aktivitas keagamaan kultural masyarakat desa.</p>
+            
+            <p>Melalui antusiasme yang tinggi, mahasiswi KKN tampak khusyuk mengikuti jalannya pemaparan materi dari pemuka agama setempat. Kegiatan ini juga dimanfaatkan oleh tim KKN untuk berdiskusi ringan pasca-kajian dengan tokoh agama dan perwakilan remaja masjid guna menyelaraskan koordinasi terkait program kerja bidang keagamaan kelompok di Desa Kutakembaran, seperti optimalisasi gerakan Maghrib Mengaji dan pembinaan keagamaan mingguan.</p>
+            
+            <p>Sinergi yang terbangun melalui Kajian Kliwonan ini diharapkan mampu memperkokoh fondasi kebersamaan antara mahasiswa dan warga selama satu bulan masa pengabdian. Pertemuan rutin di Dusun Manis ini ditutup dengan ramah tamah, menandai keterbukaan penuh dari masyarakat desa mitra terhadap inisiatif dan program pemberdayaan yang dibawa oleh Kelompok 5.</p>
+        `,
+		date: '16 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kajian-rutin-kliwon.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '13',
+		title: 'Sinergi Masyarakat: Mahasiswa KKN Kolaboratif Ikuti Kegiatan Kerja Bakti di Dusun Pahing 1',
+		slug: 'sinergi-masyarakat-mahasiswa-kkn-kolaboratif-ikuti-kegiatan-kerja-bakti-dusun-pahing-1',
+		excerpt:
+			'Mendukung pilar desa sehat dan mandiri, Kelompok 5 KKN Kolaboratif 2026 bersama warga Dusun Pahing 1, Desa Kutakembaran bergotong-royong membersihkan fasilitas umum dan jalan desa...',
+		content: `
+            <p>Dalam upaya mendukung terciptanya lingkungan yang bersih, sehat, dan nyaman, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut ambil bagian dan mengikuti kegiatan Kerja Bakti massal yang digerakkan oleh warga di wilayah Dusun Pahing 1, Desa Kutakembaran. Aksi gotong-royong ini menjadi salah satu implementasi nyata dari pilar lingkungan sehat yang diusung dalam tema besar pengabdian tahun ini.</p>
+            
+            <p>Aksi bersih-bersih ini berfokus pada pembersihan tanaman liar di bahu jalan, perapihan akses jalan utama desa, serta pengumpulan dan pengelolaan sampah organik maupun anorganik di sekitar pemukiman warga. Kehadiran mahasiswa lintas kampus yang membaur di tengah-tengah warga Dusun Pahing 1 tidak hanya membantu mempercepat jalannya kerja bakti, melainkan juga mempererat semangat swadaya dan kebersamaan bermasyarakat.</p>
+            
+            <p>Melalui antusiasme yang tinggi dari ibu-ibu dan tokoh masyarakat setempat, kegiatan ini berjalan dengan penuh keakraban. Momentum ini juga dimanfaatkan oleh tim KKN untuk berdialog santai dan memberikan edukasi ringan secara langsung mengenai pentingnya menjaga kebersihan lingkungan pasca-kerja bakti, guna meminimalisir risiko sarang penyakit dan menjaga kelestarian infrastruktur desa yang ada.</p>
+            
+            <p>Keikutsertaan mahasiswa dalam kerja bakti di Dusun Pahing 1 ini ditutup dengan sesi foto bersama dan ramah tamah antara mahasiswa dengan warga setempat. Sinergi yang kuat ini diharapkan dapat terus terjaga dan menjadi pemantik bagi warga desa untuk secara mandiri merawat kebersihan lingkungan demi kenyamanan bersama di Desa Kutakembaran.</p>
+        `,
+		date: '17 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kerja-bakti-pahing1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '14',
+		title: 'Sinergi Masyarakat: Mahasiswa KKN Kolaboratif Ikuti Kegiatan Kerja Bakti di Dusun Manis',
+		slug: 'sinergi-masyarakat-mahasiswa-kkn-kolaboratif-ikuti-kegiatan-kerja-bakti-dusun-manis',
+		excerpt:
+			'Mendukung pilar desa sehat dan mandiri, Kelompok 5 KKN Kolaboratif 2026 bersama warga Dusun Manis, Desa Kutakembaran bergotong-royong membersihkan fasilitas umum dan jalan desa...',
+		content: `
+            <p>Dalam upaya mendukung terciptanya lingkungan yang bersih, sehat, dan nyaman, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut ambil bagian dan mengikuti kegiatan Kerja Bakti massal yang digerakkan oleh warga di wilayah Dusun Manis, Desa Kutakembaran. Aksi gotong-royong ini menjadi salah satu implementasi nyata dari pilar lingkungan sehat yang diusung dalam tema besar pengabdian tahun ini.</p>
+            
+            <p>Aksi bersih-bersih ini berfokus pada pembersihan tanaman liar di bahu jalan, perapihan akses jalan utama desa, serta pengumpulan dan pengelolaan sampah organik maupun anorganik di sekitar pemukiman warga. Kehadiran mahasiswa lintas kampus yang membaur di tengah-tengah warga Dusun Manis tidak hanya membantu mempercepat jalannya kerja bakti, melainkan juga mempererat semangat swadaya dan kebersamaan bermasyarakat.</p>
+            
+            <p>Melalui antusiasme yang tinggi dari ibu-ibu dan tokoh masyarakat setempat, kegiatan ini berjalan dengan penuh keakraban. Momentum ini juga dimanfaatkan oleh tim KKN untuk berdialog santai dan memberikan edukasi ringan secara langsung mengenai pentingnya menjaga kebersihan lingkungan pasca-kerja bakti, guna meminimalisir risiko sarang penyakit dan menjaga kelestarian infrastruktur desa yang ada.</p>
+            
+            <p>Keikutsertaan mahasiswa dalam kerja bakti di Dusun Manis ini ditutup dengan sesi foto bersama dan ramah tamah antara mahasiswa dengan warga setempat. Sinergi yang kuat ini diharapkan dapat terus terjaga dan menjadi pemantik bagi warga desa untuk secara mandiri merawat kebersihan lingkungan demi kenyamanan bersama di Desa Kutakembaran.</p>
+        `,
+		date: '17 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kerja-bakti-manis.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '15',
+		title: 'Membangun Kedekatan: Cerita Seru Mahasiswa KKN Kolaboratif Bermain Air Bersama Anak-Anak Dusun Pahing 1',
+		slug: 'membangun-kedekatan-cerita-seru-mahasiswa-kkn-kolaboratif-bermain-air-bersama-anak-anak-dusun-pahing-1',
+		excerpt:
+			'Di sela-sela pelaksanaan program kerja formal, Kelompok 5 KKN Kolaboratif 2026 meluangkan waktu berinteraksi dan bermain air di sungai bersama anak-anak Dusun Pahing 1, Desa Kutakembaran...',
+		content: `
+            <p>Pendekatan emosional dan pembauran dengan seluruh lapisan masyarakat menjadi kunci keberhasilan pengabdian mahasiswa KKN Kolaboratif 2026 Kelompok 5. Di sela-sela padatnya agenda program kerja formal, para mahasiswa meluangkan waktu untuk berinteraksi langsung dan bermain bersama anak-anak kecil di wilayah Dusun Pahing 1, Desa Kutakembaran.</p>
+            
+            <p>Memanfaatkan potensi alam pedesaan yang asri, mahasiswa bersama anak-anak Dusun Pahing 1 menghabiskan waktu sore dengan bermain air dan berenang di sungai setempat. Momen penuh tawa ini memperlihatkan kedekatan yang tulus, di mana mahasiswa tidak hanya memosisikan diri sebagai pengajar atau transformator di desa, melainkan juga sebagai kakak sekaligus sahabat yang membaur tanpa jarak.</p>
+            
+            <p>Aktivitas santai ini menjadi ruang yang efektif bagi mahasiswa untuk membangun kepercayaan (trust) dengan anak-anak setempat. Melalui kedekatan emosional yang terbangun secara natural di luar lingkungan sekolah formal, diharapkan anak-anak menjadi lebih antusias dan nyaman saat mengikuti berbagai program pendidikan maupun bimbingan belajar gratis yang diadakan oleh tim KKN di posko.</p>
+            
+            <p>Keseruan bermain air di Dusun Pahing 1 ini ditutup dengan canda tawa di atas bebatuan sungai sebelum anak-anak kembali ke rumah masing-masing. Keceriaan yang terpancar dari wajah anak-anak Desa Kutakembaran ini menjadi suntikan energi tersendiri bagi seluruh jajaran mahasiswa Kelompok 5 untuk terus memberikan kontribusi terbaik hingga akhir masa pengabdian.</p>
+        `,
+		date: '17 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-bermain-air-pahing1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '16',
+		title: 'Penguatan Karakter Religius: Mahasiswa KKN Kolaboratif Jalankan Program Maghrib Mengaji di 3 Masjid Dusun',
+		slug: 'penguatan-karakter-religius-mahasiswa-kkn-kolaboratif-jalankan-program-maghrib-mengaji-di-3-masjid-dusun',
+		excerpt:
+			"Mendukung pilar keagamaan dan peningkatan literasi Al-Qur'an, seluruh mahasiswa Kelompok 5 KKN Kolaboratif 2026 dibagi menjadi 3 kelompok untuk mengabdi langsung di 3 masjid dusun Desa Kutakembaran...",
+		content: `
+            <p>Dalam rangka memperkuat nilai-nilai spiritual dan meningkatkan kemampuan membaca Al-Qur'an sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melaksanakan program "Maghrib Mengaji". Program keagamaan ini dirancang untuk mendukung pembentukan karakter anak yang religius dan berakhlak mulia di lingkungan desa bimbingan.</p>
+            
+            <p>Agar pelaksanaan pendampingan berjalan lebih intensif dan merata, seluruh mahasiswa KKN didelegasikan secara terstruktur ke dalam 3 kelompok kecil. Pembagian ini terbukti efektif untuk memaksimalkan interaksi mengajar, di mana masing-masing kelompok disebar secara serentak untuk bertugas di 3 masjid dusun yang ada di Desa Kutakembaran.</p>
+            
+            <p>Suasana di dalam setiap tempat ibadah tampak khidmat namun tetap hangat saat mahasiswa lintas kampus membaur bersama anak-anak. Metode pendekatan yang sabar dan menyenangkan dari para mahasiswa membuat anak-anak di 3 masjid dusun tersebut sangat antusias mengikuti setiap sesi bimbingan mengaji, tajwid dasar, serta hafalan surah-surah pendek pasca-shalat Maghrib.</p>
+            
+            <p>Melalui program Maghrib Mengaji yang dijalankan secara serentak di 3 masjid dusun ini, tim KKN berharap dapat memberikan kontribusi nyata dalam membantu meringankan tugas guru ngaji setempat serta memberikan motivasi tambahan bagi anak-anak di Desa Kutakembaran agar semakin mencintai Al-Qur'an. Kegiatan ini ditutup dengan doa bersama, menandai rutinitas positif yang akan terus berjalan selama masa pengabdian.</p>
+        `,
+		date: '17 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-magrib-mengaji-1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
