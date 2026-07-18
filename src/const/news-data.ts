@@ -406,4 +406,26 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '17',
+		title: 'Sinergi Masyarakat: Mahasiswa KKN Kolaboratif Ikuti Kegiatan Kerja Bakti di Dusun Pahing 2',
+		slug: 'sinergi-masyarakat-mahasiswa-kkn-kolaboratif-ikuti-kegiatan-kerja-bakti-dusun-pahing-2',
+		excerpt:
+			'Mendukung pilar desa sehat dan mandiri, Kelompok 5 KKN Kolaboratif 2026 bersama warga Dusun Pahing 2, Desa Kutakembaran bergotong-royong membersihkan fasilitas umum dan jalan desa...',
+		content: `
+        <p>Dalam upaya mendukung terciptanya lingkungan yang bersih, sehat, dan nyaman, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut ambil bagian dan mengikuti kegiatan Kerja Bakti massal yang digerakkan oleh warga di wilayah Dusun Pahing 2, Desa Kutakembaran. Aksi gotong-royong ini menjadi salah satu implementasi nyata dari pilar lingkungan sehat yang diusung dalam tema besar pengabdian tahun ini.</p>
+        
+        <p>Aksi bersih-bersih ini berfokus pada pembersihan tanaman liar di bahu jalan, perapihan akses jalan utama desa, serta pengumpulan dan pengelolaan sampah organik maupun anorganik di sekitar pemukiman warga. Kehadiran mahasiswa lintas kampus yang membaur di tengah-tengah warga Dusun Pahing 2 tidak hanya membantu mempercepat jalannya kerja bakti, melainkan juga mempererat semangat swadaya dan kebersamaan bermasyarakat.</p>
+        
+        <p>Melalui antusiasme yang tinggi dari ibu-ibu dan tokoh masyarakat setempat, kegiatan ini berjalan dengan penuh keakraban. Momentum ini juga dimanfaatkan oleh tim KKN untuk berdialog santai dan memberikan edukasi ringan secara langsung mengenai pentingnya menjaga kebersihan lingkungan pasca-kerja bakti, guna meminimalisir risiko sarang penyakit dan menjaga kelestarian infrastruktur desa yang ada.</p>
+        
+        <p>Keikutsertaan mahasiswa dalam kerja bakti di Dusun Pahing 2 ini ditutup dengan sesi foto bersama dan ramah tamah antara mahasiswa dengan warga setempat. Sinergi yang kuat ini diharapkan dapat terus terjaga dan menjadi pemantik bagi warga desa untuk secara mandiri merawat kebersihan lingkungan demi kenyamanan bersama di Desa Kutakembaran.</p>
+    `,
+		date: '18 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kerja-bakti-pahing2.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
