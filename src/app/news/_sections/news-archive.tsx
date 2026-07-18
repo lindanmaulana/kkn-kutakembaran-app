@@ -1,16 +1,33 @@
 'use client';
 
-import * as React from 'react';
+import { Pagination, PaginationContent, PaginationItem, PaginationLink } from '@/components/ui/pagination';
+import { IMAGE_DEFAULT } from '@/const/default';
+import { News, NEWS_DATA, NewsCategory } from '@/const/news-data';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { NEWS_DATA, NewsCategory } from '@/const/news-data';
-import { IMAGE_DEFAULT } from '@/const/default';
+import { useState } from 'react';
 
 export const NewsArchive = () => {
-	const [activeCategory, setActiveCategory] = React.useState<NewsCategory | 'Semua'>('Semua');
+	const [activeCategory, setActiveCategory] = useState<NewsCategory | 'Semua'>('Semua');
+	const [currentPage, setCurrentPage] = useState(1);
+
 	const categories = Object.values(NewsCategory);
-	const filteredNews =
-		activeCategory === 'Semua' ? NEWS_DATA : NEWS_DATA.filter((news) => news.category === activeCategory);
+	const ITEMS_PER_PAGE = 10;
+
+	const filteredData: News[] = activeCategory === 'Semua' ? NEWS_DATA : NEWS_DATA.filter((news) => news.category === activeCategory);
+
+	const totalPages = Math.ceil(filteredData.length / ITEMS_PER_PAGE) || 1;
+
+	const startData = (currentPage - 1) * ITEMS_PER_PAGE;
+	const endData = startData + ITEMS_PER_PAGE;
+	const newsData = filteredData.slice(startData, endData);
+
+	const handlePageChange = (pageNumber: number) => {
+		if (pageNumber >= 1 && pageNumber <= totalPages) {
+			setCurrentPage(pageNumber);
+		}
+	};
 
 	return (
 		<section className="py-8 md:py-12 bg-white">
@@ -24,7 +41,10 @@ export const NewsArchive = () => {
 
 				<div className="flex items-center gap-2 overflow-x-auto pb-3 -mx-4 px-4 sm:mx-0 sm:px-0 scrollbar-none">
 					<button
-						onClick={() => setActiveCategory('Semua')}
+						onClick={() => {
+							setActiveCategory('Semua');
+							setCurrentPage(1);
+						}}
 						className={`px-4 py-2 text-sm font-medium rounded-full border transition-all duration-200 whitespace-nowrap ${
 							activeCategory === 'Semua'
 								? 'bg-kutakembaran-blue border-transparent text-white shadow-sm shadow-kutakembaran-blue/20'
@@ -37,7 +57,10 @@ export const NewsArchive = () => {
 					{categories.map((category) => (
 						<button
 							key={category}
-							onClick={() => setActiveCategory(category)}
+							onClick={() => {
+								setActiveCategory(category);
+								setCurrentPage(1);
+							}}
 							className={`px-4 py-2 text-sm font-medium rounded-full border transition-all duration-200 whitespace-nowrap ${
 								activeCategory === category
 									? 'bg-kutakembaran-blue border-transparent text-white shadow-sm shadow-kutakembaran-blue/20'
@@ -49,9 +72,9 @@ export const NewsArchive = () => {
 					))}
 				</div>
 
-				{filteredNews.length > 0 ? (
+				{newsData.length > 0 ? (
 					<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-						{filteredNews.map((article) => (
+						{newsData.map((article) => (
 							<Link
 								key={article.id}
 								href={`/news/${article.slug}`}
@@ -85,6 +108,44 @@ export const NewsArchive = () => {
 				) : (
 					<div className="text-center py-16 border border-dashed border-gray-200 rounded-2xl bg-gray-50/50">
 						<p className="text-sm text-gray-400 font-medium">Belum ada kabar terkait kategori ini.</p>
+					</div>
+				)}
+
+				{totalPages > 1 && (
+					<div className="w-full flex items-center justify-center mt-8">
+						<Pagination>
+							<PaginationContent className="flex items-center gap-12">
+								<PaginationItem>
+									<PaginationLink
+										onClick={() => handlePageChange(currentPage - 1)}
+										className={`flex items-center gap-1 cursor-pointer select-none ${
+											currentPage === 1 ? 'pointer-events-none opacity-50' : ''
+										}`}
+									>
+										<ChevronLeft className="h-4 w-4" />
+										<span>Sebelumnya</span>
+									</PaginationLink>
+								</PaginationItem>
+
+								<PaginationItem>
+									<span className="text-sm font-medium px-4 text-gray-600">
+										Halaman {currentPage} dari {totalPages}
+									</span>
+								</PaginationItem>
+
+								<PaginationItem>
+									<PaginationLink
+										onClick={() => handlePageChange(currentPage + 1)}
+										className={`flex items-center gap-1 cursor-pointer select-none ${
+											currentPage === totalPages ? 'pointer-events-none opacity-50' : ''
+										}`}
+									>
+										<span>Berikutnya</span>
+										<ChevronRight className="h-4 w-4" />
+									</PaginationLink>
+								</PaginationItem>
+							</PaginationContent>
+						</Pagination>
 					</div>
 				)}
 			</div>
