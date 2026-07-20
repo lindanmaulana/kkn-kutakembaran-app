@@ -428,4 +428,92 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '18',
+		title: 'Implementasi PJKR, Mahasiswa KKN Kelompok 5 Ajak Warga Dusun Pahing Senam Sehat Bersama',
+		slug: 'implementasi-pjkr-senam-sehat-dusun-pahing-kutakembaran',
+		excerpt:
+			'Sebagai wujud nyata program PJKR, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar senam kebugaran jasmani bersama masyarakat Dusun Pahing, Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka mengimplementasikan program Pendidikan Jasmani, Kesehatan, dan Rekreasi (PJKR), mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan kegiatan senam sehat bersama warga Dusun Pahing, Desa Kutakembaran. Kegiatan yang berlangsung di halaman gedung pertemuan ini menyasar seluruh elemen masyarakat, mulai dari anak-anak hingga orang dewasa.</p>
+            
+            <p>Fokus utama dari kegiatan ini adalah penerapan ilmu PJKR secara praktis di masyarakat melalui aktivitas fisik yang terukur, edukatif, dan rekreatif. Mahasiswa KKN bertindak langsung memandu gerakan senam yang dirancang untuk meningkatkan kebugaran jasmani sekaligus memberikan hiburan sehat yang menyegarkan bagi warga di akhir pekan.</p>
+            
+            <p>Antusiasme masyarakat Dusun Pahing terlihat sangat tinggi. Sejak pagi hari, warga sudah berkumpul dan dengan kompak mengikuti setiap instruksi gerakan dari mahasiswa. Kegiatan ini murni menjadi ruang interaksi positif dan rekreasi fisik untuk membangun kedekatan emosional serta kebersamaan yang solid antara mahasiswa KKN dan warga setempat.</p>
+            
+            <p>Agenda senam sehat ini diakhiri dengan sesi dokumentasi dan foto bersama. Keberhasilan kegiatan PJKR ini diharapkan mampu memotivasi warga Dusun Pahing untuk menjaga konsistensi dalam berolahraga secara mandiri demi memelihara kebugaran tubuh sehari-hari.</p>
+        `,
+		date: '19 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-senam-sehat2.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+        id: '19',
+        title: 'Maksimalkan Waktu Magrib, Mahasiswa KKN Kelompok 5 Hidupkan Program Magrib Mengaji',
+        slug: 'program-magrib-mengaji-mahasiswa-kkn-desa-kutakembaran',
+        excerpt:
+            'Guna memperkuat nilai-nilai keagamaan dan karakter religius sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 aktif mendampingi anak-anak mengaji di mushola desa...',
+        content: `
+            <p>Tidak hanya berfokus pada pendidikan formal di sekolah, mahasiswa KKN Kolaboratif 2026 Kelompok 5 juga menaruh perhatian besar pada pendidikan spiritual anak-anak di desa mitra. Hal ini diwujudkan melalui partisipasi aktif dalam program "Magrib Mengaji" yang dilaksanakan secara rutin selepas ibadah salat Magrib berjamaah.</p>
+            
+            <p>Dalam kegiatan ini, mahasiswa KKN mendampingi anak-anak setempat untuk memperlancar bacaan Al-Qur'an dan Iqra. Selain membaca ayat suci, mahasiswa juga menyisipkan pembelajaran materi keagamaan dasar yang dikemas ringan, seperti setoran hafalan surah-surah pendek, doa harian, serta tata cara wudu dan salat yang benar.</p>
+            
+            <p>Suasana khidmat sekaligus hangat menyelimuti ruang utama ibadah. Anak-anak yang hadir tampak fokus menyimak koreksi makhorijul huruf dan tajwid yang diberikan oleh para mahasiswa. Pendekatan yang sabar dan telaten dari mahasiswa KKN membuat anak-anak merasa nyaman dan makin bersemangat untuk datang mengaji setiap harinya.</p>
+            
+            <p>Melalui program pendampingan keagamaan ini, KKN Kelompok 5 berharap dapat membantu mengoptimalkan waktu malam anak-anak dengan aktivitas yang positif dan berkah. Langkah ini juga diharapkan mampu memperkuat fondasi moral dan membentuk generasi muda Desa Kutakembaran yang berakhlak mulia.</p>
+        `,
+        date: '19 Juli 2026',
+        imageUrl: '/assets/images/news/kkn-magrib-mengaji-day3.jpeg',
+        category: NewsCategory.NEWS,
+        author: 'Sie PDD',
+        isFeatured: false,
+    },
+
+	{
+		id: '20',
+		title: 'Sentuhan Edukasi KKN Kelompok 5: Hadirkan Suasana Belajar Interaktif di SD Negeri 2 Kutakembaran',
+		slug: 'edukasi-interaktif-mahasiswa-kkn-sd-negeri-2-kutakembaran',
+		excerpt:
+			'Mendukung sektor pendidikan desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun langsung mengajar dengan metode interaktif di SD Negeri 2 Kutakembaran...',
+		content: `
+            <p>Sebagai wujud nyata dari pemetaan program kerja di sektor pendidikan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melaksanakan kegiatan kunjungan sekaligus mengajar di SD Negeri 2 Kutakembaran. Kehadiran mahasiswa KKN ini disambut hangat oleh pihak sekolah dan para siswa yang sudah tidak sabar untuk belajar bersama.</p>
+            
+            <p>Dalam kegiatan ini, mahasiswa tidak hanya menyampaikan materi pelajaran formal, melainkan mengemasnya dengan metode pembelajaran yang interaktif, menyenangkan, dan berbasis komunikasi dua arah. Pendekatan ini sengaja dipilih guna memantik rasa ingin tahu, meningkatkan fokus, serta menumbuhkan kembali motivasi belajar anak-anak pasca-libur sekolah.</p>
+            
+            <p>Antusiasme para siswa terlihat sangat tinggi di dalam ruang kelas. Saat sesi tanya jawab dan kuis interaktif dibuka, suasana kelas mendadak riuh dengan jari-jemari yang berebut tunjuk jari ke udara, berebut untuk menjawab pertanyaan yang dilemparkan oleh mahasiswa KKN di depan kelas.</p>
+            
+            <p>Melalui program mengajar ini, mahasiswa KKN Kelompok 5 berharap dapat memberikan penyegaran metode belajar bagi anak-anak di Desa Kutakembaran. Kegiatan ini juga menjadi langkah awal dari program bimbingan belajar gratis berkelanjutan yang akan dijalankan selama masa mengabdi.</p>
+        `,
+		date: '20 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-sdn2-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '21',
+		title: 'Tumbuhkan Motivasi dan Cita-Cita, Mahasiswa KKN Kelompok 5 Sambangi SD Negeri 1 Kutakembaran',
+		slug: 'tumbuhkan-motivasi-belajar-mahasiswa-kkn-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Melalui pendekatan personal yang menyenangkan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ajak siswa SD Negeri 1 Kutakembaran berani bermimpi dan giat belajar...',
+		content: `
+            <p>Rangkaian program kerja KKN Kelompok 5 di sektor pendidikan terus bergulir. Kali ini, giliran para siswa di SD Negeri 1 Kutakembaran yang mendapatkan kunjungan edukatif dari mahasiswa KKN Kolaboratif 2026 Kelompok 5. Berbeda dengan kunjungan sebelumnya, fokus utama kali ini adalah menyuntikkan motivasi belajar dan memetakan cita-cita anak sejak dini.</p>
+            
+            <p>Menggunakan metode *storytelling* dan *ice breaking* yang menyegarkan, mahasiswa KKN mengajak para siswa untuk aktif berdialog mengenai mimpi dan cita-cita mereka di masa depan. Pendekatan ini dinilai sangat efektif untuk membuka ruang komunikasi yang cair, sehingga anak-anak merasa nyaman dan berani mengekspresikan diri mereka tanpa ragu.</p>
+            
+            <p>Suasana ruang kelas dipenuhi tawa dan keceriaan di sepanjang sesi. Pihak tenaga pendidik SD Negeri 1 Kutakembaran pun menyambut positif inisiatif ini, mengingat kehadiran mahasiswa KKN mampu membawa atmosfer baru yang menyegarkan bagi proses belajar-mengajar di sekolah tersebut.</p>
+            
+            <p>Melalui kegiatan motivasi ini, diharapkan para siswa SD Negeri 1 Kutakembaran semakin terpacu untuk giat belajar demi meraih mimpi-mimpi mereka. Kegiatan ditutup dengan penyerahan kenang-kenangan edukatif serta sesi foto bersama guru dan para siswa.</p>
+        `,
+		date: '20 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-sdn1-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
