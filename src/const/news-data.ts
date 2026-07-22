@@ -558,7 +558,7 @@ export const NEWS_DATA: News[] = [
 		imageUrl: '/assets/images/news/kkn-proker-phbs-sd1.jpg',
 		category: NewsCategory.NEWS,
 		author: 'Sie PDD',
-		isFeatured: false,
+		isFeatured: true,
 	},
 
 	{
@@ -580,7 +580,7 @@ export const NEWS_DATA: News[] = [
 		imageUrl: '/assets/images/news/kkn-pendataan-umkm-tape-singkong.jpg',
 		category: NewsCategory.NEWS,
 		author: 'Sie PDD',
-		isFeatured: false,
+		isFeatured: true,
 	},
 
 	{
@@ -598,8 +598,30 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui pendampingan di Madrasah Barkah ini, mahasiswa KKN Kelompok 5 berharap dapat membantu meringankan tugas para pengajar lokal sekaligus memberikan motivasi tambahan bagi santri Dusun Manis untuk terus semangat menimba ilmu agama.</p>
         `,
-        date: '26 Juli 2026',
+        date: '22 Juli 2026',
         imageUrl: '/assets/images/news/kkn-mengajar-madrasah-barkah.jpeg',
+        category: NewsCategory.NEWS,
+        author: 'Sie PDD',
+        isFeatured: false,
+    },
+
+	{
+        id: '26',
+        title: 'Inovasi Pengolahan Limbah, Mahasiswa KKN Kelompok 5 Olah Sampah Plastik Jadi Paving Block',
+        slug: 'inovasi-pengolahan-sampah-plastik-paving-block-desa-kutakembaran',
+        excerpt:
+            'Atasi permasalahan limbah lingkungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 buat sampel paving block berbahan dasar sampah plastik, pasir, dan oli bekas...',
+        content: `
+            <p>Sebagai wujud kepedulian terhadap kelestarian lingkungan dan penanganan limbah, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menginisiasi program kerja pengolahan sampah. Dalam program ini, mahasiswa membuat sampel produk inovatif berupa <i>paving block</i> ekonomis berbasis limbah plastik.</p>
+            
+            <p>Proses pembuatan diawali dengan pemilahan dan pencacahan limbah plastik anorganik yang dikumpulkan dari lingkungan sekitar. Sampah plastik yang telah dipilah kemudian dilelehkan dan dicampur dengan material perekat berupa pasir serta oli bekas. Adonan material ini dipanaskan hingga meleleh sempurna sebelum akhirnya dituangkan ke dalam cetakan khusus <i>paving block</i> hingga memadat.</p>
+            
+            <p>Inovasi ini diharapkan dapat menjadi salah satu opsi solusi terapan bagi warga Desa Kutakembaran dalam mengurangi penumpukan sampah plastik yang sulit terurai. Selain ramah lingkungan, pemanfaatan oli bekas dan limbah plastik ini juga memiliki nilai ekonomis karena dapat menghasilkan produk material bangunan yang kokoh.</p>
+            
+            <p>Melalui pembuatan sampel <i>paving block</i> ini, mahasiswa KKN Kelompok 5 berharap dapat mengedukasi serta memotivasi masyarakat lokal untuk mulai memilah sampah dari rumah dan mengolahnya menjadi produk bernilai guna tinggi.</p>
+        `,
+        date: '22 Juli 2026',
+        imageUrl: '/assets/images/news/kkn-proker-sampah-paving-blok.jpeg',
         category: NewsCategory.NEWS,
         author: 'Sie PDD',
         isFeatured: false,
