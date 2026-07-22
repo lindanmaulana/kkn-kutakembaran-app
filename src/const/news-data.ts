@@ -452,12 +452,12 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '19',
-        title: 'Maksimalkan Waktu Magrib, Mahasiswa KKN Kelompok 5 Hidupkan Program Magrib Mengaji',
-        slug: 'program-magrib-mengaji-mahasiswa-kkn-desa-kutakembaran',
-        excerpt:
-            'Guna memperkuat nilai-nilai keagamaan dan karakter religius sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 aktif mendampingi anak-anak mengaji di mushola desa...',
-        content: `
+		id: '19',
+		title: 'Maksimalkan Waktu Magrib, Mahasiswa KKN Kelompok 5 Hidupkan Program Magrib Mengaji',
+		slug: 'program-magrib-mengaji-mahasiswa-kkn-desa-kutakembaran',
+		excerpt:
+			'Guna memperkuat nilai-nilai keagamaan dan karakter religius sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 aktif mendampingi anak-anak mengaji di mushola desa...',
+		content: `
             <p>Tidak hanya berfokus pada pendidikan formal di sekolah, mahasiswa KKN Kolaboratif 2026 Kelompok 5 juga menaruh perhatian besar pada pendidikan spiritual anak-anak di desa mitra. Hal ini diwujudkan melalui partisipasi aktif dalam program "Magrib Mengaji" yang dilaksanakan secara rutin selepas ibadah salat Magrib berjamaah.</p>
             
             <p>Dalam kegiatan ini, mahasiswa KKN mendampingi anak-anak setempat untuk memperlancar bacaan Al-Qur'an dan Iqra. Selain membaca ayat suci, mahasiswa juga menyisipkan pembelajaran materi keagamaan dasar yang dikemas ringan, seperti setoran hafalan surah-surah pendek, doa harian, serta tata cara wudu dan salat yang benar.</p>
@@ -466,12 +466,12 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui program pendampingan keagamaan ini, KKN Kelompok 5 berharap dapat membantu mengoptimalkan waktu malam anak-anak dengan aktivitas yang positif dan berkah. Langkah ini juga diharapkan mampu memperkuat fondasi moral dan membentuk generasi muda Desa Kutakembaran yang berakhlak mulia.</p>
         `,
-        date: '19 Juli 2026',
-        imageUrl: '/assets/images/news/kkn-magrib-mengaji-day3.jpeg',
-        category: NewsCategory.NEWS,
-        author: 'Sie PDD',
-        isFeatured: false,
-    },
+		date: '19 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-magrib-mengaji-day3.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 
 	{
 		id: '20',
@@ -516,4 +516,92 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '22',
+		title: 'Tingkatkan Pelayanan Kesehatan Masyakarat, Mahasiswa KKN Kelompok 5 Dampingi Posyandu di Dusun Manis',
+		slug: 'pendampingan-posyandu-dusun-manis-desa-kutakembaran',
+		excerpt:
+			'Mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut serta mendampingi pelaksanaan kegiatan Posyandu di Dusun Manis, Desa Kutakembaran, untuk mengoptimalkan pelayanan kesehatan warga...',
+		content: `
+            <p>Dalam upaya mendukung peningkatan derajat kesehatan masyarakat di tingkat tapak, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut serta mendampingi kegiatan Posyandu rutin di Dusun Manis, Desa Kutakembaran. Kegiatan ini menjadi ajang kolaborasi aktif antara mahasiswa KKN dengan para kader kesehatan setempat.</p>
+            
+            <p>Sejak pagi, pelataran Posyandu Dusun Manis dipadati oleh warga yang antusias untuk melakukan pemeriksaan kesehatan rutin. Mahasiswa KKN mengambil peran aktif membantu para kader dalam mengarahkan alur pelayanan, pencatatan administrasi, serta mendampingi warga—khususnya kalangan lansia dan ibu-ibu—selama proses antrean berlangsung.</p>
+            
+            <p>Selain membantu teknis pelaksanaan posyandu, momen ini dimanfaatkan oleh mahasiswa KKN untuk menjalin komunikasi hangat dan mendengarkan aspirasi warga terkait layanan kesehatan di desa. Kehadiran para mahasiswa disambut baik oleh para kader dan warga Dusun Manis karena dinilai sangat membantu memperlancar jalannya kegiatan.</p>
+            
+            <p>Melalui pendampingan ini, KKN Kelompok 5 berharap dapat memberikan kontribusi nyata dalam memperkuat sistem pelayanan kesehatan preventif di tingkat dusun, sekaligus mempererat hubungan kemitraan dengan masyarakat Desa Kutakembaran.</p>
+        `,
+		date: '21 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-posyandu-manis.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '23',
+		title: 'Edukasi PHBS Sejak Dini, Mahasiswa KKN Kelompok 5 Praktikkan Cara Cuci Tangan di SD Negeri 1 Kutakembaran',
+		slug: 'edukasi-phbs-cuci-tangan-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Guna menanamkan kebiasaan hidup sehat, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sosialisasi PHBS dan praktik cuci tangan bagi siswa kelas 4, 5, dan 6 SD Negeri 1 Kutakembaran...',
+		content: `
+            <p>Dalam rangka mewujudkan generasi muda yang sehat dan paham akan pentingnya kebersihan diri, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan sosialisasi Perilaku Hidup Bersih dan Sehat (PHBS) di SD Negeri 1 Kutakembaran. Kegiatan ini menargetkan siswa kelas tinggi, yaitu kelas 4, 5, dan 6, dengan fokus utama pada edukasi serta praktik langsung tata cara mencuci tangan yang baik dan benar.</p>
+            
+            <p>Dengan memanfaatkan media visual interaktif melalui layar peraga di ruang kelas, mahasiswa KKN memperagakan enam langkah mencuci tangan menurut standar kesehatan. Para siswa diajak untuk mengikuti setiap gerakan secara langsung—mulai dari menggosok telapak tangan, punggung tangan, sela-sela jari, hingga mengunci dan memutar ibu jari.</p>
+            
+            <p>Suasana kelas terasa sangat hidup dan penuh semangat. Menggunakan metode peragaan visual yang dikemas menarik, anak-anak kelas 4 hingga 6 tampak sangat antusias mempraktikkan ulang gerakan cuci tangan bersama-sama sambil duduk melingkar di dalam kelas.</p>
+            
+            <p>Melalui kegiatan PHBS ini, mahasiswa KKN Kelompok 5 berharap kebiasaan mencuci tangan menggunakan sabun dan air mengalir dapat diterapkan oleh para siswa tidak hanya di lingkungan sekolah, tetapi juga menjadi kebiasaan sehari-hari di rumah demi mencegah risiko penularan penyakit.</p>
+        `,
+		date: '25 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-phbs-sd1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '24',
+		title: 'Dorong Potensi Ekonomi Lokal, Mahasiswa KKN Kelompok 5 Lakukan Pendataan UMKM Tape Singkong',
+		slug: 'pendataan-umkm-tape-singkong-desa-kutakembaran',
+		excerpt:
+			'Guna memetakan potensi ekonomi desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun langsung melakukan pendataan dan observasi produksi UMKM Tape Singkong...',
+		content: `
+            <p>Dalam rangka memetakan dan mengoptimalkan potensi ekonomi lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyambangi salah satu usaha mikro, kecil, dan menengah (UMKM) pengolahan tape singkong di Desa Kutakembaran. Kunjungan ini bertujuan untuk melakukan pendataan menyeluruh terkait proses produksi, kendala usaha, hingga rantai pemasaran produk lokal tersebut.</p>
+            
+            <p>Tidak hanya sekadar mengumpulkan data administrasi, para mahasiswa juga terjun langsung mendampingi dan membantu para pengrajin tape singkong dalam proses pengolahan bahan baku, mulai dari pengupasan hingga pembersihan singkong. Pendekatan partisipatif ini dilakukan agar mahasiswa dapat memahami secara detail alur produksi serta standar kualitas yang diterapkan oleh pembuat tape tradisional setempat.</p>
+            
+            <p>Melalui diskusi interaktif bersama para pelaku UMKM, mahasiswa KKN mengidentifikasi beberapa aspek potensial yang dapat dikembangkan, seperti digitalisasi pemasaran, inovasi pengemasan, hingga pemanfaatan platform digital untuk memperluas jangkauan pasar.</p>
+            
+            <p>Pendataan ini menjadi langkah awal krusial bagi KKN Kelompok 5 dalam menyusun program kerja pemberdayaan UMKM yang tepat sasaran. Diharapkan, hasil pemetaan ini dapat memberikan kontribusi nyata bagi peningkatan daya saing dan nilai ekonomis produk tape singkong khas Desa Kutakembaran.</p>
+        `,
+		date: '22 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-pendataan-umkm-tape-singkong.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+        id: '25',
+        title: 'Perkuat Pembinaan Keagamaan, Mahasiswa KKN Kelompok 5 Ikut Mengajar di Madrasah Barkah Dusun Manis',
+        slug: 'pendampingan-mengajar-madrasah-barkah-dusun-manis-kutakembaran',
+        excerpt:
+            'Guna mendukung pendidikan keagamaan anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun membantu proses pembelajaran di Madrasah Barkah, Dusun Manis...',
+        content: `
+            <p>Sektor pendidikan keagamaan menjadi salah satu fokus perhatian mahasiswa KKN Kolaboratif 2026 Kelompok 5 selama masa pengabdian di Desa Kutakembaran. Hal ini diwujudkan melalui partisipasi aktif dalam kegiatan mengajar di Madrasah Barkah, Dusun Manis.</p>
+            
+            <p>Kehadiran mahasiswa KKN disambut hangat oleh para pengajar dan para santri. Dalam proses pembelajaran, mahasiswa turut mendampingi para santri dalam mempelajari ilmu-ilmu keagamaan dasar, membaca Al-Qur'an dan kitab, serta memberikan pendampingan belajar yang interaktif dan mudah dipahami oleh anak-anak.</p>
+            
+            <p>Suasana kelas di Madrasah Barkah terasa khidmat namun tetap hangat. Para santri terlihat tekun menyimak materi dan aktif berinteraksi dengan mahasiswa KKN selama sesi pembelajaran berlangsung di bangku-bangku madrasah.</p>
+            
+            <p>Melalui pendampingan di Madrasah Barkah ini, mahasiswa KKN Kelompok 5 berharap dapat membantu meringankan tugas para pengajar lokal sekaligus memberikan motivasi tambahan bagi santri Dusun Manis untuk terus semangat menimba ilmu agama.</p>
+        `,
+        date: '26 Juli 2026',
+        imageUrl: '/assets/images/news/kkn-mengajar-madrasah-barkah.jpeg',
+        category: NewsCategory.NEWS,
+        author: 'Sie PDD',
+        isFeatured: false,
+    },
 ];
