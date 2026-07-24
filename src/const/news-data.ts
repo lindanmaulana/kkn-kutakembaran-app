@@ -584,12 +584,12 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '25',
-        title: 'Perkuat Pembinaan Keagamaan, Mahasiswa KKN Kelompok 5 Ikut Mengajar di Madrasah Barkah Dusun Manis',
-        slug: 'pendampingan-mengajar-madrasah-barkah-dusun-manis-kutakembaran',
-        excerpt:
-            'Guna mendukung pendidikan keagamaan anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun membantu proses pembelajaran di Madrasah Barkah, Dusun Manis...',
-        content: `
+		id: '25',
+		title: 'Perkuat Pembinaan Keagamaan, Mahasiswa KKN Kelompok 5 Ikut Mengajar di Madrasah Barkah Dusun Manis',
+		slug: 'pendampingan-mengajar-madrasah-barkah-dusun-manis-kutakembaran',
+		excerpt:
+			'Guna mendukung pendidikan keagamaan anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun membantu proses pembelajaran di Madrasah Barkah, Dusun Manis...',
+		content: `
             <p>Sektor pendidikan keagamaan menjadi salah satu fokus perhatian mahasiswa KKN Kolaboratif 2026 Kelompok 5 selama masa pengabdian di Desa Kutakembaran. Hal ini diwujudkan melalui partisipasi aktif dalam kegiatan mengajar di Madrasah Barkah, Dusun Manis.</p>
             
             <p>Kehadiran mahasiswa KKN disambut hangat oleh para pengajar dan para santri. Dalam proses pembelajaran, mahasiswa turut mendampingi para santri dalam mempelajari ilmu-ilmu keagamaan dasar, membaca Al-Qur'an dan kitab, serta memberikan pendampingan belajar yang interaktif dan mudah dipahami oleh anak-anak.</p>
@@ -598,20 +598,20 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui pendampingan di Madrasah Barkah ini, mahasiswa KKN Kelompok 5 berharap dapat membantu meringankan tugas para pengajar lokal sekaligus memberikan motivasi tambahan bagi santri Dusun Manis untuk terus semangat menimba ilmu agama.</p>
         `,
-        date: '22 Juli 2026',
-        imageUrl: '/assets/images/news/kkn-mengajar-madrasah-barkah.jpeg',
-        category: NewsCategory.NEWS,
-        author: 'Sie PDD',
-        isFeatured: false,
-    },
+		date: '22 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-madrasah-barkah.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 
 	{
-        id: '26',
-        title: 'Inovasi Pengolahan Limbah, Mahasiswa KKN Kelompok 5 Olah Sampah Plastik Jadi Paving Block',
-        slug: 'inovasi-pengolahan-sampah-plastik-paving-block-desa-kutakembaran',
-        excerpt:
-            'Atasi permasalahan limbah lingkungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 buat sampel paving block berbahan dasar sampah plastik, pasir, dan oli bekas...',
-        content: `
+		id: '26',
+		title: 'Inovasi Pengolahan Limbah, Mahasiswa KKN Kelompok 5 Olah Sampah Plastik Jadi Paving Block',
+		slug: 'inovasi-pengolahan-sampah-plastik-paving-block-desa-kutakembaran',
+		excerpt:
+			'Atasi permasalahan limbah lingkungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 buat sampel paving block berbahan dasar sampah plastik, pasir, dan oli bekas...',
+		content: `
             <p>Sebagai wujud kepedulian terhadap kelestarian lingkungan dan penanganan limbah, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menginisiasi program kerja pengolahan sampah. Dalam program ini, mahasiswa membuat sampel produk inovatif berupa <i>paving block</i> ekonomis berbasis limbah plastik.</p>
             
             <p>Proses pembuatan diawali dengan pemilahan dan pencacahan limbah plastik anorganik yang dikumpulkan dari lingkungan sekitar. Sampah plastik yang telah dipilah kemudian dilelehkan dan dicampur dengan material perekat berupa pasir serta oli bekas. Adonan material ini dipanaskan hingga meleleh sempurna sebelum akhirnya dituangkan ke dalam cetakan khusus <i>paving block</i> hingga memadat.</p>
@@ -620,10 +620,98 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui pembuatan sampel <i>paving block</i> ini, mahasiswa KKN Kelompok 5 berharap dapat mengedukasi serta memotivasi masyarakat lokal untuk mulai memilah sampah dari rumah dan mengolahnya menjadi produk bernilai guna tinggi.</p>
         `,
-        date: '22 Juli 2026',
-        imageUrl: '/assets/images/news/kkn-proker-sampah-paving-blok.jpeg',
-        category: NewsCategory.NEWS,
-        author: 'Sie PDD',
-        isFeatured: false,
-    },
+		date: '22 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-sampah-paving-blok.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '27',
+		title: 'Edukasi PHBS Menyeluruh, Mahasiswa KKN Kelompok 5 Ajak Seluruh Siswa SD Negeri 2 Kutakembaran Praktik Cuci Tangan',
+		slug: 'edukasi-phbs-cuci-tangan-sd-negeri-2-kutakembaran',
+		excerpt:
+			'Melibatkan siswa kelas 1 hingga 6, mahasiswa KKN Kolaboratif 2026 Kelompok 5 sukses menggelar edukasi PHBS dan peragaan cuci tangan oleh perwakilan tiap kelas di SD Negeri 2 Kutakembaran...',
+		content: `
+            <p>Dalam rangka mewujudkan generasi muda yang sehat dan paham akan pentingnya kebersihan diri, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan sosialisasi Perilaku Hidup Bersih dan Sehat (PHBS) di SD Negeri 2 Kutakembaran. Kegiatan ini diikuti oleh seluruh tingkatan kelas, mulai dari kelas 1 hingga kelas 6, dengan fokus utama pada edukasi serta praktik langsung tata cara mencuci tangan yang baik dan benar.</p>
+            
+            <p>Dengan memanfaatkan media visual interaktif di ruang kelas, mahasiswa KKN memperagakan enam langkah mencuci tangan sesuai standar kesehatan. Agar pemahaman materi lebih merata dan menyenangkan, dipilih beberapa siswa perwakilan dari setiap tingkatan kelas (kelas 1 hingga 6) untuk maju ke depan dan mempraktikkan langsung gerakan cuci tangan yang telah diajarkan.</p>
+            
+            <p>Suasana kegiatan berlangsung sangat meriah dan interaktif. Dukungan serta tepuk tangan dari teman-teman sekelas memberikan semangat bagi para perwakilan siswa yang maju memeragakan gerakan—mulai dari menggosok telapak tangan, sela-sela jari, hingga mengunci tangan dengan benar.</p>
+            
+            <p>Melalui kegiatan PHBS inklusif yang melibatkan seluruh jenjang kelas ini, mahasiswa KKN Kelompok 5 berharap kebiasaan mencuci tangan menggunakan sabun dan air mengalir dapat membudaya di lingkungan SD Negeri 2 Kutakembaran serta diterapkan secara konsisten di rumah masing-masing.</p>
+        `,
+		date: '23 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-proker-phbs-sd2.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '28',
+		title: 'Ceria Bersama Usia Dini, Mahasiswa KKN Kelompok 5 Dampingi Kegiatan Belajar di PAUD Al Barkah',
+		slug: 'pendampingan-mengajar-paud-al-barkah-desa-kutakembaran',
+		excerpt:
+			'Mendukung tumbuh kembang anak sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun mendampingi proses belajar dan kreativitas anak-anak di PAUD Al Barkah...',
+		content: `
+            <p>Dalam upaya mendukung pendidikan anak usia dini di desa mitra, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melaksanakan kegiatan pendampingan belajar di PAUD / Kober Al Barkah, Desa Kutakembaran. Kegiatan ini dirancang untuk menciptakan suasana belajar yang menyenangkan dan ramah anak.</p>
+            
+            <p>Dengan pendekatan yang sabar dan telaten, mahasiswa KKN mendampingi anak-anak dalam melakukan berbagai aktivitas stimulasi motorik dan kreativitas, seperti menulis dasar, melatih koordinasi tangan, mewarnai, serta mengenalkan simbol dan huruf melalui metode bermain sambil belajar.</p>
+            
+            <p>Anak-anak PAUD Al Barkah tampak sangat antusias dan ceria duduk melingkar bersama mahasiswa KKN. Suasana kelas yang interaktif membuat anak-anak tidak canggung dan berani untuk bereksplorasi serta mengekspresikan imajinasi mereka selama kegiatan berlangsung.</p>
+            
+            <p>Melalui pendampingan ini, mahasiswa KKN Kelompok 5 berharap dapat membantu menumbuhkan rasa senang belajar sejak usia dini, sekaligus memberikan dorongan positif bagi tumbuh kembang mental dan sosial anak-anak di Desa Kutakembaran.</p>
+        `,
+		date: '23 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-paud-albarkah.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '29',
+		title: 'Jaga Kebersihan Lingkungan Balai Desa, Mahasiswa KKN Kelompok 5 Gelar Aksi Jumat Bersih',
+		slug: 'aksi-jumat-bersih-balai-desa-kutakembaran',
+		excerpt:
+			'Guna menciptakan lingkungan pelayanan yang asri dan bersih, mahasiswa KKN Kolaboratif 2026 Kelompok 5 gotong royong melaksanakan aksi Jumat Bersih di area Balai Desa Kutakembaran...',
+		content: `
+            <p>Sebagai bentuk kepedulian terhadap kebersihan lingkungan fasilitas publik, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar kegiatan gotong royong "Jumat Bersih" di area Balai Desa Kutakembaran. Kegiatan ini menyasar pembersihan area halaman, taman, serta sekitar lingkungan kantor balai desa.</p>
+            
+            <p>Dengan penuh semangat kebersamaan, para mahasiswa bahu-membahu membersihkan rumput liar, merapikan tanaman, dan mengumpulkan sampah di sekitar pelataran balai desa. Aksi gotong royong ini dilakukan untuk memastikan area sekitar balai desa tetap tertata rapi, bersih, dan nyaman bagi warga yang berkunjung.</p>
+            
+            <p>Suasana kerja bakti berlangsung hangat dan penuh keceriaan. Kegiatan kerja bakti di hari Jumat ini juga menjadi agenda rutin untuk menjaga pola hidup bersih serta menumbuhkan budaya gotong royong antara mahasiswa KKN dan aparatur desa.</p>
+            
+            <p>Melalui aksi Jumat Bersih ini, KKN Kelompok 5 berharap dapat memberikan contoh positif serta memotivasi masyarakat Desa Kutakembaran untuk terus menjaga kebersihan dan kelestarian lingkungan di sekitar tempat tinggal masing-masing.</p>
+        `,
+		date: '24 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-jumsih-balai-desa.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '30',
+		title: 'Kobarkan Semangat Kepramukaan, Mahasiswa KKN Kelompok 5 Mengajar Pramuka di SD Negeri 2 Kutakembaran',
+		slug: 'mengajar-pramuka-sd-negeri-2-kutakembaran',
+		excerpt:
+			'Bangkitkan kedisiplinan dan jiwa kepemimpinan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 isi kegiatan ekstrakurikuler Pramuka untuk siswa kelas 4, 5, dan 6 di SD Negeri 2 Kutakembaran...',
+		content: `
+            <p>Dalam upaya membina karakter, kedisiplinan, serta jiwa kepemimpinan generasi muda, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut aktif dalam kegiatan edukasi ekstrakurikuler kepramukaan di SD Negeri 2 Kutakembaran. Kegiatan ini ditujukan bagi siswa kelas tinggi, yaitu kelas 4, 5, dan 6.</p>
+            
+            <p>Dalam sesi materi di ruang kelas, mahasiswa KKN menyampaikan wawasan dasar mengenai sejarah Gerakan Pramuka di Indonesia maupun dunia, lambang tunas kelapa, hingga makna nilai-nilai Dasa Darma. Agar suasana belajar tidak membosankan, materi kepramukaan diselingi dengan sesi menyanyikan yel-yel Pramuka yang interaktif dan membakar semangat para siswa.</p>
+            
+            <p>Antusiasme para siswa Pramuka Penggalang ini terlihat jelas dari keceriaan dan keaktifan mereka dalam mengikuti instruksi serta menyanyikan yel-yel bersama di dalam kelas. Kehadiran mahasiswa KKN memberikan warna baru yang menyegarkan pada kegiatan ekstrakurikuler di sekolah tersebut.</p>
+            
+            <p>Melalui pendampingan kegiatan Pramuka ini, mahasiswa KKN Kelompok 5 berharap dapat membantu membentuk kepribadian adik-adik di SD Negeri 2 Kutakembaran agar semakin mandiri, berkarakter kuat, berjiwa gotong royong, dan memiliki rasa nasionalisme yang tinggi.</p>
+        `,
+		date: '24 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-pramuka-sd2.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
