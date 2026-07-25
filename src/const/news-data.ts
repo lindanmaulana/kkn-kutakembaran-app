@@ -755,7 +755,7 @@ export const NEWS_DATA: News[] = [
 		date: '25 Juli 2026',
 		imageUrl: '/assets/images/news/kkn-workshop-3r-green-cycle.jpeg',
 		category: NewsCategory.NEWS,
-		author: 'Sie PDD',
+		author: 'Sie ACARA',
 		isFeatured: true,
 	},
 ];
