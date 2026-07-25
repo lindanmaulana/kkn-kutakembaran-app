@@ -714,4 +714,48 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '31',
+		title: 'Kobarkan Semangat Kepramukaan, Mahasiswa KKN Kelompok 5 Mengajar Pionering hingga Semapur di SD Negeri 1 Kutakembaran',
+		slug: 'mengajar-pramuka-pionering-semapur-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Bangkitkan kedisiplinan dan keterampilan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bekali siswa SD Negeri 1 Kutakembaran materi dasar kepramukaan, pionering, hingga semapur...',
+		content: `
+            <p>Dalam upaya membina karakter, kedisiplinan, serta keterampilan praktis generasi muda, mahasiswa KKN Kolaboratif 2026 Kelompok 5 aktif mendampingi kegiatan ekstrakurikuler kepramukaan di SD Negeri 1 Kutakembaran. Kegiatan ini diikuti oleh para siswa dengan penuh antusiasme di dalam ruang kelas.</p>
+            
+            <p>Sesi pembelajaran dikemas secara komprehensif, mencakup pemahaman materi dasar kepramukaan, teknik tali-menali atau <i>pionering</i>, hingga pengenalan isyarat <i>semapur</i> (semaphore). Mahasiswa KKN memberikan penjelasan teori yang diselingi dengan peragaan praktis agar para siswa dapat dengan mudah memahami teknik simpul serta gerakan bendera semapur.</p>
+            
+            <p>Antusiasme para siswa terlihat jelas dari keaktifan mereka saat menyimak materi dan menjawab pertanyaan interaktif dari mahasiswa KKN di depan kelas. Suasana belajar terasa seru dan hidup karena materi yang diberikan langsung memancing rasa ingin tahu para siswa Penggalang.</p>
+            
+            <p>Melalui pendampingan kegiatan Pramuka ini, mahasiswa KKN Kelompok 5 berharap dapat membantu mengasah keterampilan motorik dan pembentukan karakter adik-adik di SD Negeri 1 Kutakembaran agar semakin mandiri, terampil, berjiwa gotong royong, serta tangkas.</p>
+        `,
+		date: '25 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-pramuka-sd1-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '32',
+		title: 'Kutakembaran Green Cycle: Mahasiswa KKN Kelompok 5 Gelar Workshop 3R dan Pelatihan Eco Enzyme',
+		slug: 'workshop-3r-sampah-eco-enzyme-kutakembaran-green-cycle',
+		excerpt:
+			'Mengusung tema Kutakembaran Green Cycle, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar Workshop 3R Sampah dan sosialisasi pembuatan Eco Enzyme bersama warga...',
+		content: `
+            <p>Dalam rangka mendorong pengelolaan sampah mandiri dan ramah lingkungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar rangkaian program "Kutakembaran Green Cycle: Dari Sampah Menjadi Solusi". Kegiatan ini diisi dengan Workshop 3R (Reduce, Reuse, Recycle) serta edukasi pemilahan sampah organik, anorganik, dan B3 bagi warga setempat.</p>
+            
+            <p>Pada sesi kali ini, mahasiswa KKN memfokuskan pemaparan pada pelatihan pembuatan <i>Eco Enzyme</i> yang memanfatkan sampah organik rumah tangga. Di hadapan ibu-ibu warga yang berkumpul di pelataran warga, mahasiswa memeragakan secara langsung proses pengolahan limbah kulit buah dan sayuran yang dicampur dengan air serta gula merah ke dalam wadah galon untuk proses fermentasi.</p>
+            
+            <p>Masyarakat tampak antusias menyimak penjelasanmengenai sejuta manfaat <i>Eco Enzyme</i>, mulai dari pembersih alami, pupuk tanaman, hingga pengolah limbah cair rumah tangga. Selain <i>Eco Enzyme</i>, program Kutakembaran Green Cycle ini juga mencakup pelatihan pembuatan lubang biopori serta inovasi pembuatan <i>paving block</i> dari limbah plastik.</p>
+            
+            <p>Melalui workshop edukatif ini, KKN Kelompok 5 berharap masyarakat Desa Kutakembaran dapat mulai mengubah pandangan terhadap sampah, dari sekadar limbah menjadi sumber daya yang berguna dan bernilai ekonomis bagi kehidupan sehari-hari.</p>
+        `,
+		date: '25 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-workshop-3r-green-cycle.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
