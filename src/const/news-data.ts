@@ -758,4 +758,92 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie ACARA',
 		isFeatured: true,
 	},
+
+	{
+		id: '33',
+		title: 'Jaga Kebugaran Tubuh, Mahasiswa KKN Kelompok 5 Gelar Senam Sehat Pagi di Halaman Kantor Kepala Desa',
+		slug: 'senam-sehat-pagi-kantor-kepala-desa-kutakembaran',
+		excerpt:
+			'Guna menggalakkan kebiasaan berolahraga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar kegiatan senam sehat pagi bersama di halaman Kantor Kepala Desa Kutakembaran...',
+		content: `
+            <p>Dalam upaya mengajak masyarakat serta perangkat desa untuk terus menjaga kebugaran tubuh dan pola hidup aktif, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar kegiatan Senam Sehat Pagi. Kegiatan ini dilaksanakan di halaman Kantor Kepala Desa Kutakembaran pada pagi hari yang cerah.</p>
+            
+            <p>Kegiatan diawali dengan pemanasan ringan yang dipandu oleh mahasiswa KKN selaku instruktur, lalu dilanjutkan dengan serangkaian gerakan senam aerobik dan kebugaran yang energik. Para peserta tampak antusias dan bersemangat mengikuti setiap ritme musik dan peragaan gerakan dari depan.</p>
+            
+            <p>Selain bermanfaat untuk menjaga kesehatan fisik, kegiatan senam pagi di area halaman kantor desa ini juga menjadi momen yang pas untuk mempererat keakraban serta komunikasi yang cair antara mahasiswa KKN, perangkat desa, dan warga sekitar sebelum memulai aktivitas harian.</p>
+            
+            <p>Melalui agenda senam sehat rutin ini, KKN Kelompok 5 berharap semangat berolahraga dapat terus terjaga di lingkungan Desa Kutakembaran demi mewujudkan masyarakat yang sehat, aktif, dan produktif.</p>
+        `,
+		date: '26 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-senam-kantor-desa.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '34',
+		title: 'Pererat Silaturahmi, Mahasiswa KKN Kelompok 5 Gelar Tradisi Ngaliwet dan Makan Bersama di Lamping Buligir',
+		slug: 'tradisi-ngaliwet-makan-bersama-lamping-buligir',
+		excerpt:
+			'Mempererat tali kekeluargaan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 nikmati suasana kebersamaan melalui tradisi ngaliwet dan makan bersama warga di destinasi Lamping Buligir...',
+		content: `
+            <p>Di tengah padatnya agenda program kerja, mahasiswa KKN Kolaboratif 2026 Kelompok 5 meluangkan waktu untuk mempererat keakraban bersama warga melalui kegiatan khas Sunda, yaitu <i>ngaliwet</i> dan makan bersama. Kegiatan ini dilaksanakan dengan mengambil latar keindahan alam kawasan Lamping Buligir.</p>
+            
+            <p>Tradisi <i>ngaliwet</i> ini menjadi ajang yang sangat efektif untuk mencairkan suasana dan memperkuat ikatan emosional. Mulai dari persiapan memasak nasi liwet, menyiapkan lauk-pauk, hingga menyajikannya di atas daun pisang dilakukan secara gotong royong dengan penuh canda tawa.</p>
+            
+            <p>Pemandangan tebing batu eksotis Lamping Buligir menambah kehangatan momen kebersamaan tersebut. Warga dan mahasiswa KKN membaur tanpa sekat, menikmati hidangan bersama sambil mengobrol santai mengenai dinamika kehidupan bermasyarakat di desa.</p>
+            
+            <p>Melalui kegiatan keakraban ini, KKN Kelompok 5 berharap hubungan silaturahmi yang harmonis dan rasa kekeluargaan dengan masyarakat lokal dapat terus terjaga erat hingga akhir masa pengabdian dan seterusnya.</p>
+        `,
+		date: '26 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-ngaliwet-lamping-buligir.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '35',
+		title: 'Solusi Limbah Rumah Tangga, Mahasiswa KKN Kelompok 5 Latih Warga Dusun Pahing 1 Olah Sampah Jadi Eco Enzyme, Paving Block, dan Biopori',
+		slug: 'pelatihan-pengolahan-sampah-eco-enzyme-paving-block-biopori-dusun-pahing-1',
+		excerpt:
+			'Edukasi pengelolaan limbah berkelanjutan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 gelar praktik langsung pembuatan Eco Enzyme, paving block, dan lubang biopori bersama warga Dusun Pahing 1...',
+		content: `
+            <p>Sebagai bagian dari rangkaian program pengolahan limbah berbasis lingkungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sesi praktik langsung pembuatan <i>Eco Enzyme</i>, <i>paving block</i> limbah plastik, serta lubang resapan biopori bersama warga Dusun Pahing 1, Desa Kutakembaran.</p>
+            
+            <p>Dalam kegiatan yang berlangsung hangat di teras rumah warga Dusun Pahing 1 ini, mahasiswa KKN bersama ibu-ibu setempat mempraktikkan langsung cara pembuatan <i>Eco Enzyme</i> menggunakan galon bekas. Bahan organik berupa sisa buah dan sayuran dimasukkan secara bergotong royong ke dalam wadah galon yang telah diisi larutan air gula untuk memicu proses fermentasi.</p>
+            
+            <p>Selain <i>Eco Enzyme</i> untuk limbah organik, mahasiswa KKN juga memaparkan teknik pencetakan <i>paving block</i> ramah lingkungan dari limbah plastik anorganik serta tata cara pembuatan lubang resapan biopori. Kombinasi ketiga metode ini dirancang sebagai solusi holistik untuk mengatasi permasalahan sampah langsung dari sumbernya, yaitu lingkungan rumah tangga.</p>
+            
+            <p>Antusiasme warga Dusun Pahing 1 terlihat sangat tinggi sepanjang kegiatan. Melalui sosialisasi dan praktik partisipatif ini, KKN Kelompok 5 berharap masyarakat dapat secara mandiri menerapkan ilmu pengolahan sampah ini guna menciptakan lingkungan desa yang lebih bersih, asri, dan produktif.</p>
+        `,
+		date: '28 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-pelatihan-eco-enzyme-biopori.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '36',
+		title: 'Lanjutkan Program Kutakembaran Green Cycle, Mahasiswa KKN Kelompok 5 Edukasi Pengolahan Sampah di Dusun Manis',
+		slug: 'pelatihan-pengolahan-sampah-eco-enzyme-paving-block-biopori-dusun-manis',
+		excerpt:
+			'Gelar sosialisasi terbuka di Dusun Manis, mahasiswa KKN Kolaboratif 2026 Kelompok 5 latih warga olah limbah rumah tangga menjadi Eco Enzyme, paving block, dan lubang biopori...',
+		content: `
+            <p>Rangkaian program pengolahan limbah berbasis lingkungan "Kutakembaran Green Cycle" terus berlanjut. Kali ini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sesi sosialisasi dan pelatihan pengolahan sampah terbuka bagi warga masyarakat di Dusun Manis, Desa Kutakembaran.</p>
+            
+            <p>Bertempat di area ruang terbuka Dusun Manis, mahasiswa KKN memaparkan materi pengelolaan sampah berkelanjutan di hadapan warga yang hadir antusias. Materi yang disampaikan berfokus pada tiga inovasi utama, yaitu pembuatan <i>Eco Enzyme</i> dari limbah organik, pembuatan <i>paving block</i> ramah lingkungan dari limbah plastik anorganik, serta penerapan lubang resapan biopori.</p>
+            
+            <p>Melalui pendekatan komunikatif dan interaktif, mahasiswa menjelaskan langkah demi langkah pemilahan sampah dari tingkat rumah tangga beserta manfaat ekonomis dan lingkungan yang dapat diperoleh warga. Sesi diskusi terbuka juga dimanfaatkan warga Dusun Manis untuk bertanya langsung mengenai kendala pengolahan limbah di sekitar pemukiman mereka.</p>
+            
+            <p>Melalui perluasan edukasi di Dusun Manis ini, KKN Kelompok 5 berharap kesadaran akan pentingnya menjaga kebersihan lingkungan serta keterampilan mengolah sampah dapat merata di seluruh pelosok Desa Kutakembaran.</p>
+        `,
+		date: '27 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-pelatihan-sampah-dusun-manis.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
