@@ -874,4 +874,48 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '38',
+		title: 'Perkuat Ukhuwah Islamiyah, Mahasiswa KKN Kelompok 5 Ikuti Pengajian Rutinan Ibu-Ibu Selasa Pagi',
+		slug: 'pengajian-rutinan-ibu-ibu-selasa-pagi-desa-kutakembaran',
+		excerpt:
+			'Pererat silaturahmi keagamaan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ikuti kegiatan majelis taklim dan pengajian rutinan ibu-ibu setiap Selasa pagi di Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka mempererat tali silaturahmi serta melebur bersama kegiatan keagamaan masyarakat, mahasiswi KKN Kolaboratif 2026 Kelompok 5 turut serta dalam agenda pengajian rutinan ibu-ibu yang diselenggarakan setiap hari Selasa pagi di Desa Kutakembaran.</p>
+            
+            <p>Kegiatan majelis taklim ini diisi dengan pembacaan doa bersama, lantunan solawat, serta tausiyah keagamaan. Kehadiran mahasiswi KKN disambut hangat oleh jamaah ibu-ibu desa yang tampak tekun dan khusyuk menyimak materi kajian keagamaan di dalam area masjid.</p>
+            
+            <p>Selain sebagai wadah penambah ilmu spiritual, momen pengajian rutinan Selasa pagi ini dimanfaatkan oleh mahasiswi KKN untuk lebih dekat dengan warga, saling bertukar sapa, dan memperkuat ukhuwah Islamiyah di lingkungan setempat.</p>
+            
+            <p>Melalui keikutsertaan aktif dalam kegiatan keagamaan lokal ini, KKN Kelompok 5 berharap nilai-nilai kebersamaan dan keharmonisan antara mahasiswa dan masyarakat Desa Kutakembaran dapat terus terjalin erat.</p>
+        `,
+		date: '28 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-pengajian-rutin-selasa.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '39',
+		title: 'Satu Lapangan Satu Semangat, Kemeriahan Fun Volleyball KKN Kutakembaran vs KKN Cirukem',
+		slug: 'kemeriahan-fun-volleyball-kkn-kutakembaran-vs-kkn-cirukem',
+		excerpt:
+			'Jalin keakraban lewat olahraga, pertandingan persahabatan Fun Volleyball antara KKN Kutakembaran dan KKN Cirukem di Lapangan Voly Dusun Manis berlangsung seru dan penuh kebersamaan...',
+		content: `
+            <p>Rangkaian agenda pertandingan persahabatan <b>Fun Volleyball Match Day</b> yang mempertemukan tim KKN Kutakembaran dan KKN Cirukem sukses digelar di Lapangan Voly Dusun Manis, Desa Kutakembaran. Pertandingan berlangsung meriah dengan antusiasme tinggi dari para pemain maupun penonton yang hadir.</p>
+            
+            <p>Sejak peluit pertama dibunyikan, kedua tim saling memperagakan permainan yang penuh semangat dan sportif. Aksi saling mengejar poin diselingi gelak tawa serta sorak dukungan dari tribun lapangan, menciptakan suasana pertandingan yang hangat dan menghibur bagi warga setempat.</p>
+            
+            <p>Setelah pertandingan usai, kegiatan dilanjutkan dengan foto bersama di tribun lapangan voly. Momen foto bersama ini menjadi bukti eratnya tali silaturahmi dan rasa persaudaraan antar sesama mahasiswa KKN Kolaboratif 2026 di wilayah sekitar.</p>
+            
+            <p>Melalui ajang olahraga ceria ini, diharapkan hubungan komunikasi, kolaborasi, dan keakraban antara tim KKN Kutakembaran dan KKN Cirukem dapat terus terjalin harmonis hingga akhir masa pengabdian.</p>
+        `,
+		date: '28 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-fun-volleyball-matchday-bersama.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
