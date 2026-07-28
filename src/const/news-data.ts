@@ -846,4 +846,32 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '37',
+		title: 'Pengumuman Match Day Fun Volleyball: Pertandingan Persahabatan KKN Cirukem vs KKN Kutakembaran',
+		slug: 'pengumuman-fun-volleyball-kkn-cirukem-vs-kkn-kutakembaran',
+		excerpt:
+			'Satu lapangan, satu semangat, satu kemenangan! Saksikan keseruan pertandingan persahabatan Fun Volleyball antara KKN Cirukem melawan KKN Kutakembaran di Lapangan Voly Dusun Manis...',
+		content: `
+            <p><strong>Mari Rapatkan Barisan dan Berikan Dukungan Terbaikmu!</strong></p>
+            
+            <p>Dalam rangka mempererat tali silaturahmi dan menjalin keakraban antardesa, KKN Kolaboratif 2026 mempersembahkan agenda olahraga persahabatan <b>"Fun Volleyball Match Day"</b> yang mempertemukan tim <b>KKN Cirukem vs KKN Kutakembaran</b>.</p>
+            
+            <p>Pertandingan ini mengusung semangat persaudaraan dan sportivitas tinggi dengan tagline <i>"Satu Lapangan, Satu Semangat, Satu Kemenangan"</i>. Catat waktu dan lokasinya agar tidak ketinggalan keseruannya:</p>
+            
+            <ul>
+                <li><b>Hari/Tanggal:</b> Selasa, 28 Juli 2026</li>
+                <li><b>Waktu:</b> 15.30 WIB - Selesai</li>
+                <li><b>Lokasi:</b> Lapangan Voly Desa Kutakembaran (Dusun Manis)</li>
+            </ul>
+            
+            <p>Ayo seluruh warga dan kawan-kawan mahasiswa, hadir dan ramaikan tribun! Mari berikan sorakan hangat serta dukungan positif untuk kedua tim. <i>Play Hard, Respect All, Enjoy The Game!</i></p>
+        `,
+		date: '28 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-matchday-volleyball-cirukem-vs-kutakembaran.png',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
