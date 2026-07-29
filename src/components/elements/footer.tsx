@@ -156,7 +156,7 @@ export const Footer = () => {
 				</div>
 
 				<div className="border-t border-gray-100 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs md:text-sm text-gray-500">
-					<p>© 2026 KKN Kolaboratif Kuta Kembaran. All Rights Reserved.</p>
+					<p>© 2026 KKN Kolaboratif KutaKembaran. All Rights Reserved.</p>
 
 					<a
 						href="https://wa.me/6283823026580"

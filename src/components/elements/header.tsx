@@ -45,7 +45,7 @@ export const Header = () => {
 						>
 							<span className="text-sm md:text-base leading-none">KKN Kolaboratif</span>
 							<span className="text-[10px] md:text-xs tracking-wide font-medium mt-0.5 opacity-90">
-								Desa Kuta Kembaran
+								Desa KutaKembaran
 							</span>
 						</div>
 					</div>
