@@ -918,4 +918,70 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '40',
+		title: 'Asah Keterampilan Dasar Sepak Bola, Mahasiswa KKN Kelompok 5 Ampu Pembelajaran Olahraga di SD Negeri 1 Kutakembaran',
+		slug: 'pembelajaran-olahraga-sepak-bola-dasar-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Guna mengasah fisik dan pemahaman taktik dasar, mahasiswa KKN Kolaboratif 2026 Kelompok 5 latih siswa kelas 5 SD Negeri 1 Kutakembaran materi pemanasan, dribel, operan, hingga strategi bermain...',
+		content: `
+            <p>Dalam rangka mendukung kegiatan jasmani dan pengembangan bakat olahraga siswa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 mengisi kegiatan pembelajaran Penjaskes (Olahraga) khusus bagi siswa kelas 5 di SD Negeri 1 Kutakembaran. Materi pelatihan kali ini berfokus pada penguasaan teknik dan taktik dasar permainan sepak bola.</p>
+            
+            <p>Sesi latihan diawali dengan pemanasan terstruktur untuk mencegah risiko cedera, lalu dilanjutkan dengan latihan teknik fundamental seperti <i>dribble</i> (menggiring bola) dan kontrol operan pendek. Mahasiswa KKN memberikan pengarahan intensif agar para siswa dapat menguasai akurasi operan dan ritme permainan.</p>
+            
+            <p>Selain teknik dasar, mahasiswa KKN juga membekali para siswa dengan pemahaman taktik sepak bola yang efisien. Para siswa diajarkan cara bertahan yang solid, pentingnya memperbanyak umpan-umpan pendek, serta strategi bergerak membuka ruang di sela-sela pergerakan lawan agar selalu tersedia opsi operan. Taktik ini ditekankan agar siswa dapat bermain secara tim dengan efektif tanpa cepat menguras stamina.</p>
+            
+            <p>Antusiasme anak-anak kelas 5 tampak luar biasa sepanjang sesi latihan di lapangan. Melalui pendampingan olahraga ini, KKN Kelompok 5 berharap para siswa tidak hanya tumbuh makin sehat dan bugar, tetapi juga memahami pentingnya kerja sama tim, disiplin, dan strategi dalam berolahraga.</p>
+        `,
+		date: '29 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-olahraga-sd1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '41',
+		title: 'Tingkatkan Literasi Numerasi, Mahasiswa KKN Kelompok 5 Berikan Pendampingan Belajar Matematika di SD Negeri 1 Kutakembaran',
+		slug: 'pendampingan-belajar-matematika-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Bantu tingkatkan pemahaman berhitung siswa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 beri pendampingan belajar Matematika secara interaktif di SD Negeri 1 Kutakembaran...',
+		content: `
+            <p>Dalam rangka mendukung peningkatan literasi numerasi di sekolah dasar, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut aktif membantu proses pembelajaran mata pelajaran Matematika di SD Negeri 1 Kutakembaran.</p>
+            
+            <p>Pendampingan belajar dilakukan dengan pendekatan yang interaktif dan komunikatif di dalam kelas. Mahasiswa KKN mendampingi para siswa secara langsung, membimbing pemecahan soal-soal matematika, serta memberikan penjelasan langkah demi langkah agar materi perhitungan terasa lebih mudah dipahami dan tidak menakutkan bagi anak-anak.</p>
+            
+            <p>Para siswa terlihat sangat antusias berkumpul mengelilingi meja belajar untuk bertanya dan berdiskusi langsung mengenai soal latihan yang sedang dikerjakan. Suasana belajar yang ramah dan suportif ini membuat anak-anak lebih percaya diri dalam menyelesaikan tugas matematika mereka.</p>
+            
+            <p>Melalui pendampingan ini, mahasiswa KKN Kelompok 5 berharap dapat meningkatkan minat belajar serta kemampuan logika berhitung para siswa di SD Negeri 1 Kutakembaran agar semakin siap menghadapi jenjang pendidikan selanjutnya.</p>
+        `,
+		date: '29 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-matematika-sd1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '42',
+		title: 'Bantu Kelancaran Mengaji Santri, Mahasiswa KKN Kelompok 5 Beri Pendampingan Belajar di Madrasah Al Barkah',
+		slug: 'pendampingan-mengajar-mengaji-madrasah-al-barkah',
+		excerpt:
+			"Dukung pembinaan akhlak dan bacaan Al-Qur'an, mahasiswa KKN Kolaboratif 2026 Kelompok 5 terjun membantu bimbingan mengaji santri di Madrasah Al Barkah...",
+		content: `
+            <p>Dalam rangka memperkuat pendidikan keagamaan serta pembinaan akhlak anak-anak di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 secara konsisten membantu proses pembelajaran dan bimbingan mengaji di Madrasah Al Barkah.</p>
+            
+            <p>Pendampingan dilakukan dengan metode pembelajaran privat dan kelompok kecil. Mahasiswa KKN mendampingi para santri satu per satu untuk menyimak hafalan, mengoreksi tajwid, serta membimbing kelancaran membaca Iqro dan Al-Qur'an secara telaten di bangku madrasah.</p>
+            
+            <p>Suasana belajar terasa begitu tenang dan kondusif. Tampak para santriwati dan santri tekun menyimak arahan dari mahasiswa KKN yang duduk mendampingi mereka. Metode Bimbingan personal ini membantu anak-anak lebih percaya diri dan fokus dalam memperlancar bacaan Al-Qur'an mereka.</p>
+            
+            <p>Melalui keikutsertaan aktif dalam kegiatan pengajaran di Madrasah Al Barkah ini, mahasiswa KKN Kelompok 5 berharap dapat memberikan kontribusi nyata dalam mencetak generasi muda desa yang religius, berakhlak mulia, dan cinta Al-Qur'an.</p>
+        `,
+		date: '29 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-madrasah-al-barkah-2.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
