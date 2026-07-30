@@ -984,4 +984,25 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+	{
+		id: '43',
+		title: 'Cegah Perundungan Sejak Dini, Mahasiswa KKN Kelompok 5 Gelar Sosialisasi Anti-Bullying di SD Negeri 2 Kutakembaran',
+		slug: 'sosialisasi-anti-bullying-sd-negeri-2-kutakembaran',
+		excerpt:
+			'Bangkitkan kepedulian dan rasa saling menghargai, mahasiswa KKN Kolaboratif 2026 Kelompok 5 edukasi siswa SD Negeri 2 Kutakembaran tentang bahaya perundungan melalui kampanye "Be a Buddy, Not a Bully"...',
+		content: `
+            <p>Dalam upaya menciptakan lingkungan sekolah yang aman, nyaman, dan bebas dari tindakan perundungan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan kegiatan Sosialisasi Anti-Bullying di SD Negeri 2 Kutakembaran.</p>
+            
+            <p>Mengusung pesan utama <i>"Be a Buddy, Not a Bully"</i>, mahasiswa KKN menyampaikan materi pemahaman mengenai jenis-jenis perundungan (baik fisik, verbal, maupun sosial), dampak buruknya bagi mental korban, serta pentingnya saling menyayangi antar sesama teman sekolah. Materi disampaikan secara menarik memanfaatkan media visual peraga di halaman sekolah.</p>
+            
+            <p>Sesi kegiatan berlangsung hangat dan interaktif. Mahasiswa KKN mengajak beberapa siswa maju ke depan untuk berbicara di mikrofon, berbagi pendapat, serta memperagakan komitmen bersama untuk saling merangkul dan menolak segala bentuk perundungan di lingkungan sekolah.</p>
+            
+            <p>Melalui sosialisasi anti-bullying ini, KKN Kelompok 5 berharap dapat membentuk karakter siswa SD Negeri 2 Kutakembaran yang berbudi pekerti luhur, berempati tinggi, serta mampu mewujudkan suasana belajar yang inklusif dan ramah anak.</p>
+        `,
+		date: '30 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-sosialisasi-anti-bulying.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
