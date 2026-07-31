@@ -1027,4 +1027,48 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '45',
+		title: 'Latih Keterampilan Isyarat Abjad, Mahasiswa KKN Kelompok 5 Dampingi Praktik Semaphore Pramuka di SD Negeri 2 Kutakembaran',
+		slug: 'pendampingan-praktik-pramuka-semaphore-sd-negeri-2-kutakembaran',
+		excerpt:
+			'Tingkatkan Ketangkasan dan ketelitian siswa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bina latihan ekstrakurikuler Pramuka fokus pada peragaan bendera Semaphore di SD Negeri 2 Kutakembaran...',
+		content: `
+            <p>Dalam rangka melanjutkan pembinaan ekstrakurikuler kepramukaan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 mendampingi kegiatan latihan luar ruangan (outdoor) khusus materi isyarat <i>Semaphore</i> bagi siswa SD Negeri 2 Kutakembaran.</p>
+            
+            <p>Berlokasi di halaman sekolah, para siswa Pramuka tampak berbaris rapi dan memegang sepasang bendera semaphore merah-kuning. Mahasiswa KKN secara cermat membimbing serta mengevaluasi setiap posisi tangan siswa untuk membentuk isyarat abjad A sampai Z sesuai standar kepramukaan.</p>
+            
+            <p>Para siswa memperagakan gerakan bendera dengan penuh semangat dan konsentrasi tinggi. Pembelajaran praktik di lapangan ini dirancang agar para siswa dapat mengasah memori visual, ketepatan posisi, serta kecepatan dalam mengirim maupun menerima pesan isyarat abjad.</p>
+            
+            <p>Melalui latihan rutin ini, KKN Kelompok 5 berharap para siswa SD Negeri 2 Kutakembaran semakin terampil, tangkas, dan percaya diri dalam menguasai teknik komunikasi nonverbal dasar dalam dunia Kepramukaan.</p>
+        `,
+		date: '31 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-latihan-pramuka-semaphore-sd2.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '46',
+		title: 'Sinergi Rapat Koordinasi Desa Bersama TP PKK: Edukasi Obat oleh Apoteker dan Sosialisasi Agenda UMKM',
+		slug: 'rapat-koordinasi-pkk-edukasi-obat-dan-pengumuman-umkm-kutakembaran',
+		excerpt:
+			'Perkuat sinergi program desa dan kesehatan keluarga, KKN Kelompok 5 ikuti Rakor TP PKK Desa Kutakembaran, dibekali materi edukasi obat oleh Apoteker, serta sampaikan pengumuman agenda UMKM...',
+		content: `
+            <p>Dalam upaya memperkuat sinergi program kemasyarakatan serta meningkatkan kualitas kesehatan keluarga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menghadiri kegiatan Rapat Koordinasi (Rakor) Desa bersama Tim Penggerak PKK Desa Kutakembaran.</p>
+            
+            <p>Pertemuan yang berlangsung hangat di Balai Desa ini diisi dengan sesi edukasi kesehatan khusus yang dibawakan oleh praktisi Apoteker. Para kader PKK mendapatkan pemahaman krusial mengenai prinsip <i>DAGUSIBU</i> (Dapatkan, Gunakan, Simpan, dan Buang) obat secara aman dan tepat, mulai dari tata cara penyimpanan obat rumah tangga hingga prosedur pembuangan limbah obat agar tidak mencemari lingkungan.</p>
+            
+            <p>Di akhir sesi rapat koordinasi, mahasiswa KKN Kelompok 5 juga memanfaatkan momen tersebut untuk menyampaikan pemberitahuan serta undangan resmi kepada seluruh anggota PKK dan warga desa mengenai agenda program kerja yang akan dilaksanakan pada hari Minggu mendatang.</p>
+            
+            <p>Agenda mendatang tersebut berfokus pada pendampingan serta sosialisasi pengembangan Usaha Mikro, Kecil, dan Menengah (UMKM) bagi warga Desa Kutakembaran. Melalui kolaborasi ini, diharapkan para kader PKK dapat menyebarluaskan informasi kesehatan sekaligus mengajak para pelaku usaha lokal untuk berpartisipasi aktif dalam memajukan perekonomian desa.</p>
+        `,
+		date: '31 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-rakor-pkk-sosialisasi-obat.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
