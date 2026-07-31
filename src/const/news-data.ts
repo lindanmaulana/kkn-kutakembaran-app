@@ -1005,4 +1005,26 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '44',
+		title: 'Dukung Pendampingan Belajar Usia Dini, Mahasiswa KKN Kelompok 5 Ikut Mengajar di PAUD Kenanga Dusun Pahing 1',
+		slug: 'pendampingan-mengajar-paud-kenanga-dusun-pahing-1',
+		excerpt:
+			'Mengabdi untuk pendidikan usia dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bantu proses belajar dan pembentukan karakter anak-anak di PAUD / KB Kenanga, Dusun Pahing 1...',
+		content: `
+            <p>Dalam rangka mendukung pengembangan pendidikan anak usia dini di desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melaksanakan kegiatan pendampingan belajar di PAUD / KB Kenanga yang berlokasi di Dusun Pahing 1, Desa Kutakembaran.</p>
+            
+            <p>Dalam kegiatan ini, mahasiswa KKN membantu pengajar lokal memberikan materi pembentukan karakter, pengenalan doa-doa harian, serta praktik ibadah dasar bagi anak-anak. Pendampingan dikemas dengan metode interaktif, bernyanyi, dan peragaan langsung agar anak-anak usia dini dapat mengikuti instruksi dengan mudah dan gembira.</p>
+            
+            <p>Suasana kelas di KB Kenanga terlihat sangat hidup. Anak-anak yang mengenakan pakaian ibadah tampak ceria dan antusias mendengarkan penjelasan dari mahasiswi KKN yang berdiri memberikan contoh di depan kelas.</p>
+            
+            <p>Melalui keikutsertaan dalam mengajar di PAUD Kenanga Dusun Pahing 1 ini, KKN Kelompok 5 berharap dapat membantu menciptakan suasana belajar yang menyenangkan serta menumbuhkan minat belajar dan nilai-nilai keagamaan sejak dini bagi anak-anak di Desa Kutakembaran.</p>
+        `,
+		date: '31 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-paud-kenanga-pahing1.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
