@@ -1074,6 +1074,50 @@ export const NEWS_DATA: News[] = [
 
 	{
 		id: '47',
+		title: 'Melestarikan Kuliner Lokal, Mahasiswa KKN Kelompok 5 Ikuti Praktik Pembuatan Ranggining Bersama Ibu-Ibu PKK',
+		slug: 'praktik-pembuatan-ranggining-bersama-ibu-ibu-pkk-kutakembaran',
+		excerpt:
+			'Dukung potensi olahan pangan lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ikuti sesi pembuatan camilan tradisional Ranggining bersama ibu-ibu PKK Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka menggali dan mendukung potensi olahan pangan lokal desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berkesempatan mengikuti praktik pembuatan camilan tradisional <b>Ranggining</b> bersama ibu-ibu Tim Penggerak PKK Desa Kutakembaran.</p>
+            
+            <p>Kegiatan ini berlangsung penuh kehangatan dan keakraban. Mahasiswa KKN diajarkan secara langsung tahapan pengolahan ranggining, mulai dari penyiapan adonan bertekstur khas, pencetakan dan penggilingan adonan menggunakan alat khusus hingga menjadi lembaran yang siap dijemur dan digoreng.</p>
+            
+            <p>Selain sebagai wadah transfer pengetahuan kuliner tradisional khas Sunda, kegiatan ini juga menjadi sarana mempererat hubungan silaturahmi antara mahasiswa KKN dan para kader PKK desa. Diskusi santai seputar peningkatan kualitas produk dan potensi pengemasan ranggining sebagai produk UMKM unggulan desa turut diulas di sela-sela kegiatan.</p>
+            
+            <p>Melalui pengalaman praktik ini, KKN Kelompok 5 berharap cita rasa dan keahlian pembuatan ranggining sebagai aset warisan kuliner lokal Desa Kutakembaran dapat terus dilestarikan serta dikembangkan ke jangkauan pasar yang lebih luas.</p>
+        `,
+		date: '1 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-pembuatan-ranggining-pkk.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '48',
+		title: 'Asah Keterampilan Tali-Menali, Mahasiswa KKN Kelompok 5 Dampingi Kegiatan Kepramukaan di SD Negeri 1 Kutakembaran',
+		slug: 'pendampingan-kegiatan-pramuka-tali-menali-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Tingkatkan kemandirian dan keterampilan kepramukaan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 latih siswa SD Negeri 1 Kutakembaran teknik tali-menali dan ikatan dasar...',
+		content: `
+            <p>Dalam upaya mendukung pembentukan karakter serta keterampilan kedisiplinan siswa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut serta mendampingi kegiatan ekstrakurikuler Pramuka di SD Negeri 1 Kutakembaran.</p>
+            
+            <p>Pada sesi pembinaan kali ini, materi difokuskan pada penguasaan teknik dasar tali-menali (<i>pioneering</i>). Mahasiswa KKN mendampingi adik-adik Pramuka Penggalang secara dekat untuk mempraktikkan berbagai jenis simpul dan ikatan dasar pada tongkat Pramuka secara akurat dan kokoh.</p>
+            
+            <p>Para siswi tampak sangat antusias dan fokus memperhatikan teknik mengikat yang diajarkan oleh mahasiswi KKN di halaman sekolah. Pendampingan secara langsung ini memudahkan para siswa memahami fungsi tiap simpul serta melatih kerja sama tim dan ketelitian.</p>
+            
+            <p>Melalui keikutsertaan dalam kegiatan kepramukaan di SD Negeri 1 Kutakembaran ini, KKN Kelompok 5 berharap dapat menumbuhkan jiwa kepemimpinan, kemandirian, serta kreativitas anggota Pramuka sejak usia sekolah dasar.</p>
+        `,
+		date: '1 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-pramuka-sd1.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '49',
 		title: 'Dorong Digitalisasi Ekonomi Lokal, Mahasiswa KKN Kelompok 5 Resmi Meluncurkan Website Galeri UMKM Desa Kutakembaran',
 		slug: 'peluncuran-website-galeri-umkm-desa-kutakembaran',
 		excerpt:
@@ -1087,7 +1131,7 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui inovasi digitalisasi ini, KKN Kelompok 5 berharap platform Galeri UMKM dapat terus dimanfaatkan dan dikembangkan oleh warga serta perangkat desa demi meningkatkan kemandirian dan pertumbuhan ekonomi masyarakat secara berkelanjutan.</p>
         `,
-		date: '2 Agustus 2026',
+		date: '1 Agustus 2026',
 		imageUrl: '/assets/images/news/kkn-launching-website-galeri-umkm.png',
 		category: NewsCategory.NEWS,
 		author: 'Sie PDD',
