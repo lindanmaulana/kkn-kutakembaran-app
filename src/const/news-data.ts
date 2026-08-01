@@ -1052,23 +1052,45 @@ export const NEWS_DATA: News[] = [
 
 	{
 		id: '46',
-		title: 'Sinergi Rapat Koordinasi Desa Bersama TP PKK: Edukasi Obat oleh Apoteker dan Sosialisasi Agenda UMKM',
-		slug: 'rapat-koordinasi-pkk-edukasi-obat-dan-pengumuman-umkm-kutakembaran',
+		title: 'Sinergi Rakor Desa Bersama TP PKK: Edukasi Obat, Pembagian Buku Panduan Stunting & MPASI, serta Sosialisasi Agenda UMKM',
+		slug: 'rapat-koordinasi-pkk-edukasi-obat-buku-stunting-mpasi-pengumuman-umkm',
 		excerpt:
-			'Perkuat sinergi program desa dan kesehatan keluarga, KKN Kelompok 5 ikuti Rakor TP PKK Desa Kutakembaran, dibekali materi edukasi obat oleh Apoteker, serta sampaikan pengumuman agenda UMKM...',
+			'Perkuat sinergi kesehatan keluarga dan program desa, KKN Kelompok 5 ikuti Rakor TP PKK Desa Kutakembaran: dibekali edukasi obat, pembagian buku saku Stunting & MPASI, serta sosialisasi agenda UMKM...',
 		content: `
             <p>Dalam upaya memperkuat sinergi program kemasyarakatan serta meningkatkan kualitas kesehatan keluarga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menghadiri kegiatan Rapat Koordinasi (Rakor) Desa bersama Tim Penggerak PKK Desa Kutakembaran.</p>
             
-            <p>Pertemuan yang berlangsung hangat di Balai Desa ini diisi dengan sesi edukasi kesehatan khusus yang dibawakan oleh praktisi Apoteker. Para kader PKK mendapatkan pemahaman krusial mengenai prinsip <i>DAGUSIBU</i> (Dapatkan, Gunakan, Simpan, dan Buang) obat secara aman dan tepat, mulai dari tata cara penyimpanan obat rumah tangga hingga prosedur pembuangan limbah obat agar tidak mencemari lingkungan.</p>
+            <p>Pertemuan yang berlangsung hangat di Balai Desa ini diisi dengan sesi edukasi kesehatan khusus oleh praktisi Apoteker mengenai prinsip <i>DAGUSIBU</i> (Dapatkan, Gunakan, Simpan, dan Buang) obat secara aman dan tepat. Selain itu, mahasiswa KKN juga membagikan buku kecil (buku saku) sebagai media edukasi praktis dan ringkas yang mudah dibawa oleh warga.</p>
             
-            <p>Di akhir sesi rapat koordinasi, mahasiswa KKN Kelompok 5 juga memanfaatkan momen tersebut untuk menyampaikan pemberitahuan serta undangan resmi kepada seluruh anggota PKK dan warga desa mengenai agenda program kerja yang akan dilaksanakan pada hari Minggu mendatang.</p>
+            <p>Buku panduan tersebut memuat informasi penting seputar pencegahan <i>stunting</i> serta tata cara pemberian Makanan Pendamping ASI (MPASI) yang bergizi. Menyasar langsung para ibu yang memiliki bayi dan balita, buku kecil ini hadir sebagai panduan praktis guna meningkatkan pengetahuan keluarga agar risiko <i>stunting</i> pada anak dapat dicegah sejak dini.</p>
             
-            <p>Agenda mendatang tersebut berfokus pada pendampingan serta sosialisasi pengembangan Usaha Mikro, Kecil, dan Menengah (UMKM) bagi warga Desa Kutakembaran. Melalui kolaborasi ini, diharapkan para kader PKK dapat menyebarluaskan informasi kesehatan sekaligus mengajak para pelaku usaha lokal untuk berpartisipasi aktif dalam memajukan perekonomian desa.</p>
+            <p>Di akhir sesi, mahasiswa KKN Kelompok 5 turut menyampaikan pemberitahuan serta undangan resmi mengenai agenda program kerja pendampingan dan sosialisasi pengembangan Usaha Mikro, Kecil, dan Menengah (UMKM) yang akan dilaksanakan pada hari Minggu mendatang. Melalui kolaborasi ini, diharapkan para kader PKK dapat menyebarluaskan wawasan kesehatan sekaligus mengajak warga berpartisipasi aktif dalam penguatan ekonomi desa.</p>
         `,
 		date: '31 Juli 2026',
 		imageUrl: '/assets/images/news/kkn-rakor-pkk-sosialisasi-obat.jpg',
 		category: NewsCategory.VILLAGE,
 		author: 'Sie PDD',
 		isFeatured: false,
+	},
+
+	{
+		id: '47',
+		title: 'Dorong Digitalisasi Ekonomi Lokal, Mahasiswa KKN Kelompok 5 Resmi Meluncurkan Website Galeri UMKM Desa Kutakembaran',
+		slug: 'peluncuran-website-galeri-umkm-desa-kutakembaran',
+		excerpt:
+			'Wujudkan transformasi digital ekonomi desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 resmi merilis platform website Galeri UMKM Desa Kutakembaran untuk memperluas jangkauan pasar produk lokal...',
+		content: `
+            <p>Sebagai langkah konkret dalam mendukung digitalisasi ekonomi dan pemberdayaan pelaku usaha lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 secara resmi merilis platform <b>Website Galeri UMKM Desa Kutakembaran</b>.</p>
+            
+            <p>Platform digital ini dirancang sebagai wadah katalog interaktif yang mempertemukan calon pembeli secara langsung dengan para pelaku UMKM lokal. Melalui platform ini, masyarakat luas dapat menemukan ragam potensi produk asli warga desa, mulai dari aneka olahan kuliner, kerajinan tangan, hingga produk unggulan daerah lainnya.</p>
+            
+            <p>Sistem pencarian produk yang terstruktur berdasarkan kategori memudahkan pengunjung untuk menjelajahi katalog barang serta menghubungi pihak penjual secara langsung. Kehadiran website ini menjadi tonggak penting dalam membantu promosi dan memperluas daya jangkau pasar UMKM Desa Kutakembaran di era digital.</p>
+            
+            <p>Melalui inovasi digitalisasi ini, KKN Kelompok 5 berharap platform Galeri UMKM dapat terus dimanfaatkan dan dikembangkan oleh warga serta perangkat desa demi meningkatkan kemandirian dan pertumbuhan ekonomi masyarakat secara berkelanjutan.</p>
+        `,
+		date: '2 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-launching-website-galeri-umkm.png',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
 	},
 ];
