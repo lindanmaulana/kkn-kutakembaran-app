@@ -1128,10 +1128,12 @@ export const NEWS_DATA: News[] = [
             <p>Platform digital ini dirancang sebagai wadah katalog interaktif yang mempertemukan calon pembeli secara langsung dengan para pelaku UMKM lokal. Melalui platform ini, masyarakat luas dapat menemukan ragam potensi produk asli warga desa, mulai dari aneka olahan kuliner, kerajinan tangan, hingga produk unggulan daerah lainnya.</p>
             
             <p>Sistem pencarian produk yang terstruktur berdasarkan kategori memudahkan pengunjung untuk menjelajahi katalog barang serta menghubungi pihak penjual secara langsung. Kehadiran website ini menjadi tonggak penting dalam membantu promosi dan memperluas daya jangkau pasar UMKM Desa Kutakembaran di era digital.</p>
+
+            <p>Masyarakat dan pengunjung dapat langsung menjelajahi katalog produk unggulan desa melalui tautan resmi berikut: <a href="https://www.galeri-umkm-kutakembaran.my.id" target="_blank" rel="noopener noreferrer" class="text-emerald-600 underline font-semibold hover:text-emerald-700">Galeri UMKM Desa Kutakembaran</a>.</p>
             
             <p>Melalui inovasi digitalisasi ini, KKN Kelompok 5 berharap platform Galeri UMKM dapat terus dimanfaatkan dan dikembangkan oleh warga serta perangkat desa demi meningkatkan kemandirian dan pertumbuhan ekonomi masyarakat secara berkelanjutan.</p>
         `,
-		date: '1 Agustus 2026',
+		date: '2 Agustus 2026',
 		imageUrl: '/assets/images/news/kkn-launching-website-galeri-umkm.png',
 		category: NewsCategory.NEWS,
 		author: 'Sie PDD',
