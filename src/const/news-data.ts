@@ -1139,4 +1139,50 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '50',
+		title: 'Dari Produk Lokal Menuju Pasar Digital, Mahasiswa KKN Kelompok 5 Resmikan Website Galeri UMKM dan Gelar Sosialisasi Digitalisasi Usaha',
+		slug: 'sosialisasi-digitalisasi-umkm-dan-peluncuran-website-galeri-umkm-kutakembaran',
+		excerpt:
+			'Dorong kemandirian ekonomi desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sosialisasi Digitalisasi UMKM sekaligus memperkenalkan platform Website Galeri UMKM Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka mendorong peningkatan daya saing dan perluasan jangkauan pasar bagi para pelaku usaha lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 sukses menyelenggarakan agenda bertajuk <b>"Digitalisasi UMKM Desa Kutakembaran: Dari Produk Lokal Menuju Pasar Digital"</b> di Balai Desa Kutakembaran.</p>
+            
+            <p>Kegiatan sosialisasi dan pendampingan ini dihadiri secara antusias oleh para pelaku UMKM, kader PKK, dan tokoh masyarakat setempat. Dalam pemaparannya, mahasiswa KKN memberikan pembekalan komprehensif seputar penguatan identitas usaha (<i>branding</i>, pembuatan logo, dan kemasan menarik), teknik fotografi produk menggunakan ponsel, strategi <i>copywriting</i>, serta tata cara pengelolaan kanal pemasaran digital melalui <b>WhatsApp Business</b> dan <b>Shopee Marketplace</b>.</p>
+            
+            <p>Selain pemaparan strategi pemasaran digital, momen utama dalam pertemuan ini adalah pengenalan dan peluncuran platform <b>Website Galeri UMKM Desa Kutakembaran</b>. Platform ini hadir sebagai katalog digital resmi desa untuk menampilkan ragam karya kuliner, kerajinan, dan produk unggulan buatan warga desa agar dapat diakses oleh calon konsumen luas secara praktis dan terpercaya.</p>
+
+            <p>Masyarakat dan calon pembeli dapat langsung mengunjungi dan menjelajahi katalog usaha desa melalui tautan resmi berikut: <a href="https://www.galeri-umkm-kutakembaran.my.id" target="_blank" rel="noopener noreferrer" class="text-emerald-600 underline font-semibold hover:text-emerald-700">Website Galeri UMKM Desa Kutakembaran</a>.</p>
+            
+            <p>Melalui integrasi pendampingan pemasaran digital dan penyediaan platform Galeri UMKM ini, KKN Kelompok 5 berharap para pelaku usaha lokal Desa Kutakembaran dapat secara mandiri mengelola promosi produknya, meningkatkan omzet penjualan, serta membawa produk lokal go-digital secara berkelanjutan.</p>
+        `,
+		date: '2 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-sosialisasi-digitalisasi-umkm.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
+
+	{
+		id: '51',
+		title: 'Jaga Bugar dan Kebersamaan, Mahasiswa KKN Kelompok 5 Ikuti Senam Sehat Rutinan di Halaman Balai Desa Kutakembaran',
+		slug: 'senam-sehat-rutinan-halaman-balai-desa-kutakembaran',
+		excerpt:
+			'Tingkatkan kebugaran jasmani dan keakraban warga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ikuti kegiatan senam sehat rutinan bersama masyarakat di halaman Balai Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka menjaga kebugaran tubuh serta mempererat tali silaturahmi dengan warga masyarakat, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut aktif mengikuti kegiatan <b>Senam Sehat Rutinan</b> di halaman Balai Desa Kutakembaran.</p>
+            
+            <p>Sejak pagi hari, para warga dan ibu-ibu desa tampak antusias berkumpul memadati area depan balai desa. Didampingi alunan musik energik dan instruktur senam, mahasiswi KKN bersama warga bergerak kompak mengikuti setiap irama dan pergerakan senam kebugaran.</p>
+            
+            <p>Kegiatan olahraga bersama ini tidak hanya bertujuan untuk meningkatkan kesehatan fisik, tetapi juga menjadi wadah interaksi santai dan penuh tawa antara mahasiswa KKN dan warga desa di luar agenda formal program kerja.</p>
+            
+            <p>Melalui partisipasi rutin dalam kegiatan olahraga kemasyarakatan ini, KKN Kelompok 5 berharap semangat pola hidup sehat dan keharmonisan sosial warga Desa Kutakembaran dapat terus terjaga dengan baik.</p>
+        `,
+		date: '2 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-senam-sehat-rutinan-balai-desa.jpg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
