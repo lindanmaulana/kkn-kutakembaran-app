@@ -1185,4 +1185,26 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+        id: '52',
+        title: 'Perkuat Sinergi Agenda Desa, Mahasiswa KKN Kelompok 5 Gelar Diskusi Bersama Guru SD Negeri 1 Kutakembaran dan Tinjau Potensi BUMDes Ayam Petelur',
+        slug: 'konsultasi-kegiatan-dan-diskusi-bumdes-ayam-petelur-kutakembaran',
+        excerpt:
+            'Bangun koordinasi dan sinergi lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berkonsultasi mengenai agenda mendatang bersama Pak Ahmad serta berdiskusi seputar pengelolaan BUMDes Ayam Petelur...',
+        content: `
+            <p>Dalam rangka mematangkan persiapan program kerja mendatang sekaligus mempererat silaturahmi dengan tokoh pendidik desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sesi konsultasi dan diskusi santai bersama Pak Ahmad, pengajar di SD Negeri 1 Kutakembaran.</p>
+            
+            <p>Pertemuan yang berlangsung hangat di saung desa ini berfokus pada koordinasi teknis pelaksanaan rangkaian kegiatan kolaboratif mendatang bersama pihak sekolah. Selain pembahasan agenda kegiatan, diskusi berkembang interaktif mengenai potensi dan tata kelola unit usaha Badan Usaha Milik Desa (BUMDes) sektor peternakan ayam petelur.</p>
+            
+            <p>Pak Ahmad memberikan banyak masukan, saran konstruktif, serta wawasan berharga mengenai pengelolaan BUMDes peternakan lokal demi mendukung ketahanan pangan dan ekonomi warga Desa Kutakembaran. Di akhir sesi diskusi, mahasiswa KKN juga menyampaikan rasa terima kasih dan apresiasi yang mendalam atas keramahan serta pemberian telur hasil produksi peternakan lokal dari Pak Ahmad.</p>
+            
+            <p>Melalui ruang diskusi yang hangat dan kekeluargaan ini, KKN Kelompok 5 berharap sinergi antara mahasiswa, tenaga pendidik, dan pengelola potensi lokal desa dapat terus terjalin erat hingga seluruh rangkaian pengabdian selesai.</p>
+        `,
+        date: '3 Agustus 2026',
+        imageUrl: '/assets/images/news/kkn-konsultasi-pak-ahmad-bumdes-ayam-petelur.jpeg',
+        category: NewsCategory.VILLAGE,
+        author: 'Sie PDD',
+        isFeatured: false,
+    },
 ];
