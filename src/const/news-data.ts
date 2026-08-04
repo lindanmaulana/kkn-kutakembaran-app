@@ -1187,12 +1187,12 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '52',
-        title: 'Perkuat Sinergi Agenda Desa, Mahasiswa KKN Kelompok 5 Gelar Diskusi Bersama Guru SD Negeri 1 Kutakembaran dan Tinjau Potensi BUMDes Ayam Petelur',
-        slug: 'konsultasi-kegiatan-dan-diskusi-bumdes-ayam-petelur-kutakembaran',
-        excerpt:
-            'Bangun koordinasi dan sinergi lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berkonsultasi mengenai agenda mendatang bersama Pak Ahmad serta berdiskusi seputar pengelolaan BUMDes Ayam Petelur...',
-        content: `
+		id: '52',
+		title: 'Perkuat Sinergi Agenda Desa, Mahasiswa KKN Kelompok 5 Gelar Diskusi Bersama Guru SD Negeri 1 Kutakembaran dan Tinjau Potensi BUMDes Ayam Petelur',
+		slug: 'konsultasi-kegiatan-dan-diskusi-bumdes-ayam-petelur-kutakembaran',
+		excerpt:
+			'Bangun koordinasi dan sinergi lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berkonsultasi mengenai agenda mendatang bersama Pak Ahmad serta berdiskusi seputar pengelolaan BUMDes Ayam Petelur...',
+		content: `
             <p>Dalam rangka mematangkan persiapan program kerja mendatang sekaligus mempererat silaturahmi dengan tokoh pendidik desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar sesi konsultasi dan diskusi santai bersama Pak Ahmad, pengajar di SD Negeri 1 Kutakembaran.</p>
             
             <p>Pertemuan yang berlangsung hangat di saung desa ini berfokus pada koordinasi teknis pelaksanaan rangkaian kegiatan kolaboratif mendatang bersama pihak sekolah. Selain pembahasan agenda kegiatan, diskusi berkembang interaktif mengenai potensi dan tata kelola unit usaha Badan Usaha Milik Desa (BUMDes) sektor peternakan ayam petelur.</p>
@@ -1201,10 +1201,76 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui ruang diskusi yang hangat dan kekeluargaan ini, KKN Kelompok 5 berharap sinergi antara mahasiswa, tenaga pendidik, dan pengelola potensi lokal desa dapat terus terjalin erat hingga seluruh rangkaian pengabdian selesai.</p>
         `,
-        date: '3 Agustus 2026',
-        imageUrl: '/assets/images/news/kkn-konsultasi-pak-ahmad-bumdes-ayam-petelur.jpeg',
-        category: NewsCategory.VILLAGE,
-        author: 'Sie PDD',
-        isFeatured: false,
-    },
+		date: '3 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-konsultasi-pak-ahmad-bumdes-ayam-petelur.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '53',
+		title: 'Isi Waktu Luang dengan Olahraga Bebas, Mahasiswa KKN Kelompok 5 Bermain Badminton Bersama di Gedung Balai Desa Kutakembaran',
+		slug: 'mengisi-waktu-luang-bermain-badminton-gedung-balai-desa-kutakembaran',
+		excerpt:
+			'Menjaga kebugaran dan keakraban di sela agenda pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 isi waktu luang dengan bermain badminton bersama di Gedung Balai Desa Kutakembaran...',
+		content: `
+            <p>Di sela-sela padatnya rutinitas pelaksanaan program kerja KKN, mahasiswa KKN Kolaboratif 2026 Kelompok 5 memanfaatkan waktu luang untuk berolahraga bersama dengan bermain badminton (bulu tangkis) di Gedung Balai Desa Kutakembaran.</p>
+            
+            <p>Kegiatan olahraga santai ini berlangsung penuh dengan gelak tawa dan semangat keceriaan. Memanfaatkan fasilitas aula balai desa, para mahasiswa saling bertanding persahabatan guna menyegarkan kembali pikiran serta menjaga kondisi fisik agar tetap prima selama masa pengabdian.</p>
+            
+            <p>Selain sebagai sarana menjaga kebugaran tubuh, momen kebersamaan di lapangan badminton ini juga menjadi wadah efektif untuk mempererat kekompakan dan solidaritas internal antar anggota tim KKN Kelompok 5.</p>
+            
+            <p>Melalui aktivitas positif ini, KKN Kelompok 5 siap melanjutkan rangkaian agenda program kerja berikutnya di Desa Kutakembaran dengan energi yang kembali segar dan penuh semangat.</p>
+        `,
+		date: '3 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-bermain-badminton-balai-desa.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '54',
+		title: 'Pererat Silaturahmi Keagamaan, Mahasiswa KKN Kelompok 5 Ikuti Pengajian Rutin Selasa Pagi di Dusun Manis',
+		slug: 'pengajian-rutin-selasa-pagi-dusun-manis-kutakembaran',
+		excerpt:
+			'Perkuat nilai spiritualitas dan keakraban bersama warga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ikuti kegiatan pengajian rutin Selasa pagi di Dusun Manis...',
+		content: `
+            <p>Dalam rangka mempererat tali silaturahmi serta mendukung kegiatan keagamaan masyarakat lokal, mahasiswa KKN Kolaboratif 2026 Kelompok 5 hadir dan mengikuti kegiatan <b>Pengajian Rutin Selasa Pagi</b> bersama warga di Dusun Manis, Desa Kutakembaran.</p>
+            
+            <p>Suasana majelis pengajian berlangsung khidmat dan penuh kehangatan. Mahasiswi KKN duduk bersama jajaran ibu-ibu jamaah dusun menyimak lantunan ayat-ayat suci Al-Qur'an serta tausiyah keagamaan yang disampaikan oleh tokoh agama setempat.</p>
+            
+            <p>Keikutsertaan mahasiswa KKN dalam majelis taklim ini menjadi sarana efektif untuk melebur dengan masyarakat, menyerap nilai-nilai kearifan lokal, serta memperkuat keharmonisan antara mahasiswa dan warga desa di luar agenda program kerja formal.</p>
+            
+            <p>Melalui partisipasi aktif dalam pengajian rutin ini, KKN Kelompok 5 berharap silaturahmi dan rasa kekeluargaan dengan warga Dusun Manis dapat terus terjalin erat dan membawa keberkahan bagi pelaksanaan seluruh program KKN di Desa Kutakembaran.</p>
+        `,
+		date: '4 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-pengajian-rutin-selasa-pagi-dusun-manis.png',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '55',
+		title: 'Pererat Keakraban Antar-Desa, KKN Kelompok 5 Kutakembaran Gelar Fun Volleyball Bersama Pemuda, KKN Cirukem, dan KKN Pakembangan',
+		slug: 'fun-volleyball-lintas-kkn-kutakembaran-cirukem-pakembangan-bersama-pemuda',
+		excerpt:
+			'Jalin kebersamaan dan sportivitas lintas desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 Kutakembaran ikuti pertandingan Fun Volleyball bersama pemuda setempat serta tim KKN Desa Cirukem dan Pakembangan...',
+		content: `
+            <p>Dalam rangka mempererat tali silaturahmi serta membangun kebersamaan antar-mahasiswa dan pemuda desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 Kutakembaran menggelar kegiatan olahraga persahabatan <b>Fun Volleyball</b> di lapangan voli terbuka desa.</p>
+            
+            <p>Pertandingan ini berlangsung sangat meriah dengan mengikutsertakan pemuda setempat serta kolaborasi lintas kelompok KKN dari desa tetangga, yaitu tim KKN Desa Cirukem dan KKN Desa Pakembangan. Suasana pertandingan berjalan seru dan kompetitif, diwarnai aksi-aksi <i>smash</i> dan <i>blocking</i> antar pemain yang disambut sorak gembira para penonton di pinggir lapangan.</p>
+            
+            <p>Selain sebagai sarana menjaga kebugaran fisik, laga voli ceria ini menjadi wadah efektif untuk memperluas jaringan komunikasi, mempererat keakraban antar sesama mahasiswa KKN, serta meningkatkan kekompakan dengan pemuda lokal di lingkungan sekitar.</p>
+            
+            <p>Melalui semangat sportivitas dan kebersamaan ini, KKN Kelompok 5 berharap hubungan baik dan sinergi antar kelompok KKN serta pemuda desa dapat terus terjalin erat hingga akhir masa pengabdian.</p>
+        `,
+		date: '4 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-fun-volleyball-pemuda-cirukem-pakembangan.jpg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
