@@ -1273,4 +1273,28 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '56',
+		title: 'Kolaborasi Bersama Posyandu: Edukasi Stunting, Pembagian Obat Cacing, Inovasi Lele Galon, dan Pembagian Buku Saku MP-ASI',
+		slug: 'kolaborasi-posyandu-edukasi-stunting-obat-cacing-lele-galon-buku-mpasi',
+		excerpt:
+			'Tingkatkan kesehatan balita dan gizi keluarga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berkolaborasi dengan Posyandu untuk edukasi stunting, pembagian obat cacing, budidaya lele galon, serta pembagian buku MP-ASI...',
+		content: `
+            <p>Dalam upaya mendukung pencegahan <i>stunting</i> serta peningkatan kesehatan ibu dan anak secara holistik, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan kegiatan kolaborasi komprehensif bersama kader Posyandu Desa Kutakembaran di Balai Desa.</p>
+            
+            <p>Rangkaian kegiatan diawali dengan sosialisasi pencegahan <i>stunting</i> serta pembagian obat cacing berkala bagi bayi dan balita untuk mendukung tumbuh kembang anak yang optimal. Selain itu, kader Posyandu turut memaparkan solusi inovatif berupa budidaya ikan lele skala rumah tangga memanfaatkan galon bekas. Inovasi "lele galon" yang praktis dan hemat tempat ini diperkenalkan sebagai alternatif mudah bagi setiap rumah tangga untuk memenuhi kebutuhan protein hewani keluarga secara mandiri.</p>
+            
+            <p>Pada saat yang sama, mahasiswa KKN Kelompok 5 juga memberikan pemaparan materi dan membagikan buku saku panduan MP-ASI (Makanan Pendamping ASI). Buku kecil ini berisi panduan praktis variasi menu bergizi seimbang, takaran saji, serta tata cara pemberian makanan bagi bayi dan balita guna mencegah risiko kurang gizi sejak dini.</p>
+            
+            <p>Suasana kegiatan berlangsung sangat interaktif dan penuh keakraban. Warga dan ibu-ibu balita tampak antusias memperlihatkan buku saku MP-ASI dan galon bekas percontohan saat sesi foto bersama di akhir acara.</p>
+            
+            <p>Melalui kolaborasi lintas program kesehatan dan ketahanan gizi keluarga ini, KKN Kelompok 5 dan Posyandu berharap dapat mendorong terciptanya generasi muda Desa Kutakembaran yang sehat, cerdas, dan bebas dari <i>stunting</i>.</p>
+        `,
+		date: '5 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-kolaborasi-posyandu-lele-galon-mpasi.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
