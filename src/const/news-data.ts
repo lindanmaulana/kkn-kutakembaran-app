@@ -1341,4 +1341,26 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '59',
+		title: 'Dukung UMKM Lokal, Mahasiswa KKN Kelompok 5 Bantu Produksi dan Pendataan Digitalisasi Keripik Pisang Ibu Nina di Dusun Manis',
+		slug: 'pendampingan-produksi-dan-pendataan-digitalisasi-keripik-pisang-ibu-nina-dusun-manis',
+		excerpt:
+			'Perkuat ekonomi kreatif warga, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bantu proses produksi keripik pisang milik Ibu Nina di Dusun Manis sekaligus menggali data usaha untuk pendataan digitalisasi UMKM...',
+		content: `
+            <p>Dalam rangka mendorong penguatan potensi usaha mikro warga desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melakukan kegiatan kunjungan dan pendampingan langsung ke rumah salah satu pelaku UMKM keripik pisang, Ibu Nina, di Dusun Manis, Desa Kutakembaran.</p>
+            
+            <p>Dalam kesempatan tersebut, mahasiswa KKN ikut serta membantu seluruh alur produksi olahan keripik pisang milik Ibu Nina, mulai dari tahap penggorengan adonan di dapur produksi, penimbangan takaran produk secara presisi, hingga proses pengemasan (<i>packaging</i>) ke dalam plastik kemasan agar siap dipasarkan.</p>
+            
+            <p>Selain membantu proses produksi fisik, mahasiswa KKN juga melakukan wawancara dan menggali data rinci terkait usaha milik Ibu Nina. Informasi yang dihimpun mencakup varian rasa, kisaran harga, daya tahan produk, lokasi produksi, hingga kontak pemesanan langsung. Pendataan ini dilakukan secara khusus sebagai bahan pendukung untuk mengunggah profil dan produk keripik pisang Ibu Nina ke dalam platform <b>Website Galeri UMKM Desa Kutakembaran</b>.</p>
+            
+            <p>Melalui aksi nyata pendampingan produksi dan integrasi data digital ini, KKN Kelompok 5 berharap dapat membantu meningkatkan produktivitas, memperluas daya jangkau pasar, serta membawa produk usaha Ibu Nina dikenal lebih luas di era digital.</p>
+        `,
+		date: '6 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-pendampingan-umkm-keripik-pisang-dusun-manis.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
