@@ -1297,4 +1297,48 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: true,
 	},
+
+	{
+		id: '57',
+		title: 'Ceriakan Pembelajaran Anak Usia Dini, Mahasiswa KKN Kelompok 5 Dampingi Kegiatan Olahraga dan Bermain Bersama Siswa PAUD',
+		slug: 'pendampingan-kegiatan-luar-ruangan-siswa-paud-kutakembaran',
+		excerpt:
+			'Dukung tumbuh kembang motorik dan keceriaan anak, mahasiswa KKN Kolaboratif 2026 Kelompok 5 ikut mengajar serta mendampingi kegiatan senam dan permainan luar ruangan siswa PAUD...',
+		content: `
+            <p>Dalam rangka mendukung pengembangan motorik kasar serta menciptakan suasana belajar yang menyenangkan bagi anak usia dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 kembali berpartisipasi aktif dalam kegiatan mengajar di sekolah PAUD Desa Kutakembaran.</p>
+            
+            <p>Berbeda dengan aktivitas pembelajaran di dalam kelas, kali ini mahasiswa KKN mengajak anak-anak PAUD untuk beraktivitas di lapangan terbuka. Kegiatan diawali dengan gerakan senam ceria anak, olah tubuh ringan, serta berbagai permainan interaktif yang melatih ketangkasan dan keseimbangan fisik anak.</p>
+            
+            <p>Suasana kegiatan outdoor berlangsung sangat meriah dan penuh canda tawa. Anak-anak tampak begitu antusias dan gembira bergerak bersama para mahasiswi KKN yang memandu pergerakan di tengah lapangan dengan ceria dan telaten.</p>
+            
+            <p>Melalui keterlibatan rutin dalam pendampingan mengajar di PAUD ini, KKN Kelompok 5 berharap dapat membantu menumbuhkan rasa percaya diri, keberanian, serta semangat belajar yang tinggi pada anak-anak sejak usia dini.</p>
+        `,
+		date: '6 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-kegiatan-outdoor-paud.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '58',
+		title: "Tingkatkan Literasi Keagamaan Anak, Mahasiswa KKN Kelompok 5 Ikut Dampingi Pembelajaran Al-Qur'an di Madrasah",
+		slug: 'pendampingan-mengajar-al-quran-madrasah-kutakembaran',
+		excerpt:
+			"Perkuat fondasi keagamaan generasi muda, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut serta mengajar dan menyimak bacaan Al-Qur'an serta Iqra santri di Madrasah Desa Kutakembaran...",
+		content: `
+            <p>Dalam rangka memperkuat karakter keagamaan serta meningkatkan kualitas pembacaan Al-Qur'an pada anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 secara rutin turut serta mendampingi kegiatan belajar-mengajar di Madrasah Diniyah Desa Kutakembaran.</p>
+            
+            <p>Sesi pembelajaran berlangsung dengan metode privat dan interaktif (<i>sorogan</i>). Mahasiswa KKN menyimak secara langsung satu per satu bacaan Al-Qur'an maupun buku Iqra para santri, sembari membetulkan kelancaran tajwid, makhraj huruf, serta memberikan pemahaman dasar tata cara membaca yang baik dan benar.</p>
+            
+            <p>Suasana kelas di madrasah tampak tenang dan hangat. Para santri terlihat sangat khusyuk dan santun mendengarkan bimbingan dari mahasiswi KKN yang mendampingi di depan meja rekal.</p>
+            
+            <p>Melalui pendampingan belajar keagamaan di madrasah ini, KKN Kelompok 5 berharap dapat memberikan kontribusi nyata dalam mencetak generasi muda Desa Kutakembaran yang religius, berakhlak mulia, dan gemar membaca Al-Qur'an.</p>
+        `,
+		date: '6 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-madrasah-alquran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
