@@ -1363,4 +1363,169 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '60',
+		title: 'Dukung Kualitas Pendidikan Dasar, Mahasiswa KKN Kelompok 5 Dampingi Kegiatan Mengajar di SD Negeri 1 Kutakembaran',
+		slug: 'pendampingan-kegiatan-mengajar-sd-negeri-1-kutakembaran',
+		excerpt:
+			'Tingkatkan semangat dan efektivitas belajar siswa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turun langsung membantu kegiatan mengajar di kelas SD Negeri 1 Kutakembaran...',
+		content: `
+            <p>Dalam rangka mendukung peningkatan kualitas pendidikan dasar di wilayah desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berpartisipasi aktif dalam pendampingan kegiatan belajar-mengajar di SD Negeri 1 Kutakembaran.</p>
+            
+            <p>Berlangsung di dalam ruang kelas yang tertata rapi, mahasiswa KKN memandu jalannya proses pembelajaran interaktif bersama para siswa. Selain menyampaikan materi pelajaran formal, mahasiswi KKN juga mendampingi secara individual siswa yang membutuhkan bimbingan tambahan saat mengerjakan tugas latihan.</p>
+            
+            <p>Para siswa SD Negeri 1 Kutakembaran tampak antusias dan fokus menyimak penjelasan dari mahasiswa KKN di depan kelas. Suasana belajar mengajar berjalan kondusif, interaktif, dan penuh dengan semangat kebersamaan.</p>
+            
+            <p>Melalui keikutsertaan dalam kegiatan mengajar formal ini, KKN Kelompok 5 berharap dapat membantu menciptakan pengalaman belajar yang menyenangkan sekaligus memotivasi para siswa untuk terus berprestasi di sekolah.</p>
+        `,
+		date: '7 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-kelas-sd1-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '61',
+		title: "Terima Penyaluran Jum'at Berkah dari DT Peduli, Mahasiswa KKN Kelompok 5 Sampaikan Apresiasi dan Terima Kasih",
+		slug: 'mahasiswa-kkn-terima-jumat-berkah-dt-peduli-kutakembaran',
+		excerpt:
+			"Dapat dukungan positif saat masa pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 Desa Kutakembaran menerima penyaluran paket makanan Jum'at Berkah dari DT Peduli...",
+		content: `
+            <p>Di sela-sela padatnya pelaksanaan rangkaian program kerja di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 mendapatkan kejutan hangat berupa penyaluran paket program <b>"Jum'at Berkah Berbagi"</b> dari lembaga amil zakat <b>DT Peduli (Daarut Tauhiid)</b>.</p>
+            
+            <p>Penyaluran paket makanan siap santap ini diserahkan langsung oleh tim relawan DT Peduli bertempat di posko KKN Kelompok 5. Program kepedulian dari DT Peduli ini hadir untuk memberikan dukungan moral dan pemenuhan asupan gizi bagi para mahasiswa yang sedang menjalankan tugas pengabdian masyarakat.</p>
+            
+            <p>Para mahasiswa KKN menyambut kedatangan tim DT Peduli dengan penuh kehangatan dan rasa syukur. Momen kebersamaan tersebut diabadikan dalam sesi foto bersama sembari memegang paket makanan dan papan informasi program Jum'at Berkah.</p>
+            
+            <p>Seluruh anggota KKN Kelompok 5 menyampaikan apresiasi serta ucapan terima kasih yang sebesar-besarnya kepada DT Peduli atas perhatian dan kebaikan yang diberikan, berharap keberkahan selalu menyertai setiap aksi sosial DT Peduli.</p>
+        `,
+		date: '7 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-terima-jumat-berkah-dt-peduli.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '62',
+		title: 'Mantan Progress dan Beri Arahan, Dosen Pembimbing Lapangan (DPL) Gelar Kunjungan Monitoring ke Posko KKN Kelompok 5 Kutakembaran',
+		slug: 'kunjungan-monitoring-dpl-ke-posko-kkn-desa-kutakembaran',
+		excerpt:
+			'Pastikan kelancaran dan ketercapaian program kerja, Dosen Pembimbing Lapangan (DPL) lakukan kunjungan monitoring serta evaluasi langsung di posko KKN Kelompok 5 Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka memantau perkembangan serta memastikan kelancaran pelaksanaan seluruh program kerja pengabdian, Dosen Pembimbing Lapangan (DPL) melakukan kunjungan monitoring dan evaluasi secara langsung ke posko mahasiswa KKN Kolaboratif 2026 Kelompok 5 Desa Kutakembaran.</p>
+            
+            <p>Pertemuan yang berlangsung hangat dan kekeluargaan di ruang tamu posko ini menjadi sarana diskusi interaktif. Mahasiswa KKN menyampaikan laporan progres capaian program yang telah terlaksana, mulai dari digitalisasi UMKM, pendampingan kesehatan Posyandu, hingga kegiatan pendidikan dan kemasyarakatan.</p>
+            
+            <p>DPL memberikan apresiasi atas dedikasi serta kerja keras seluruh anggota tim KKN Kelompok 5. Selain itu, masukan, masukan konstruktif, serta arahan strategis turut disampaikan guna mengoptimalkan penyusunan laporan akhir serta menjaga keberlanjutan dampak positif program kerja bagi warga desa.</p>
+            
+            <p>Melalui kunjungan dan bimbingan langsung dari DPL ini, mahasiswa KKN Kelompok 5 semakin termotivasi untuk menyelesaikan sisa rangkaian agenda KKN di Desa Kutakembaran dengan maksimal dan penuh tanggung jawab.</p>
+        `,
+		date: '29 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kunjungan-monitoring-dpl.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '63',
+		title: 'Sambut Kunjungan LPPM UNISA dan UMK, KKN Kelompok 5 Kutakembaran Terima Peninjauan Monev Program Kerja',
+		slug: 'kunjungan-monev-lppm-unisa-dan-umk-ke-posko-kkn-kutakembaran',
+		excerpt:
+			'Tingkatkan kualitas dan keberlanjutan pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 sambut kunjungan monitoring dan evaluasi (Monev) dari perwakilan LPPM UNISA dan UMK...',
+		content: `
+            <p>Dalam rangka memantau serta menggevaluasi ketercapaian program pengabdian masyarakat, posko KKN Kolaboratif 2026 Kelompok 5 Desa Kutakembaran menerima kunjungan resmi dari perwakilan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) <b>Universitas Islam Al-Ihya (UNISA) Kuningan</b> dan <b>Universitas Muhammadiyah Kuningan (UMK)</b>.</p>
+            
+            <p>Kunjungan peninjauan ini bertujuan untuk melihat secara langsung implementasi berbagai program kerja yang telah dijalankan oleh mahasiswa KKN Kolaboratif di Desa Kutakembaran, seperti pemberdayaan digitalisasi UMKM, pendampingan posyandu & gizi anak, serta program sosial kemasyarakatan lainnya.</p>
+            
+            <p>Pihak perwakilan LPPM menyampaikan apresiasi atas sinergi dan kinerja aktif seluruh anggota tim KKN Kelompok 5. Diskusi singkat turut dilakukan untuk memberikan pengarahan terkait optimalisasi output program pengabdian serta penyusunan laporan keberlanjutan bagi desa.</p>
+            
+            <p>Kegiatan monev diakhiri dengan sesi foto bersama di depan spanduk resmi KKN Kolaboratif Desa Kutakembaran sebagai penanda kebersamaan dan komitmen suksesnya program KKN Kolaboratif 2026.</p>
+        `,
+		date: '1 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-kunjungan-lppm-unisa-umk.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '64',
+		title: 'Perkuat Evaluasi Kolaboratif, Posko KKN Kelompok 5 Kutakembaran Terima Kunjungan LPPM UNIKU, STAIKU, dan UBHI',
+		slug: 'kunjungan-monev-lppm-uniku-staiku-dan-ubhi-ke-posko-kkn-kutakembaran',
+		excerpt:
+			'Perkuat koordinasi dan ketercapaian program pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 sambut peninjauan monitoring dan evaluasi (Monev) dari perwakilan LPPM UNIKU, STAIKU, dan UBHI...',
+		content: `
+            <p>Posko KKN Kolaboratif 2026 Kelompok 5 Desa Kutakembaran kembali menerima kunjungan monitoring dan evaluasi (Monev) dari jajaran perwakilan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) <b>Universitas Kuningan (UNIKU)</b>, <b>Sekolah Tinggi Agama Islam Kuningan (STAIKU)</b>, dan <b>Universitas Bhakti Husada Indonesia (UBHI)</b>.</p>
+            
+            <p>Peninjauan lapangan ini bertujuan untuk melakukan evaluasi menyeluruh terhadap progres implementasi program kerja yang telah dirancang dan dilaksanakan oleh mahasiswa, mencakup pilar pendidikan, kesehatan gizi keluarga, pemberdayaan ekonomi UMKM, serta partisipasi dalam kegiatan kemasyarakatan desa.</p>
+            
+            <p>Perwakilan LPPM dari ketiga perguruan tinggi tersebut mengapresiasi tinggi semangat kolaborasi dan kekompakan mahasiswa KKN Kelompok 5 dalam merangkul seluruh elemen masyarakat Desa Kutakembaran. Sesi peninjauan juga diisi dengan pengarahan teknis terkait persiapan penyusunan laporan akhir pengabdian serta penyerahan luaran program.</p>
+            
+            <p>Rangkaian kegiatan Monev ditutup dengan sesi foto bersama jajaran DPL dan perwakilan LPPM UNIKU, STAIKU, serta UBHI di depan banner posko KKN Kolaboratif Desa Kutakembaran.</p>
+        `,
+		date: '31 Juli 2026',
+		imageUrl: '/assets/images/news/kkn-kunjungan-lppm-uniku-staiku-ubhi.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '65',
+		title: 'Hadirilah! Seminar Digitalisasi Pembayaran & Literasi Keuangan untuk Meningkatkan Kesejahteraan Masyarakat Desa Kutakembaran',
+		slug: 'seminar-digitalisasi-pembayaran-dan-literasi-keuangan-desa-kutakembaran',
+		excerpt:
+			'Tingkatkan pemahaman pengelolaan keuangan dan transaksi digital, KKN Kolaboratif 2026 Kelompok 5 undang masyarakat dalam Seminar Digitalisasi Pembayaran & Literasi Keuangan...',
+		content: `
+            <p>Dalam rangka mendorong peningkatan pemahaman serta keterampilan masyarakat dalam mengelola keuangan dan memanfaatkan teknologi pembayaran modern, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bekerja sama dengan Pemerintah Desa Kutakembaran menggelar <b>Seminar Digitalisasi Pembayaran & Literasi Keuangan</b>.</p>
+            
+            <p>Kegiatan seminar edukatif ini dirancang untuk memberikan edukasi praktis seputar cara cerdas mengelola keuangan pribadi dan keluarga, manfaat pembayaran berbasis digital, tips bertransaksi secara aman di dunia maya, hingga perencanaan keuangan masa depan demi tercapainya kehidupan masyarakat yang lebih mudah, aman, dan sejahtera.</p>
+
+            <p><b>Detail Pelaksanaan Agenda Seminar:</b></p>
+            <ul>
+                <li><b>Hari / Tanggal:</b> Sabtu, 8 Agustus 2026</li>
+                <li><b>Waktu:</b> Pukul 08.00 WIB – Selesai</li>
+                <li><b>Tempat:</b> Bale Desa Kutakembaran</li>
+                <li><b>Peserta:</b> Masyarakat Desa Kutakembaran dan Umum (Terbuka untuk Semua)</li>
+            </ul>
+            
+            <p>Kami mengundang seluruh elemen masyarakat, pelaku usaha lokal, serta para pemuda Desa Kutakembaran untuk dapat hadir dan berpartisipasi aktif dalam kegiatan ini. Mari bersama belajar cerdas mengelola keuangan untuk masa depan desa yang lebih maju dan sejahtera!</p>
+        `,
+		date: '8 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-seminar-digitalisasi-pembayaran-literasi-keuangan.png',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
+
+	{
+		id: '66',
+		title: 'Hadirilah! Seminar Desa Sadar Hukum: "Lingkungan Sehat" untuk Mewujudkan Desa yang Bersih dan Berkelanjutan',
+		slug: 'seminar-desa-sadar-hukum-lingkungan-sehat-desa-kutakembaran',
+		excerpt:
+			'Membangun kesadaran hukum dalam menjaga kelestarian lingkungan, KKN Kolaboratif 2026 Kelompok 5 undang warga dalam Seminar Desa Sadar Hukum bertajuk "Lingkungan Sehat"...',
+		content: `
+            <p>Dalam rangka meningkatkan pemahaman norma hukum masyarakat serta pentingnya menjaga kelestarian lingkungan hidup, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyelenggarakan <b>Seminar Desa Sadar Hukum</b> dengan judul <b>"Lingkungan Sehat"</b>.</p>
+            
+            <p>Kegiatan seminar edukatif ini bertujuan untuk membangun kesadaran hukum masyarakat demi mewujudkan lingkungan pemukiman yang bersih, sehat, aman, berkelanjutan, dan harmonis. Pembahasan akan berfokus pada aturan hukum pengelolaan lingkungan hidup, kewajiban menjaga kebersihan fasilitas umum, serta peran aktif warga dalam menjaga ekosistem desa.</p>
+
+            <p><b>Detail Pelaksanaan Agenda Seminar:</b></p>
+            <ul>
+                <li><b>Tanggal:</b> Sabtu, 8 Agustus 2026</li>
+                <li><b>Tempat:</b> Bale Desa Kutakembaran</li>
+                <li><b>Peserta:</b> Seluruh Masyarakat Desa Kutakembaran dan Umum</li>
+            </ul>
+            
+            <p>Mari bersama-sama taat hukum dan menjaga lingkungan demi mewujudkan Desa Kutakembaran yang bersih, sehat, dan harmonis. Kehadiran seluruh warga desa sangat diharapkan demi suksesnya agenda ini!</p>
+        `,
+		date: '8 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-seminar-desa-sadar-hukum-lingkungan-sehat.png',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
