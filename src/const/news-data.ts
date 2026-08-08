@@ -1476,6 +1476,28 @@ export const NEWS_DATA: News[] = [
 
 	{
 		id: '65',
+		title: 'Dukung Kesehatan Balita, Mahasiswa KKN Kelompok 5 Mendampingi Pelayanan Posyandu Sekaligus Membagikan Buku Saku MP-ASI',
+		slug: 'pendampingan-posyandu-dan-pembagian-buku-saku-mpasi-kutakembaran',
+		excerpt:
+			'Tingkatkan pemahaman gizi anak dan pencegahan stunting, mahasiswa KKN Kolaboratif 2026 Kelompok 5 bantu layanan Posyandu serta membagikan buku saku panduan MP-ASI bagi para ibu balita...',
+		content: `
+            <p>Dalam upaya memperkuat pemantauan tumbuh kembang anak serta mencegah risiko <i>stunting</i> sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berpartisipasi aktif dalam pendampingan kegiatan layanan <b>Posyandu</b> di Desa Kutakembaran.</p>
+            
+            <p>Selain membantu proses penimbangan berat badan, pengukuran tinggi badan, serta pencatatan berkala di kartu menuju sehat (KMS), mahasiswa KKN memanfaatkan momen Posyandu ini untuk membagikan buku saku (buku kecil) panduan MP-ASI (Makanan Pendamping ASI) kepada para ibu hamil dan ibu yang memiliki bayi/balita.</p>
+            
+            <p>Buku saku MP-ASI tersebut memuat petunjuk praktis mengenai rekomendasi menu bergizi seimbang, takaran asupan harian, serta panduan kebersihan pengolahan makanan untuk menunjang tumbuh kembang anak secara optimal. Ibu-ibu peserta Posyandu tampak antusias menerima dan menyimak penjelasan singkat mengenai isi buku panduan tersebut.</p>
+            
+            <p>Melalui keikutsertaan rutin di Posyandu dan pembagian media edukasi MP-ASI ini, KKN Kelompok 5 berharap dapat meningkatkan pengetahuan keluarga dalam memberikan asupan nutrisi terbaik bagi generasi penerus Desa Kutakembaran.</p>
+        `,
+		date: '7 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-posyandu-pembagian-buku-mpasi.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '66',
 		title: 'Hadirilah! Seminar Digitalisasi Pembayaran & Literasi Keuangan untuk Meningkatkan Kesejahteraan Masyarakat Desa Kutakembaran',
 		slug: 'seminar-digitalisasi-pembayaran-dan-literasi-keuangan-desa-kutakembaran',
 		excerpt:
@@ -1503,7 +1525,7 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-		id: '66',
+		id: '67',
 		title: 'Hadirilah! Seminar Desa Sadar Hukum: "Lingkungan Sehat" untuk Mewujudkan Desa yang Bersih dan Berkelanjutan',
 		slug: 'seminar-desa-sadar-hukum-lingkungan-sehat-desa-kutakembaran',
 		excerpt:
@@ -1527,5 +1549,75 @@ export const NEWS_DATA: News[] = [
 		category: NewsCategory.ANNOUNCEMENT,
 		author: 'Sie PDD',
 		isFeatured: true,
+	},
+
+	{
+		id: '68',
+		title: 'Sukses Gelar Dua Seminar Edukatif, KKN Kelompok 5 Dorong Literasi Keuangan, Pembukaan Rekening Bank, dan Kesadaran Hukum Lingkungan',
+		slug: 'sukses-seminar-literasi-keuangan-pembukaan-rekening-dan-desa-sadar-hukum-kutakembaran',
+		excerpt:
+			'Tingkatkan kesejahteraan dan kesadaran warga, KKN Kolaboratif 2026 Kelompok 5 sukses menggelar dua seminar utama serta sosialisasi pembuatan akun rekening tabungan bersama tim marketing bank...',
+		content: `
+            <p>Mahasiswa KKN Kolaboratif 2026 Kelompok 5 sukses menyelenggarakan rangkaian agenda seminar edukatif yang berlangsung meriah di Bale Desa Kutakembaran.</p>
+            
+            <p>Sesi pertama diawali dengan <b>Seminar Digitalisasi Pembayaran & Literasi Keuangan</b> yang dipaparkan oleh <b>Pak Andi Waruga</b>. Dalam sesi ini, warga dan pelaku usaha lokal dibekali pemahaman praktis seputar pengelolaan keuangan keluarga, pemanfaatan transaksi berbasis digital yang aman dan praktis, serta langkah-langkah perencanaan keuangan masa depan.</p>
+            
+            <p>Di sela-sela agenda literasi keuangan, kegiatan dilanjutkan dengan sosialisasi layanan perbankan yang dibawakan oleh <b>Pak Arif</b> selaku perwakilan tim marketing bank. Pihak perbankan memberikan edukasi mengenai kemudahan bertransaksi secara resmi serta memfasilitasi pendampingan langsung bagi warga yang ingin melakukan pembuatan akun rekening tabungan baru di tempat.</p>
+
+            <p>Rangkaian acara kemudian disambung dengan sesi kedua, yaitu <b>Seminar Desa Sadar Hukum</b> bertema <b>"Lingkungan Sehat"</b> yang disampaikan oleh <b>Azzahra Yasmina Lisanti</b>. Pemateri dan peserta berdiskusi interaktif mengenai pentingnya aturan serta norma hukum dalam menjaga kebersihan fasilitas umum, pengelolaan sampah pemukiman, dan pelestarian ekosistem desa yang sehat, aman, dan berkelanjutan.</p>
+            
+            <p>Antusiasme tinggi ditunjukkan oleh para warga, tokoh masyarakat, serta perangkat desa yang aktif bertransaksi dan berdiskusi sepanjang acara. Melalui penggabungan edukasi keuangan, inklusi perbankan, dan norma hukum ini, KKN Kelompok 5 berharap masyarakat Desa Kutakembaran semakin mandiri secara finansial serta taat hukum dalam menjaga lingkungan.</p>
+            
+            <p>Seluruh rangkaian acara ditutup dengan penyerahan kenang-kenangan dan foto bersama seluruh peserta seminar beserta mahasiswa KKN Kelompok 5 di depan spanduk utama kegiatan.</p>
+        `,
+		date: '8 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-sukses-seminar-keuangan-dan-sadar-hukum.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
+
+	{
+		id: '69',
+		title: "Dampingi Pembelajaran Santri, Mahasiswa KKN Kelompok 5 Ikut Mengajar di Madrasah Mathla'ul Huda Desa Kutakembaran",
+		slug: 'pendampingan-mengajar-madrasah-mathlaul-huda-kutakembaran',
+		excerpt:
+			"Perkuat pendidikan keagamaan anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 turut serta mendampingi kegiatan mengajar dan bimbingan belajar bagi para santri di Madrasah Mathla'ul Huda...",
+		content: `
+            <p>Dalam upaya memperkuat pendidikan keagamaan serta memotivasi belajar anak-anak di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berpartisipasi aktif dalam kegiatan mengajar di <b>Madrasah Mathla'ul Huda</b>.</p>
+            
+            <p>Mahasiswa KKN turut mendampingi para santri dalam mendalami bacaan Al-Qur'an, Iqra, serta pemahaman materi keagamaan dasar. Proses bimbingan belajar berlangsung dengan penuh semangat, ceria, dan interaktif sehingga para santri merasa nyaman dan antusias selama kegiatan belajar mengajar.</p>
+            
+            <p>Keceriaan dan kehangatan hubungan antara mahasiswa KKN dengan para santri terpancar dari senyum serta semangat anak-anak saat mengikuti setiap sesi kegiatan di lingkungan madrasah.</p>
+            
+            <p>Melalui kehadiran dan pendampingan di Madrasah Mathla'ul Huda ini, KKN Kelompok 5 berharap dapat memberikan dampak positif dalam mencetak generasi muda Desa Kutakembaran yang cerdas, berakhlak mulia, dan berkarakter islami.</p>
+        `,
+		date: '8 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-mengajar-madrasah-mathlaul-huda.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '70',
+		title: 'Perkuat Karakter Religius Anak, Mahasiswa KKN Kelompok 5 Dampingi Kegiatan Rutin Magrib Mengaji di Masjid Dusun Manis',
+		slug: 'pendampingan-kegiatan-rutin-magrib-mengaji-masjid-dusun-manis',
+		excerpt:
+			'Makmurkan masjid dan bina spiritualitas anak-anak desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 rutin mendampingi kegiatan Magrib Mengaji di Masjid Dusun Manis...',
+		content: `
+            <p>Dalam rangka menghidupkan syiar Islam serta membina karakter religius anak-anak sejak dini, mahasiswa KKN Kolaboratif 2026 Kelompok 5 secara konsisten berpartisipasi dan mendampingi pelaksanaan program <b>Magrib Mengaji</b> di Masjid Dusun Manis, Desa Kutakembaran.</p>
+            
+            <p>Kegiatan rutin yang dilaksanakan selepas salat Magrib berjamaah ini diikuti secara antusias oleh anak-anak dan santri Dusun Manis. Anak-anak duduk melingkar di dalam area masjid untuk mengaji Al-Qur'an, memperlancar bacaan Iqra, serta menghafal surah-surah pendek dan doa harian dengan bimbingan dari mahasiswa KKN serta guru ngaji setempat.</p>
+            
+            <p>Suasana mengaji berlangsung hangat, tertib, dan penuh kedamaian. Selain membimbing bacaan tajwid dan makhraj, mahasiswa KKN juga menyelipkan cerita-cerita islami edukatif untuk membangun motivasi dan akhlak terpuji pada anak-anak.</p>
+            
+            <p>Melalui pendampingan rutin Magrib Mengaji ini, KKN Kelompok 5 berharap tradisi positif mengaji selepas Magrib di Dusun Manis terus terjaga dan melahirkan generasi penerus yang cinta Al-Qur'an.</p>
+        `,
+		date: '8 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-magrib-mengaji-masjid-dusun-manis.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
 	},
 ];
