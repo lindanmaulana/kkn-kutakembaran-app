@@ -1620,4 +1620,28 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+        id: '71',
+        title: 'Cerita Aksi Bersih Sampah Serentak ala Pandawara: Perjuangan KKN Kelompok 5 Hijaukan Desa Kutakembaran',
+        slug: 'cerita-aksi-bersih-sampah-pandawara-kkn-kelompok-5-kutakembaran',
+        excerpt:
+            'Mengisi hari dengan aksi nyata, KKN Kelompok 5 Kutakembaran bagikan cerita di balik Aksi Bersih Sampah Serentak ala Pandawara hasil kesepakatan 5 desa...',
+        content: `
+            <p>Gerakan kebersihan ini bermula dari kesepakatan bersama antara lima kelompok KKN Kolaboratif 2026 (Desa Kadatuan, Cirukem, Gewok, Pakembangan, dan Kutakembaran) untuk menggelar <b>Aksi Bersih Sampah Serentak</b> di wilayah desanya masing-masing. Berbekal semangat tersebut, tim KKN Kelompok 5 langsung menyusun strategi penanganan sampah khusus untuk wilayah Desa Kutakembaran.</p>
+            
+            <p>Sejak pagi hari, anggota KKN Kelompok 5 bersama pemuda dan warga setempat berkumpul membawa peralatan kebersihan dan tumpukan kantong plastik besar (<i>trash bag</i>). Dengan mengusung semangat ala "Pandawara Group", tim menyisir titik-titik rawan penumpukan sampah liar di sekitar jalan utama dan fasilitas umum desa.</p>
+
+            <p>Meskipun cuaca terik dan medan pengerjaan cukup menantang, gelak tawa dan kerja sama antara mahasiswa dan pemuda desa membuat suasana kerja bakti terasa ringan. Kertas, botol plastik, hingga limbah rumah tangga satu per satu diangkat dan dipilah dengan teliti hingga area yang tadinya kotor kembali bersih dan asri.</p>
+
+            <p>Perjuangan di lapangan berbuah manis. Tim KKN Kelompok 5 Kutakembaran berhasil mengumpulkan puluhan kantong sampah siap angkut. Kepuasan dan rasa bangga terpancar saat seluruh tim berfoto bersama di balik tumpukan kantong sampah hasil keringat gotong royong hari itu.</p>
+            
+            <p>Melalui cerita aksi nyata di Desa Kutakembaran ini, KKN Kelompok 5 berharap dapat menginspirasi warga desa untuk terus menjaga kebersihan lingkungan secara mandiri dan berkelanjutan.</p>
+        `,
+        date: '9 Agustus 2026',
+        imageUrl: '/assets/images/news/kkn-aksi-bersih-lingkungan-pandawara.jpeg',
+        category: NewsCategory.NEWS,
+        author: 'Sie PDD',
+        isFeatured: true,
+    },
 ];
