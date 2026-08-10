@@ -1647,16 +1647,16 @@ export const NEWS_DATA: News[] = [
 
 	{
 		id: '72',
-		title: 'Momen Haru Kunjungan Terakhir, KKN Kelompok 5 Sampaikan Pamitan dan Terima Kasih kepada Keluarga Besar SDN 1 Kutakembaran',
-		slug: 'kunjungan-terakhir-dan-perpisahan-kkn-kelompok-5-sdn-1-kutakembaran',
+		title: 'Kunjungan Silaturahmi dan Sosialisasi Agenda Akhir KKN, Kelompok 5 Sambangi Kepala Sekolah dan Dewan Guru SDN 1 Kutakembaran',
+		slug: 'kunjungan-silaturahmi-dan-sosialisasi-agenda-akhir-kkn-sdn-1-kutakembaran',
 		excerpt:
-			'Menjelang purna tugas pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 lakukan kunjungan terakhir sekaligus berpamitan dengan kepala sekolah dan dewan guru SDN 1 Kutakembaran...',
+			'Mendekati penghujung masa pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 lakukan kunjungan silaturahmi sekaligus sosialisasi agenda akhir KKN bersama keluarga besar SDN 1 Kutakembaran...',
 		content: `
-            <p>Mendekati penghujung masa pengabdian di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melakukan kunjungan silaturahmi terakhir ke <b>SDN 1 Kutakembaran</b> untuk berpamitan secara resmi kepada kepala sekolah dan seluruh dewan guru.</p>
+            <p>Mendekati penghujung masa pengabdian di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melakukan kunjungan silaturahmi ke <b>SDN 1 Kutakembaran</b> untuk menyampaikan sosialisasi terkait rangkaian agenda kegiatan akhir program KKN.</p>
             
-            <p>Pertemuan yang berlangsung penuh kehangatan dan rasa haru ini menjadi momen bagi mahasiswa KKN untuk menyampaikan apresiasi serta ucapan terima kasih atas bimbingan, ruang, dan kesempatan yang telah diberikan selama mendampingi kegiatan belajar mengajar siswa-siswi SDN 1 Kutakembaran.</p>
+            <p>Pertemuan yang berlangsung penuh kehangatan ini menjadi momen bagi mahasiswa KKN untuk berdiskusi bersama kepala sekolah dan dewan guru mengenai penutupan program pendampingan pendidikan, sekaligus menyampaikan apresiasi serta ucapan terima kasih atas ruang dan bimbingan yang diberikan selama ini.</p>
             
-            <p>Pihak sekolah pun turut memberikan pesan, doa, serta apresiasi atas kontribusi aktif mahasiswa selama bertugas. Momen perpisahan ini diakhiri dengan sesi foto bersama di halaman sekolah sebagai kenangan manis pengabdian yang tak terlupakan.</p>
+            <p>Pihak sekolah menyambut baik sosialisasi agenda akhir tersebut serta memberikan pesan, doa, dan dukungan agar seluruh rangkaian purna tugas mahasiswa KKN Kelompok 5 berjalan lancar. Momen pertemuan diakhiri dengan sesi foto bersama di halaman sekolah.</p>
             
             <p><i>"Terima kasih atas segala kebaikan, ilmu, dan kenangan indah yang diukir bersama. Ini bukanlah akhir dari silaturahmi, sampai jumpa di lain kesempatan. See you next time, SDN 1 Kutakembaran!"</i></p>
         `,
@@ -1668,22 +1668,44 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '73',
-        title: 'Momen Penuh Haru dan Ceria, KKN Kelompok 5 Tutup Kegiatan Bimbingan dengan Momen Perpisahan di SDN 2 Kutakembaran',
-        slug: 'momen-perpisahan-kkn-kelompok-5-sdn-2-kutakembaran',
-        excerpt:
-            'Diwarnai tawa dan haru, mahasiswa KKN Kolaboratif 2026 Kelompok 5 gelar momen perpisahan sekaligus pamitan bersama siswa-siswi SDN 2 Kutakembaran...',
-        content: `
-            <p>Rangkaian program pendampingan pendidikan mahasiswa KKN Kolaboratif 2026 Kelompok 5 di lingkungan sekolah dasar resmi berakhir. Momen perpisahan yang hangat dan penuh keharuan digelar bersama siswa-siswi di lapangan <b>SDN 2 Kutakembaran</b>.</p>
+		id: '73',
+		title: 'Gelar Sosialisasi Agenda Kegiatan Akhir KKN, Mahasiswa Kelompok 5 Sambangi Siswa dan Guru SDN 2 Kutakembaran',
+		slug: 'sosialisasi-agenda-kegiatan-akhir-kkn-sdn-2-kutakembaran',
+		excerpt:
+			'Diwarnai tawa dan kehangatan, mahasiswa KKN Kolaboratif 2026 Kelompok 5 lakukan kunjungan sosialisasi agenda kegiatan akhir KKN bersama siswa dan guru SDN 2 Kutakembaran...',
+		content: `
+            <p>Mendekati akhir periode program pendampingan di lingkungan sekolah dasar, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menggelar kunjungan sosialisasi mengenai rangkaian kegiatan purna tugas KKN di <b>SDN 2 Kutakembaran</b>.</p>
             
-            <p>Selama masa KKN, mahasiswa aktif terlibat memberikan bimbingan belajar, edukasi interaktif, serta kegiatan pendampingan karakter. Siswa-siswi tampak antusias berkumpul, melambaikan tangan, dan berfoto bersama kakak-kakak mahasiswa KKN di halaman sekolah yang terhias nuansa merah putih.</p>
+            <p>Selama masa KKN, mahasiswa aktif terlibat memberikan bimbingan belajar dan pendampingan karakter. Pada kunjungan ini, siswa-siswi tampak antusias berkumpul di lapangan sekolah yang terhias nuansa merah putih untuk menyimak informasi agenda penutupan serta berfoto bersama mahasiswa KKN.</p>
             
-            <p>Rasa terima kasih yang mendalam disampaikan oleh mahasiswa KKN atas keceriaan, semangat belajar, serta sambutan hangat dari seluruh siswa dan dewan guru SDN 2 Kutakembaran sepanjang masa pengabdian.</p>
+            <p>Rasa terima kasih yang mendalam disampaikan oleh mahasiswa KKN atas keceriaan, semangat belajar, serta kehangatan yang diberikan oleh seluruh siswa dan dewan guru SDN 2 Kutakembaran sepanjang masa pengabdian.</p>
             
             <p><i>"Terima kasih atas ukiran kenangan manis, tawa, dan keceriaan yang mewarnai hari-hari kami. Tetap semangat belajar dan raih cita-cita kalian tinggi-tinggi. Sampai jumpa di lain kesempatan, SDN 2 Kutakembaran!"</i></p>
         `,
+		date: '10 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-perpisahan-sdn-2-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+        id: '74',
+        title: 'Kunjungan Silaturahmi dan Sosialisasi Agenda Akhir KKN, Mahasiswa Kelompok 5 Sambangi RA Mathla\'ul Huda Kutakembaran',
+        slug: 'kunjungan-silaturahmi-dan-sosialisasi-agenda-akhir-kkn-ra-mathlaul-huda-kutakembaran',
+        excerpt:
+            'Diwarnai kehangatan dan senyum ceria anak-anak, mahasiswa KKN Kolaboratif 2026 Kelompok 5 laksanakan kunjungan silaturahmi dan sosialisasi agenda kegiatan akhir KKN di RA Mathla\'ul Huda...',
+        content: `
+            <p>Mendekati purna tugas pengabdian di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyambangi <b>RA (Raudhatul Athfal) Mathla'ul Huda Kutakembaran</b> untuk silaturahmi sekaligus menyampaikan sosialisasi terkait rangkaian agenda kegiatan akhir program KKN.</p>
+            
+            <p>Pertemuan yang berlangsung penuh kehangatan ini menjadi momen bagi mahasiswa KKN untuk berdiskusi bersama para pengajar dan pengelola lembaga mengenai penutupan program pendampingan pendidikan anak usia dini, sekaligus menyampaikan rasa terima kasih atas bimbingan dan kesempatan yang telah diberikan selama ini.</p>
+            
+            <p>Siswa-siswi beserta jajaran guru RA Mathla'ul Huda menyambut positif sosialisasi tersebut. Momen kebersamaan diakhiri dengan foto bersama di depan papan nama lembaga sebagai penanda eratnya tali silaturahmi yang telah terjalin.</p>
+            
+            <p><i>"Terima kasih atas kepolosan, tawa tulus, dan cerita indah yang diukir bersama adik-adik RA Mathla'ul Huda. Sampai jumpa di lain kesempatan!"</i></p>
+        `,
         date: '10 Agustus 2026',
-        imageUrl: '/assets/images/news/kkn-perpisahan-sdn-2-kutakembaran.jpeg',
+        imageUrl: '/assets/images/news/kkn-sosialisasi-agenda-akhir-ra-mathlaul-huda.jpeg',
         category: NewsCategory.NEWS,
         author: 'Sie PDD',
         isFeatured: false,
