@@ -1666,4 +1666,26 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+        id: '73',
+        title: 'Momen Penuh Haru dan Ceria, KKN Kelompok 5 Tutup Kegiatan Bimbingan dengan Momen Perpisahan di SDN 2 Kutakembaran',
+        slug: 'momen-perpisahan-kkn-kelompok-5-sdn-2-kutakembaran',
+        excerpt:
+            'Diwarnai tawa dan haru, mahasiswa KKN Kolaboratif 2026 Kelompok 5 gelar momen perpisahan sekaligus pamitan bersama siswa-siswi SDN 2 Kutakembaran...',
+        content: `
+            <p>Rangkaian program pendampingan pendidikan mahasiswa KKN Kolaboratif 2026 Kelompok 5 di lingkungan sekolah dasar resmi berakhir. Momen perpisahan yang hangat dan penuh keharuan digelar bersama siswa-siswi di lapangan <b>SDN 2 Kutakembaran</b>.</p>
+            
+            <p>Selama masa KKN, mahasiswa aktif terlibat memberikan bimbingan belajar, edukasi interaktif, serta kegiatan pendampingan karakter. Siswa-siswi tampak antusias berkumpul, melambaikan tangan, dan berfoto bersama kakak-kakak mahasiswa KKN di halaman sekolah yang terhias nuansa merah putih.</p>
+            
+            <p>Rasa terima kasih yang mendalam disampaikan oleh mahasiswa KKN atas keceriaan, semangat belajar, serta sambutan hangat dari seluruh siswa dan dewan guru SDN 2 Kutakembaran sepanjang masa pengabdian.</p>
+            
+            <p><i>"Terima kasih atas ukiran kenangan manis, tawa, dan keceriaan yang mewarnai hari-hari kami. Tetap semangat belajar dan raih cita-cita kalian tinggi-tinggi. Sampai jumpa di lain kesempatan, SDN 2 Kutakembaran!"</i></p>
+        `,
+        date: '10 Agustus 2026',
+        imageUrl: '/assets/images/news/kkn-perpisahan-sdn-2-kutakembaran.jpeg',
+        category: NewsCategory.NEWS,
+        author: 'Sie PDD',
+        isFeatured: false,
+    },
 ];

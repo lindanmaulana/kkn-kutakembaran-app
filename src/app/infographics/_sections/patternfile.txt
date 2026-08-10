@@ -1,0 +1,13 @@
+infographics/
+└── page.tsx
+
+components/
+└── infographics/
+    ├── InfographicsHeroSection
+    ├── VillageStatisticsSection
+    ├── VillageOverviewSection
+    ├── UMKMStatisticsSection
+    ├── KKNProgramsSection
+    ├── VillagePotentialSection
+    ├── KKNActivitiesSection
+    └── InfographicsCTASection

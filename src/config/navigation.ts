@@ -36,7 +36,7 @@ export const navbarLinks: navbarLinks[] = [
 	},
 	{
 		label: 'Info Grafis',
-		href: '/infographic',
+		href: '/infographics',
 	},
 	{
 		label: 'Juknis',
