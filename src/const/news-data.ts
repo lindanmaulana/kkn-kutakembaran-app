@@ -1690,12 +1690,12 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '74',
-        title: 'Kunjungan Silaturahmi dan Sosialisasi Agenda Akhir KKN, Mahasiswa Kelompok 5 Sambangi RA Mathla\'ul Huda Kutakembaran',
-        slug: 'kunjungan-silaturahmi-dan-sosialisasi-agenda-akhir-kkn-ra-mathlaul-huda-kutakembaran',
-        excerpt:
-            'Diwarnai kehangatan dan senyum ceria anak-anak, mahasiswa KKN Kolaboratif 2026 Kelompok 5 laksanakan kunjungan silaturahmi dan sosialisasi agenda kegiatan akhir KKN di RA Mathla\'ul Huda...',
-        content: `
+		id: '74',
+		title: "Kunjungan Silaturahmi dan Sosialisasi Agenda Akhir KKN, Mahasiswa Kelompok 5 Sambangi RA Mathla'ul Huda Kutakembaran",
+		slug: 'kunjungan-silaturahmi-dan-sosialisasi-agenda-akhir-kkn-ra-mathlaul-huda-kutakembaran',
+		excerpt:
+			"Diwarnai kehangatan dan senyum ceria anak-anak, mahasiswa KKN Kolaboratif 2026 Kelompok 5 laksanakan kunjungan silaturahmi dan sosialisasi agenda kegiatan akhir KKN di RA Mathla'ul Huda...",
+		content: `
             <p>Mendekati purna tugas pengabdian di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 menyambangi <b>RA (Raudhatul Athfal) Mathla'ul Huda Kutakembaran</b> untuk silaturahmi sekaligus menyampaikan sosialisasi terkait rangkaian agenda kegiatan akhir program KKN.</p>
             
             <p>Pertemuan yang berlangsung penuh kehangatan ini menjadi momen bagi mahasiswa KKN untuk berdiskusi bersama para pengajar dan pengelola lembaga mengenai penutupan program pendampingan pendidikan anak usia dini, sekaligus menyampaikan rasa terima kasih atas bimbingan dan kesempatan yang telah diberikan selama ini.</p>
@@ -1704,10 +1704,32 @@ export const NEWS_DATA: News[] = [
             
             <p><i>"Terima kasih atas kepolosan, tawa tulus, dan cerita indah yang diukir bersama adik-adik RA Mathla'ul Huda. Sampai jumpa di lain kesempatan!"</i></p>
         `,
-        date: '10 Agustus 2026',
-        imageUrl: '/assets/images/news/kkn-sosialisasi-agenda-akhir-ra-mathlaul-huda.jpeg',
-        category: NewsCategory.NEWS,
-        author: 'Sie PDD',
-        isFeatured: false,
-    },
+		date: '10 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-sosialisasi-agenda-akhir-ra-mathlaul-huda.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
+
+	{
+		id: '75',
+		title: 'Dukung Kesehatan Ibu dan Balita, Mahasiswa KKN Kelompok 5 Bantu Pelayanan Posyandu di Bale Desa Kutakembaran',
+		slug: 'mahasiswa-kkn-kelompok-5-bantu-pelayanan-posyandu-bale-desa-kutakembaran',
+		excerpt:
+			'Tingkatkan kualitas pelayanan kesehatan masyarakat, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berpartisipasi aktif membantu kader Posyandu dalam penimbangan dan pemantauan gizi balita di Bale Desa Kutakembaran...',
+		content: `
+            <p>Dalam rangka mendukung pemantauan tumbuh kembang anak serta pelayanan kesehatan masyarakat desa, mahasiswa KKN Kolaboratif 2026 Kelompok 5 berpartisipasi aktif membantu pelaksanaan kegiatan <b>Posyandu</b> yang diselenggarakan di Bale Desa Kutakembaran.</p>
+            
+            <p>Bersama para kader Posyandu dan PKK Desa Kutakembaran, mahasiswa KKN turut memfasilitasi jalannya pelayanan mulai dari pendaftaran ibu dan balita, penimbangan berat badan, pengukuran tinggi badan, hingga pencatatan berkala pada Kartu Menuju Sehat (KMS).</p>
+            
+            <p>Suasana pelayanan Posyandu di Bale Desa berlangsung ramah dan kondusif. Mahasiswa KKN juga memberikan pendampingan interaktif kepada para ibu balita seputar pentingnya menjaga pola makan bergizi seimbang serta imunisasi rutin untuk mencegah risiko <i>stunting</i> sejak dini.</p>
+            
+            <p>Melalui aksi nyata keterlibatan dalam kegiatan Posyandu ini, KKN Kelompok 5 berharap dapat memberikan kontribusi positif dalam menjaga kesehatan generasi penerus serta memperkuat sinergi dengan kader kesehatan Desa Kutakembaran.</p>
+        `,
+		date: '10 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-bantu-posyandu-bale-desa-kutakembaran.jpeg',
+		category: NewsCategory.VILLAGE,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
