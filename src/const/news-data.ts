@@ -1622,12 +1622,12 @@ export const NEWS_DATA: News[] = [
 	},
 
 	{
-        id: '71',
-        title: 'Cerita Aksi Bersih Sampah Serentak ala Pandawara: Perjuangan KKN Kelompok 5 Hijaukan Desa Kutakembaran',
-        slug: 'cerita-aksi-bersih-sampah-pandawara-kkn-kelompok-5-kutakembaran',
-        excerpt:
-            'Mengisi hari dengan aksi nyata, KKN Kelompok 5 Kutakembaran bagikan cerita di balik Aksi Bersih Sampah Serentak ala Pandawara hasil kesepakatan 5 desa...',
-        content: `
+		id: '71',
+		title: 'Cerita Aksi Bersih Sampah Serentak ala Pandawara: Perjuangan KKN Kelompok 5 Hijaukan Desa Kutakembaran',
+		slug: 'cerita-aksi-bersih-sampah-pandawara-kkn-kelompok-5-kutakembaran',
+		excerpt:
+			'Mengisi hari dengan aksi nyata, KKN Kelompok 5 Kutakembaran bagikan cerita di balik Aksi Bersih Sampah Serentak ala Pandawara hasil kesepakatan 5 desa...',
+		content: `
             <p>Gerakan kebersihan ini bermula dari kesepakatan bersama antara lima kelompok KKN Kolaboratif 2026 (Desa Kadatuan, Cirukem, Gewok, Pakembangan, dan Kutakembaran) untuk menggelar <b>Aksi Bersih Sampah Serentak</b> di wilayah desanya masing-masing. Berbekal semangat tersebut, tim KKN Kelompok 5 langsung menyusun strategi penanganan sampah khusus untuk wilayah Desa Kutakembaran.</p>
             
             <p>Sejak pagi hari, anggota KKN Kelompok 5 bersama pemuda dan warga setempat berkumpul membawa peralatan kebersihan dan tumpukan kantong plastik besar (<i>trash bag</i>). Dengan mengusung semangat ala "Pandawara Group", tim menyisir titik-titik rawan penumpukan sampah liar di sekitar jalan utama dan fasilitas umum desa.</p>
@@ -1638,10 +1638,32 @@ export const NEWS_DATA: News[] = [
             
             <p>Melalui cerita aksi nyata di Desa Kutakembaran ini, KKN Kelompok 5 berharap dapat menginspirasi warga desa untuk terus menjaga kebersihan lingkungan secara mandiri dan berkelanjutan.</p>
         `,
-        date: '9 Agustus 2026',
-        imageUrl: '/assets/images/news/kkn-aksi-bersih-lingkungan-pandawara.jpeg',
-        category: NewsCategory.NEWS,
-        author: 'Sie PDD',
-        isFeatured: true,
-    },
+		date: '9 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-aksi-bersih-lingkungan-pandawara.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
+
+	{
+		id: '72',
+		title: 'Momen Haru Kunjungan Terakhir, KKN Kelompok 5 Sampaikan Pamitan dan Terima Kasih kepada Keluarga Besar SDN 1 Kutakembaran',
+		slug: 'kunjungan-terakhir-dan-perpisahan-kkn-kelompok-5-sdn-1-kutakembaran',
+		excerpt:
+			'Menjelang purna tugas pengabdian, mahasiswa KKN Kolaboratif 2026 Kelompok 5 lakukan kunjungan terakhir sekaligus berpamitan dengan kepala sekolah dan dewan guru SDN 1 Kutakembaran...',
+		content: `
+            <p>Mendekati penghujung masa pengabdian di Desa Kutakembaran, mahasiswa KKN Kolaboratif 2026 Kelompok 5 melakukan kunjungan silaturahmi terakhir ke <b>SDN 1 Kutakembaran</b> untuk berpamitan secara resmi kepada kepala sekolah dan seluruh dewan guru.</p>
+            
+            <p>Pertemuan yang berlangsung penuh kehangatan dan rasa haru ini menjadi momen bagi mahasiswa KKN untuk menyampaikan apresiasi serta ucapan terima kasih atas bimbingan, ruang, dan kesempatan yang telah diberikan selama mendampingi kegiatan belajar mengajar siswa-siswi SDN 1 Kutakembaran.</p>
+            
+            <p>Pihak sekolah pun turut memberikan pesan, doa, serta apresiasi atas kontribusi aktif mahasiswa selama bertugas. Momen perpisahan ini diakhiri dengan sesi foto bersama di halaman sekolah sebagai kenangan manis pengabdian yang tak terlupakan.</p>
+            
+            <p><i>"Terima kasih atas segala kebaikan, ilmu, dan kenangan indah yang diukir bersama. Ini bukanlah akhir dari silaturahmi, sampai jumpa di lain kesempatan. See you next time, SDN 1 Kutakembaran!"</i></p>
+        `,
+		date: '10 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-perpisahan-sdn-1-kutakembaran.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: false,
+	},
 ];
