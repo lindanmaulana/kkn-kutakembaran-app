@@ -1,0 +1,12 @@
+app/
+└── kenangan/
+    └── page.tsx
+
+components/
+└── kenangan/
+    ├── MemoryHero.tsx
+    ├── AftermovieSection.tsx
+    ├── MemoryGallery.tsx
+    ├── JourneyTimeline.tsx
+    ├── ThankYouSection.tsx
+    └── ClosingSection.tsx

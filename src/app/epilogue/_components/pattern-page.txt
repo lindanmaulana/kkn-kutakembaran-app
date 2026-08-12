@@ -1,0 +1,29 @@
+Perpisahan / Kenangan
+│
+├── Hero Closing
+│   ├── Background foto/video
+│   ├── "Sampai Jumpa, Kuta Kembaran"
+│   └── subtitle
+│
+├── Aftermovie
+│   ├── Video besar
+│   └── Caption
+│
+├── Memory Gallery
+│   ├── Foto 1
+│   ├── Foto 2
+│   ├── Foto 3
+│   └── dst
+│
+├── Our Journey
+│   ├── Kedatangan
+│   ├── Berproses
+│   ├── Mengabdi
+│   └── Berpamitan
+│
+├── Thank You
+│
+└── Final Closing
+    ├── Logo
+    ├── "KKN Kolaboratif 2026"
+    └── "Sampai Jumpa di Cerita Berikutnya"

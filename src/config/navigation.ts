@@ -46,4 +46,9 @@ export const navbarLinks: navbarLinks[] = [
 		label: 'FAQ',
 		href: '/faq',
 	},
+
+	{
+		label: 'Epilog',
+		href: '/epilogue',
+	},
 ];
