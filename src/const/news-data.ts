@@ -1732,4 +1732,61 @@ export const NEWS_DATA: News[] = [
 		author: 'Sie PDD',
 		isFeatured: false,
 	},
+
+	{
+		id: '76',
+		title: 'Monev Serentak KKN Kolaboratif 2026: Kelompok 5 Paparkan Capaian Program Kerja Unggulan di Hadapan Bupati Kuningan',
+		slug: 'monev-serentak-kkn-kolaboratif-presentasi-proker-bupati-kuningan',
+		excerpt:
+			'Tunjukkan hasil pengabdian nyata, mahasiswa KKN Kolaboratif 2026 Kelompok 5 mempresentasikan laporan capaian program kerja unggulan dan pendukung dalam agenda Monitoring dan Evaluasi (Monev) Serentak di hadapan Bupati Kuningan...',
+		content: `
+            <p>Puncak evaluasi program pengabdian masyarakat KKN Kolaboratif 2026 ditandai dengan diselenggarakannya agenda <b>Monitoring dan Evaluasi (Monev) Serentak</b>. Dalam kesempatan istimewa ini, perwakilan mahasiswa KKN Kelompok 5 memaparkan laporan capaian program kerja secara langsung di hadapan <b>Bupati Kuningan</b>, pejabat pemerintah daerah, Camat, serta para Kepala Desa.</p>
+            
+            <p>Dalam presentasi tersebut, Kelompok 5 menyampaikan empat pilar fokus pengabdian di Desa Kutakembaran beserta capaian program unggulannya, meliputi:</p>
+            <ul>
+                <li><b>Pengelolaan Sampah:</b> Pelaksanaan Workshop 3R (praktik pembuatan <i>Eco-Enzyme</i>, <i>Paving Block</i> limbah plastik, dan lubang resapan <i>Biopori</i>) serta Aksi Bersih Sampah Serentak ala Pandawara.</li>
+                <li><b>Pencegahan Stunting:</b> Edukasi gizi balita dan penyusunan serta pembagian <i>Buku Saku MP-ASI</i> bagi para ibu balita dan kader kesehatan.</li>
+                <li><b>Peningkatan Ekonomi UMKM:</b> Identifikasi pendataan UMKM, Workshop Digitalisasi Usaha & Pembayaran QRIS, penyusunan Modul Literasi Keuangan, hingga peluncuran Website Pemasaran Digital Desa.</li>
+                <li><b>Penguatan Pendidikan & Hukum:</b> Edukasi PHBS (6 Langkah Cuci Tangan), sosialisasi Anti-Bullying, Seminar Sadar Hukum lingkungan, serta pendampingan mengajar di SD, PAUD, dan Madrasah.</li>
+            </ul>
+
+            <p>Selain program unggulan, dipaparkan pula keaktifan mahasiswa dalam program keagamaan dan sosial rutin seperti Maghrib Mengaji di Masjid Dusun Manis, Yasinan Malam Jumat, dan Senam Sehat rutin bersama warga.</p>
+            
+            <p>Bupati Kuningan beserta rombongan memberikan apresiasi atas kelengkapan program, inovasi modul digital, dan kolaborasi erat yang dibangun. Presentasi ditutup dengan penegasan komitmen keberlanjutan program: <i>"Perubahan yang berkelanjutan tidak lahir dari satu pihak, melainkan hasil kolaborasi erat antara mahasiswa, masyarakat, pemerintah desa, kecamatan, dan pemerintah daerah."</i></p>
+        `,
+		date: '10 Agustus 2026',
+		imageUrl: '/assets/images/news/kkn-monev-serentak-bupati-kuningan.jpeg',
+		category: NewsCategory.NEWS,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
+
+	{
+		id: '77',
+		title: 'Hadirilah Tabligh Akbar Memperingati Maulid Nabi & Penutupan KKN Kolaboratif Kelompok 5 Desa Kutakembaran',
+		slug: 'tabligh-akbar-maulid-nabi-dan-penutupan-kkn-kelompok-5-kutakembaran',
+		excerpt:
+			'Sambut purna tugas pengabdian dan Maulid Nabi Muhammad SAW, KKN Kolaboratif Kelompok 5 bekerja sama dengan Pemerintah Desa Kutakembaran menggelar Tabligh Akbar bersama Aan Anjasmara Hamzah, M.Pd.',
+		content: `
+        <p>Dalam rangka memperingati <b>Maulid Nabi Muhammad SAW</b> sekaligus menutup masa purna tugas pengabdian <b>KKN Kolaboratif Kelompok 5 Desa Kutakembaran</b>, kami mengundang seluruh warga Desa Kutakembaran dan sekitarnya untuk hadir dalam majelis ilmu dan doa bersama.</p>
+        
+        <p>Acara <b>Tabligh Akbar</b> ini mengusung tema <i>"Mempererat Ukhuwah Islamiyah, Menebar Manfaat, dan Mengakhiri Pengabdian dengan Keberkahan"</i>, yang akan diisi oleh penceramah <b>Aan Anjasmara Hamzah, M.Pd.</b></p>
+
+        <p><b>Detail Pelaksanaan Acara:</b></p>
+        <ul>
+            <li><b>Hari / Tanggal:</b> Jumat, 14 Agustus 2026</li>
+            <li><b>Waktu:</b> 19:30 WIB – Selesai</li>
+            <li><b>Lokasi:</b> Balai Desa Kutakembaran</li>
+            <li><b>Penceramah:</b> Aan Anjasmara Hamzah, M.Pd.</li>
+            <li><b>Sifat Acara:</b> Terbuka Untuk Umum</li>
+        </ul>
+
+        <p>Mari ajak sanak keluarga, tetangga, dan kerabat untuk hadir bersama menambah ilmu, mempererat silaturahmi, serta meraih keberkahan. Kegiatan ini diselenggarakan oleh KKN Kolaboratif Desa Kutakembaran bekerja sama dengan Pemerintah Desa Kutakembaran serta didukung oleh DT Peduli, AN Anugrah, Al-Ihya Peduli, Balé by BTN, myBCA, dan Mienum.</p>
+    `,
+		date: '12 Agustus 2026',
+		imageUrl: '/assets/images/news/tabligh-akbar-penutupan-kkn-kutakembaran.png',
+		category: NewsCategory.ANNOUNCEMENT,
+		author: 'Sie PDD',
+		isFeatured: true,
+	},
 ];
