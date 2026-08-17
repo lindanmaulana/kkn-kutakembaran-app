@@ -13,16 +13,19 @@ export const Header = () => {
 	const pathname = usePathname();
 	const [isOpen, setIsOpen] = useState(false);
 
-	const isHome = pathname === '/';
+	const isHome = pathname === '/' || pathname === '/epilogue';
+	const isEpilogue = pathname.startsWith('/epilogue');
 
 	return (
 		<header
 			className={cn(
-				' top-0 z-50 w-full py-4 px-4 sm:px-6 transition-all duration-300',
+				'top-0 left-0 z-50 w-full py-4 px-4 sm:px-6 transition-all duration-300',
+				isHome ? 'fixed' : 'sticky',
 				!isHome || scrolled
 					? 'bg-white/95 backdrop-blur-xl shadow-sm border-b border-gray-100/50'
 					: 'bg-transparent',
-				isHome ? 'fixed' : 'sticky',
+
+				isEpilogue ? 'bg-transparent' : '',
 			)}
 		>
 			<div className="max-w-7xl mx-auto">
@@ -41,6 +44,7 @@ export const Header = () => {
 							className={cn(
 								'flex flex-col font-bold transition-colors duration-300',
 								!isHome || scrolled ? 'text-kutakembaran-blue' : 'text-white',
+								isEpilogue && 'text-white',
 							)}
 						>
 							<span className="text-sm md:text-base leading-none">KKN Kolaboratif</span>

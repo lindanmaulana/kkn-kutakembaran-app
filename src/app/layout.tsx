@@ -1,11 +1,12 @@
 import { FloatingAction } from '@/components/elements/floating-action';
 import { Footer } from '@/components/elements/footer';
 import { Header } from '@/components/elements/header';
-import { TooltipProvider } from '@/components/ui/tooltip';
+import { Toaster } from '@/components/ui/toast';
 import { urbanist } from '@/config/fonts';
 import { cn } from '@/lib/utils';
 import type { Metadata } from 'next';
 import { Figtree } from 'next/font/google';
+import App from './app';
 import './globals.css';
 
 const figtree = Figtree({ subsets: ['latin'], variable: '--font-sans' });
@@ -86,7 +87,8 @@ export default function RootLayout({
 			<body className="min-h-full flex flex-col">
 				<Header />
 				<FloatingAction />
-				<TooltipProvider>{children}</TooltipProvider>
+				<Toaster  />
+				<App>{children}</App>
 				<Footer />
 			</body>
 		</html>

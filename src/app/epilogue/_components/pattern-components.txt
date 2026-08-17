@@ -8,5 +8,6 @@ components/
     ├── AftermovieSection.tsx
     ├── MemoryGallery.tsx
     ├── JourneyTimeline.tsx
+    ├── GuestBookSection.tsx
     ├── ThankYouSection.tsx
     └── ClosingSection.tsx
