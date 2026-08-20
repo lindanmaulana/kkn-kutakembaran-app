@@ -8,57 +8,6 @@ export interface Message {
 	value: string;
 }
 
-export const DUMMY_MESSAGES: Message[] = [
-	{
-		id: 'msg-1',
-		name: 'Rian (Kelas 5 SD)',
-		location: 'Dusun Kliwon',
-		value: 'Kakak-kakak makasih udah ngajarin aku matematika sama main bola di lapangan. Nanti kalau libur kuliah main ke desa lagi ya kak!',
-	},
-	{
-		id: 'msg-2',
-		name: 'Siti & Dinda',
-		location: 'Dusun Manis',
-		value: 'Kakak perempuan yang baik hati makasih bimbel mengaji dan tariannya. Nanti kita kangen bercanda sore-sore di posko.',
-	},
-	{
-		id: 'msg-3',
-		name: 'Pak RT Hendra',
-		location: 'RT 03 / RW 01',
-		value: 'Terima kasih adik-adik mahasiswa KKN atas program plang nama jalan dan bimbingan belajarnya. Semoga sukses studinya dan cepat lulus!',
-	},
-	{
-		id: 'msg-4',
-		name: 'Fajar',
-		location: 'Dusun Pahing',
-		value: 'Kak jangan lupa sama saya yang sering minta stiker pas les ya hehe. Sukses terus buat kakak-kakak!',
-	},
-	{
-		id: 'msg-5',
-		name: 'Bu Teti',
-		location: 'Kader Posyandu',
-		value: 'Hatur nuhun neng dan kang KKN sudah bantu kegiatan posyandu dan penyuluhan kesehatan. Baktinya sangat terasa untuk warga.',
-	},
-	{
-		id: 'msg-6',
-		name: 'Dimas (SMP Kelas 1)',
-		location: 'Dusun Wage',
-		value: 'Makasih kak udah ajarin cara bikin poster di canva sama bikin video. Sekarang tugas sekolahku dapet nilai bagus!',
-	},
-	{
-		id: 'msg-7',
-		name: 'Karang Taruna KutaKembaran',
-		location: 'Desa KutaKembaran',
-		value: 'Terima kasih kolaborasinya kawan-kawan mahasiswa di turnamen 17 Agustusan dan kerja bakti desa. Sampai jumpa di lain waktu, sukses selalu!',
-	},
-	{
-		id: 'msg-8',
-		name: 'Alya',
-		location: 'Dusun Puhun',
-		value: 'Kakak jangan lupain anak-anak desa ya! Makasih kenang-kenangannya dan hadiah lomba mewarnai kemarin.',
-	},
-];
-
 export const AfterMovieSection = () => {
 	return (
 		<section
@@ -90,7 +39,7 @@ export const AfterMovieSection = () => {
 				<div className="aspect-video w-full flex-1 overflow-hidden rounded-2xl bg-slate-950 border border-white/10 shadow-2xl">
 					<iframe
 						className="h-full w-full border-0"
-						src="https://www.youtube-nocookie.com/embed/vg99zKxiVyQ"
+						src="https://www.youtube.com/embed/knstnMGZDOY?si=iZF9uj5AdntDVrHb"
 						title="Dokumentasi Video Aftermovie KKN"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 						referrerPolicy="strict-origin-when-cross-origin"
